@@ -1,0 +1,47 @@
+"(E) Exposed Population"
+"(Er) Getting Exposed"
+"(fC) Contact Rate"
+"(fI) Infectivity"
+"(I) Infected Population"
+"(Ir) Becoming Infective"
+"(N) Total Population"
+"(R) Recovered Population"
+"(Rr) Recovering Rate"
+"(S) Susceptible Population"
+"(tInc) Average Time to Show Symptoms"
+"(tR) Average Time to Recovery"
+"(V) Vaccinated Population"
+"(Vr) Vaccination Rate"
+Average time to get vaccinated when infections are high
+Average time to get vaccinated when infections are low
+Average time to produce one vaccine unit
+Change in number infected
+Dropout Infected from Previous Week
+Dropout Vaccinated from Previous Month
+FINAL TIME
+Infected Population Previous Month
+Initial Infected Population
+Initial Susceptible Population
+INITIAL TIME
+Monthly Vaccinated
+Monthly Vaccinated Data
+Number of vaccine units needed to vaccinate
+Number of vaccines used per person
+Rate of monthly vaccinations
+Rate of Vaccine Production
+Rate of Vaccine Use
+Rate of weekly infections
+SAVEPER
+Switch every month
+Switch every week
+Time
+TIME STEP
+Time to change vaccination rate
+Time to Get Vaccinated
+Time to Get Vaccinated Smooth
+Vaccine Supply
+Vaccine units produced per infected person
+Weekly Infected
+Weekly Infected Data
+weightMonthlyVaccinated
+weightWeeklyInfected
