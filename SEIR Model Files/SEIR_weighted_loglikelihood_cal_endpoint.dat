@@ -1,0 +1,104 @@
+"(fC) Contact Rate"
+0 100
+"(fI) Infectivity"
+0 0.05
+"(tInc) Average Time to Show Symptoms"
+0 0.247571
+"(tR) Average Time to Recovery"
+0 0.25
+Average time to get vaccinated when infections are low
+0 2.00371
+Average time to get vaccinated when infections are high
+0 0.0174764
+weightWeeklyInfected
+0 0.0519914
+weightMonthlyVaccinated
+0 0.0519914
+Payoff
+0 90.7003
+Best_Payoff
+0 90.7003
+Simulations
+0 386
+"(fC) Contact Rate"
+1 15.4945
+"(fI) Infectivity"
+1 0.174348
+"(tInc) Average Time to Show Symptoms"
+1 0.673839
+"(tR) Average Time to Recovery"
+1 0.696247
+Average time to get vaccinated when infections are low
+1 0.01
+Average time to get vaccinated when infections are high
+1 0.00858162
+weightWeeklyInfected
+1 0.860694
+weightMonthlyVaccinated
+1 7.12377
+Payoff
+1 NA
+Simulations
+1 578
+"(fC) Contact Rate"
+2 16.237
+"(fI) Infectivity"
+2 0.296415
+"(tInc) Average Time to Show Symptoms"
+2 0.238792
+"(tR) Average Time to Recovery"
+2 0.260071
+Average time to get vaccinated when infections are low
+2 2.00579
+Average time to get vaccinated when infections are high
+2 0.0161391
+weightWeeklyInfected
+2 0.0500411
+weightMonthlyVaccinated
+2 0.0289818
+Payoff
+2 91.1756
+Best_Payoff
+2 91.1756
+Simulations
+2 1060
+"(fC) Contact Rate"
+3 150.815
+"(fI) Infectivity"
+3 0.019696
+"(tInc) Average Time to Show Symptoms"
+3 0.107469
+"(tR) Average Time to Recovery"
+3 0.426682
+Average time to get vaccinated when infections are low
+3 2.29364
+Average time to get vaccinated when infections are high
+3 0.0129421
+weightWeeklyInfected
+3 0.0443141
+weightMonthlyVaccinated
+3 0.183015
+Payoff
+3 83.2433
+Simulations
+3 2399
+"(fC) Contact Rate"
+4 10
+"(fI) Infectivity"
+4 0.286395
+"(tInc) Average Time to Show Symptoms"
+4 0.1
+"(tR) Average Time to Recovery"
+4 0.444248
+Average time to get vaccinated when infections are low
+4 2.77888
+Average time to get vaccinated when infections are high
+4 0.0100519
+weightWeeklyInfected
+4 0.044291
+weightMonthlyVaccinated
+4 0.139742
+Payoff
+4 84.6494
+Simulations
+4 3287

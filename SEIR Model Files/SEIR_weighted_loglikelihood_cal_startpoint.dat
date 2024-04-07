@@ -1,0 +1,92 @@
+"(fC) Contact Rate"
+0 100
+"(fI) Infectivity"
+0 0.05
+"(tInc) Average Time to Show Symptoms"
+0 0.25
+"(tR) Average Time to Recovery"
+0 0.25
+Average time to get vaccinated when infections are low
+0 2
+Average time to get vaccinated when infections are high
+0 0.0166667
+weightWeeklyInfected
+0 1
+weightMonthlyVaccinated
+0 1
+Payoff
+0 -0.0390424
+Best_Payoff
+0 -0.0390424
+"(fC) Contact Rate"
+1 325.866
+"(fI) Infectivity"
+1 0.334711
+"(tInc) Average Time to Show Symptoms"
+1 0.671671
+"(tR) Average Time to Recovery"
+1 0.704745
+Average time to get vaccinated when infections are low
+1 4.57734
+Average time to get vaccinated when infections are high
+1 0.671834
+weightWeeklyInfected
+1 99.9428
+weightMonthlyVaccinated
+1 34.1078
+Payoff
+1 -170.358
+"(fC) Contact Rate"
+2 713.391
+"(fI) Infectivity"
+2 0.239605
+"(tInc) Average Time to Show Symptoms"
+2 0.59789
+"(tR) Average Time to Recovery"
+2 0.331535
+Average time to get vaccinated when infections are low
+2 1.33853
+Average time to get vaccinated when infections are high
+2 0.517095
+weightWeeklyInfected
+2 87.66
+weightMonthlyVaccinated
+2 44.1801
+Payoff
+2 -158.211
+"(fC) Contact Rate"
+3 773.036
+"(fI) Infectivity"
+3 0.0186038
+"(tInc) Average Time to Show Symptoms"
+3 0.554198
+"(tR) Average Time to Recovery"
+3 0.973194
+Average time to get vaccinated when infections are low
+3 0.842384
+Average time to get vaccinated when infections are high
+3 1.33415
+weightWeeklyInfected
+3 53.6287
+weightMonthlyVaccinated
+3 20.5071
+Payoff
+3 -134.554
+"(fC) Contact Rate"
+4 152.823
+"(fI) Infectivity"
+4 0.430898
+"(tInc) Average Time to Show Symptoms"
+4 0.377374
+"(tR) Average Time to Recovery"
+4 0.807665
+Average time to get vaccinated when infections are low
+4 0.40257
+Average time to get vaccinated when infections are high
+4 1.24112
+weightWeeklyInfected
+4 51.7208
+weightMonthlyVaccinated
+4 97.5124
+Payoff
+4 -143.782

@@ -1,0 +1,238 @@
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 100.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.25.
+INFO:          "(tR) Average Time to Recovery" = 0.25.
+INFO:          Average time to get vaccinated when infections are low = 2.
+INFO:          Average time to get vaccinated when infections are high = 0.0166667.
+INFO:          weightWeeklyInfected = 1.
+INFO:          weightMonthlyVaccinated = 1.
+INFO:        Simulations = 1.
+INFO:        Optimizations = 1.
+INFO:        Pass = 0.
+INFO:        Payoff = -0.0390424.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 100.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.247571.
+INFO:          "(tR) Average Time to Recovery" = 0.25.
+INFO:          Average time to get vaccinated when infections are low = 2.00371.
+INFO:          Average time to get vaccinated when infections are high = 0.0174764.
+INFO:          weightWeeklyInfected = 0.0519914.
+INFO:         *weightMonthlyVaccinated = 0.0519914.
+INFO:        Simulations = 386.
+INFO:        Optimizations = 1.
+INFO:        Pass = 3.
+INFO:        Payoff = 90.7003.
+INFO:        ---------------------------------.
+INFO:        This Search                   	Pass 1      	Final       .
+INFO:        Simulations                   	189         	386         .
+INFO:        Iterations                    	5           	10          .
+INFO:         "(fC) Contact Rate"          	100         	100         .
+INFO:         "(fI) Infectivity"           	0.050000001 	0.050000001 .
+INFO:         "(tInc) Average Time to Show Symptoms"	0.24632171  	0.2475712   .
+INFO:         "(tR) Average Time to Recovery"	0.25        	0.25        .
+INFO:         Average time to get vaccinated when infections are low	2.0269756   	2.0037113   .
+INFO:         Average time to get vaccinated when infections are high	0.016666699 	0.017476429 .
+INFO:         weightWeeklyInfected         	0.051991355 	0.051991355 .
+INFO:         weightMonthlyVaccinated      	0.051991355 	0.051991355 .
+INFO:        Payoff                        	90.583071   	90.700253   .
+INFO:        ==============================.
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 325.866.
+INFO:          "(fI) Infectivity" = 0.334711.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.671671.
+INFO:          "(tR) Average Time to Recovery" = 0.704745.
+INFO:          Average time to get vaccinated when infections are low = 4.57734.
+INFO:          Average time to get vaccinated when infections are high = 0.671834.
+INFO:          weightWeeklyInfected = 99.9428.
+INFO:         *weightMonthlyVaccinated = 34.1078.
+INFO:        Simulations = 387.
+INFO:        Optimizations = 2.
+INFO:        Pass = 3.
+INFO:        Payoff = -170.358.
+INFO:        ---------------------------------.
+INFO:        Floating point error during optimization with.
+INFO:        ------------------.
+INFO:         *"(fC) Contact Rate" = 28.6415.
+INFO:         *"(fI) Infectivity" = 0.217964.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.664664.
+INFO:         *"(tR) Average Time to Recovery" = 0.660249.
+INFO:         *Average time to get vaccinated when infections are low = 0.01.
+INFO:         *Average time to get vaccinated when infections are high = 0.0841806.
+INFO:         *weightWeeklyInfected = 1.72039.
+INFO:         *weightMonthlyVaccinated = 2.44558.
+INFO:        ------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 100.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.247571.
+INFO:          "(tR) Average Time to Recovery" = 0.25.
+INFO:          Average time to get vaccinated when infections are low = 2.00371.
+INFO:          Average time to get vaccinated when infections are high = 0.0174764.
+INFO:          weightWeeklyInfected = 0.0519914.
+INFO:          weightMonthlyVaccinated = 0.0519914.
+INFO:        Simulations = 578.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 2.
+INFO:        Pass = 3.
+INFO:        Payoff = 90.7003.
+INFO:        ---------------------------------.
+INFO:        This Search                   	Pass 1      	Final       .
+INFO:        Simulations                   	524         	578         .
+INFO:        Iterations                    	3           	15          .
+INFO:         "(fC) Contact Rate"          	15.4945     	15.4945     .
+INFO:         "(fI) Infectivity"           	0.17434756  	0.17434756  .
+INFO:         "(tInc) Average Time to Show Symptoms"	0.67383853  	0.67383853  .
+INFO:         "(tR) Average Time to Recovery"	0.69624668  	0.69624668  .
+INFO:         Average time to get vaccinated when infections are low	0.01        	0.01        .
+INFO:         Average time to get vaccinated when infections are high	0.042590276 	0.0085816158.
+INFO:         weightWeeklyInfected         	0.86069381  	0.86069381  .
+INFO:         weightMonthlyVaccinated      	7.1237738   	7.1237738   .
+INFO:        Payoff                        	-6.1660082  	-6.0228203  .
+INFO:        ==============================.
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 713.391.
+INFO:          "(fI) Infectivity" = 0.239605.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.59789.
+INFO:          "(tR) Average Time to Recovery" = 0.331535.
+INFO:          Average time to get vaccinated when infections are low = 1.33853.
+INFO:          Average time to get vaccinated when infections are high = 0.517095.
+INFO:          weightWeeklyInfected = 87.66.
+INFO:          weightMonthlyVaccinated = 44.1801.
+INFO:        Simulations = 579.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 3.
+INFO:        Pass = 3.
+INFO:        Payoff = -158.211.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 16.237.
+INFO:          "(fI) Infectivity" = 0.296415.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.238792.
+INFO:          "(tR) Average Time to Recovery" = 0.260071.
+INFO:          Average time to get vaccinated when infections are low = 2.00579.
+INFO:          Average time to get vaccinated when infections are high = 0.0161391.
+INFO:          weightWeeklyInfected = 0.0500411.
+INFO:         *weightMonthlyVaccinated = 0.0289818.
+INFO:        Simulations = 1060.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 3.
+INFO:        Pass = 3.
+INFO:        Payoff = 91.1756.
+INFO:        ---------------------------------.
+INFO:        This Search                   	Pass 1      	Final       .
+INFO:        Simulations                   	983         	1060        .
+INFO:        Iterations                    	11          	28          .
+INFO:         "(fC) Contact Rate"          	16.237      	16.237      .
+INFO:         "(fI) Infectivity"           	0.29641539  	0.29641539  .
+INFO:         "(tInc) Average Time to Show Symptoms"	0.23879158  	0.23879158  .
+INFO:         "(tR) Average Time to Recovery"	0.26007141  	0.26007141  .
+INFO:         Average time to get vaccinated when infections are low	2.005785    	2.005785    .
+INFO:         Average time to get vaccinated when infections are high	0.016139111 	0.016139111 .
+INFO:         weightWeeklyInfected         	0.050041056 	0.050041056 .
+INFO:         weightMonthlyVaccinated      	0.028981778 	0.028981778 .
+INFO:        Payoff                        	91.175583   	91.175583   .
+INFO:        ==============================.
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 773.036.
+INFO:          "(fI) Infectivity" = 0.0186038.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.554198.
+INFO:          "(tR) Average Time to Recovery" = 0.973194.
+INFO:          Average time to get vaccinated when infections are low = 0.842384.
+INFO:          Average time to get vaccinated when infections are high = 1.33415.
+INFO:          weightWeeklyInfected = 53.6287.
+INFO:         *weightMonthlyVaccinated = 20.5071.
+INFO:        Simulations = 1061.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 4.
+INFO:        Pass = 3.
+INFO:        Payoff = -134.554.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:         *"(fC) Contact Rate" = 16.237.
+INFO:         *"(fI) Infectivity" = 0.296415.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.238792.
+INFO:         *"(tR) Average Time to Recovery" = 0.260071.
+INFO:         *Average time to get vaccinated when infections are low = 2.00579.
+INFO:         *Average time to get vaccinated when infections are high = 0.0161391.
+INFO:         *weightWeeklyInfected = 0.0500411.
+INFO:         *weightMonthlyVaccinated = 0.0289818.
+INFO:        Simulations = 2399.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 4.
+INFO:        Pass = 3.
+INFO:        Payoff = 91.1756.
+INFO:        ---------------------------------.
+INFO:        This Search                   	Pass 1      	Final       .
+INFO:        Simulations                   	1834        	2399        .
+INFO:        Iterations                    	18          	60          .
+INFO:         "(fC) Contact Rate"          	127.40083   	150.81496   .
+INFO:         "(fI) Infectivity"           	0.018846532 	0.019696026 .
+INFO:         "(tInc) Average Time to Show Symptoms"	0.49564356  	0.10746859  .
+INFO:         "(tR) Average Time to Recovery"	0.74789656  	0.42668168  .
+INFO:         Average time to get vaccinated when infections are low	1.958293    	2.2936399   .
+INFO:         Average time to get vaccinated when infections are high	0.006862448 	0.012942081 .
+INFO:         weightWeeklyInfected         	0.99267737  	0.044314111 .
+INFO:         weightMonthlyVaccinated      	0.049220983 	0.18301549  .
+INFO:        Payoff                        	14.068045   	83.243309   .
+INFO:        ==============================.
+INFO:        Initial point of search.
+INFO:         *"(fC) Contact Rate" = 152.823.
+INFO:         *"(fI) Infectivity" = 0.430898.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.377374.
+INFO:         *"(tR) Average Time to Recovery" = 0.807665.
+INFO:         *Average time to get vaccinated when infections are low = 0.40257.
+INFO:         *Average time to get vaccinated when infections are high = 1.24112.
+INFO:         *weightWeeklyInfected = 51.7208.
+INFO:         *weightMonthlyVaccinated = 97.5124.
+INFO:        Simulations = 2400.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 5.
+INFO:        Pass = 3.
+INFO:        Payoff = -143.782.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 16.237.
+INFO:          "(fI) Infectivity" = 0.296415.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.238792.
+INFO:          "(tR) Average Time to Recovery" = 0.260071.
+INFO:         *Average time to get vaccinated when infections are low = 2.00579.
+INFO:          Average time to get vaccinated when infections are high = 0.0161391.
+INFO:          weightWeeklyInfected = 0.0500411.
+INFO:          weightMonthlyVaccinated = 0.0289818.
+INFO:        Simulations = 3287.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 5.
+INFO:        Pass = 3.
+INFO:        Payoff = 91.1756.
+INFO:        ---------------------------------.
+INFO:        This Search                   	Pass 1      	Final       .
+INFO:        Simulations                   	2780        	3287        .
+INFO:        Iterations                    	10          	84          .
+INFO:         "(fC) Contact Rate"          	10          	10          .
+INFO:         "(fI) Infectivity"           	0.23657667  	0.28639509  .
+INFO:         "(tInc) Average Time to Show Symptoms"	0.1         	0.1         .
+INFO:         "(tR) Average Time to Recovery"	0.57505341  	0.44424791  .
+INFO:         Average time to get vaccinated when infections are low	3.1649861   	2.7788785   .
+INFO:         Average time to get vaccinated when infections are high	0.0041822096	0.010051875 .
+INFO:         weightWeeklyInfected         	0.10129045  	0.044291016 .
+INFO:         weightMonthlyVaccinated      	0.16674206  	0.13974233  .
+INFO:        Payoff                        	59.160355   	84.649434   .
+INFO:        ==============================.
+INFO:        Maximum of simulations/optimizations found at:.
+INFO:          "(fC) Contact Rate" = 16.237.
+INFO:          "(fI) Infectivity" = 0.296415.
+INFO:          "(tInc) Average Time to Show Symptoms" = 0.238792.
+INFO:          "(tR) Average Time to Recovery" = 0.260071.
+INFO:         *Average time to get vaccinated when infections are low = 2.00579.
+INFO:          Average time to get vaccinated when infections are high = 0.0161391.
+INFO:          weightWeeklyInfected = 0.0500411.
+INFO:          weightMonthlyVaccinated = 0.0289818.
+INFO:        Simulations = 3287.
+INFO:        NOTE 10 of the simulations caused floating point errors (first was reported).
+INFO:        Optimizations = 5.
+INFO:        Pass = 3.
+INFO:        Payoff = 91.1756.
+INFO:        ---------------------------------.

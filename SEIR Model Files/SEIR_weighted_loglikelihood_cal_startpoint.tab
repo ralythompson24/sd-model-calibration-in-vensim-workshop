@@ -1,0 +1,6 @@
+Start	Message	"(fC) Contact Rate"	"(fI) Infectivity"	"(tInc) Average Time to Show Symptoms"	"(tR) Average Time to Recovery"	Average time to get vaccinated when infections are low	Average time to get vaccinated when infections are high	weightWeeklyInfected	weightMonthlyVaccinated	PAYOFF	
+0	BEST	         100	        0.05	        0.25	        0.25	           2	   0.0166667	           1	           1	          -0.0390424	
+1	OK	     325.866	    0.334711	    0.671671	    0.704745	     4.57734	    0.671834	     99.9428	     34.1078	            -170.358	
+2	OK	     713.391	    0.239605	     0.59789	    0.331535	     1.33853	    0.517095	       87.66	     44.1801	            -158.211	
+3	OK	     773.036	   0.0186038	    0.554198	    0.973194	    0.842384	     1.33415	     53.6287	     20.5071	            -134.554	
+4	OK	     152.823	    0.430898	    0.377374	    0.807665	     0.40257	     1.24112	     51.7208	     97.5124	            -143.782	

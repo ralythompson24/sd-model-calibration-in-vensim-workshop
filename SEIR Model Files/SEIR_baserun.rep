@@ -1,0 +1,9 @@
+The payoff is -0.0390424
+The following are the components of the payoff:
+Type	Component	Contribution	Percent	Values	Params&Data	Used	Skipped	Source	RSquare	DW	Autocor1	Autocor2	Autocor3	Autocor4	(TimeGap)	RMSE	Um	Us	Uc	MAE	MAPE	MAEoM
+*CG	Weekly Infected|Weekly Infected Data/weightWeeklyInfected	-0.0331653	84.9471	-0.0331653	0	28	1	SEIR_caldata.xlsx	0.994356	1.26177	0.255846	0.367795	0.24816	-0.112487	0.25	1.89707	0.150061	0.219868	0.630072	1.21641	3.90248	3.51128
+*CG	Monthly Vaccinated|Monthly Vaccinated Data/weightMonthlyVaccinated	-0.00587703	15.0529	-0.00587703	0	7	1	SEIR_caldata.xlsx	0.997734	0.378473	0.646674	0.60812	0.394906	0.999998	1	1.32588	0.441364	0.469525	0.0891107	0.971875	3.41896	2.73218
+
+Sources for exogenous variables
+Monthly Vaccinated Data	SEIR_caldata.xlsx
+Weekly Infected Data	SEIR_caldata.xlsx

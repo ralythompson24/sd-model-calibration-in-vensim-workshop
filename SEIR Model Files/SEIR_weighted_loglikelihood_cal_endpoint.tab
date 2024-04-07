@@ -1,0 +1,6 @@
+Start	Message	"(fC) Contact Rate"	"(fI) Infectivity"	"(tInc) Average Time to Show Symptoms"	"(tR) Average Time to Recovery"	Average time to get vaccinated when infections are low	Average time to get vaccinated when infections are high	weightWeeklyInfected	weightMonthlyVaccinated	PAYOFF	Simulations
+0	BEST	         100	        0.05	    0.247571	        0.25	     2.00371	   0.0174764	   0.0519914	   0.0519914	             90.7003	386
+1	ERR	     15.4945	    0.174348	    0.673839	    0.696247	        0.01	  0.00858162	    0.860694	     7.12377	ERR	578
+2	BEST	      16.237	    0.296415	    0.238792	    0.260071	     2.00579	   0.0161391	   0.0500411	   0.0289818	             91.1756	1060
+3	OK	     150.815	    0.019696	    0.107469	    0.426682	     2.29364	   0.0129421	   0.0443141	    0.183015	             83.2433	2399
+4	OK	          10	    0.286395	         0.1	    0.444248	     2.77888	   0.0100519	    0.044291	    0.139742	             84.6494	3287
