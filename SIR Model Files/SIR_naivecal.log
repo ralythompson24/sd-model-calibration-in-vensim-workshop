@@ -1,0 +1,16 @@
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 100.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:          "(tR) Average Time to Recovery" = 0.25.
+INFO:        Simulations = 1.
+INFO:        Pass = 0.
+INFO:        Payoff = -340780.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 89.5846.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:         *"(tR) Average Time to Recovery" = 0.247636.
+INFO:        Simulations = 117.
+INFO:        Pass = 3.
+INFO:        Payoff = -4081.99.
+INFO:        ---------------------------------.
