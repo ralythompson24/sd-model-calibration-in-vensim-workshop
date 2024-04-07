@@ -1,0 +1,157 @@
+INFO:        Iteration 224.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.223214.
+INFO:        	Max PSRF 4.42353, 1/9 < 1.2.
+INFO:        Iteration 448.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.177419.
+INFO:        	Max PSRF 2.38854, 4/9 < 1.2.
+INFO:        Iteration 672.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.142857.
+INFO:        	Max PSRF 2.68298, 1/9 < 1.2.
+INFO:        Iteration 912.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.129673.
+INFO:        	Max PSRF 2.44697, 3/9 < 1.2.
+INFO:        Iteration 1168.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.103206.
+INFO:        	Max PSRF 3.17878, 2/9 < 1.2.
+INFO:        Iteration 1424.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0956938.
+INFO:        	Max PSRF 2.49624, 2/9 < 1.2.
+INFO:        Iteration 1696.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0976966.
+INFO:        	Max PSRF 2.06939, 4/9 < 1.2.
+INFO:        Iteration 1984.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0927583.
+INFO:        	Max PSRF 2.09245, 3/9 < 1.2.
+INFO:        Iteration 2288.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0875084.
+INFO:        	Max PSRF 2.01208, 2/9 < 1.2.
+INFO:        Iteration 2608.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0811117.
+INFO:        	Max PSRF 1.69745, 2/9 < 1.2.
+INFO:        Iteration 2944.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0771845.
+INFO:        	Max PSRF 1.5039, 2/9 < 1.2.
+INFO:        Iteration 3296.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0697279.
+INFO:        	Max PSRF 1.4809, 3/9 < 1.2.
+INFO:        Iteration 3664.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0698529.
+INFO:        	Max PSRF 1.38101, 4/9 < 1.2.
+INFO:        Iteration 4048.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0679768.
+INFO:        	Max PSRF 1.38301, 3/9 < 1.2.
+INFO:        Iteration 4464.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0630548.
+INFO:        	Max PSRF 1.8176, 4/9 < 1.2.
+INFO:        Iteration 4896.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0608212.
+INFO:        	Max PSRF 2.27361, 3/9 < 1.2.
+INFO:        Iteration 5344.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0567636.
+INFO:        	Max PSRF 2.094, 3/9 < 1.2.
+INFO:        Iteration 5824.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0550882.
+INFO:        	Max PSRF 1.92853, 3/9 < 1.2.
+INFO:        Iteration 6320.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0528582.
+INFO:        	Max PSRF 1.57988, 3/9 < 1.2.
+INFO:        Iteration 6848.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0516235.
+INFO:        	Max PSRF 1.56097, 6/9 < 1.2.
+INFO:        	Cross-match convergence P = 0.0109095.
+INFO:        Iteration 7392.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0503627.
+INFO:        	Max PSRF 1.52842, 6/9 < 1.2.
+INFO:        Iteration 7968.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0476948.
+INFO:        	Max PSRF 1.90405, 5/9 < 1.2.
+INFO:        Iteration 8576.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0468968.
+INFO:        	Max PSRF 1.8441, 6/9 < 1.2.
+INFO:        Iteration 9216.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0444604.
+INFO:        	Max PSRF 1.70288, 6/9 < 1.2.
+INFO:        Iteration 9888.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0421607.
+INFO:        	Max PSRF 1.37314, 6/9 < 1.2.
+INFO:        Iteration 10592.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0406873.
+INFO:        	Max PSRF 1.44477, 5/9 < 1.2.
+INFO:        Iteration 11344.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0384338.
+INFO:        	Max PSRF 1.37151, 5/9 < 1.2.
+INFO:        Iteration 12128.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0363456.
+INFO:        	Max PSRF 1.35142, 8/9 < 1.2.
+INFO:        Iteration 12944.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0341118.
+INFO:        	Max PSRF 1.45074, 7/9 < 1.2.
+INFO:        Iteration 13808.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0311289.
+INFO:        	Max PSRF 1.46583, 6/9 < 1.2.
+INFO:        	Cross-match convergence P = 3.05771e-06.
+INFO:        Iteration 14720.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0304727.
+INFO:        	Max PSRF 1.62434, 6/9 < 1.2.
+INFO:        Iteration 15680.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0295413.
+INFO:        	Max PSRF 2.47131, 5/9 < 1.2.
+INFO:        Iteration 16688.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.026968.
+INFO:        	Max PSRF 1.60889, 6/9 < 1.2.
+INFO:        Iteration 17744.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0253573.
+INFO:        	Max PSRF 1.37665, 4/9 < 1.2.
+INFO:        Iteration 18864.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0254185.
+INFO:        	Max PSRF 1.38229, 4/9 < 1.2.
+INFO:        Floating point error during optimization with.
+INFO:        ------------------.
+INFO:         *"(fC) Contact Rate" = 17.6599.
+INFO:         *"(fI) Infectivity" = 0.293163.
+INFO:         *"(tInc) Average Time to Show Symptoms" = 0.291089.
+INFO:         *"(tR) Average Time to Recovery" = 0.207812.
+INFO:         *Average time to get vaccinated when infections are low = 2.08292.
+INFO:         *Average time to get vaccinated when infections are high = 0.0149965.
+INFO:         *weightWeeklyInfected = 0.0190527.
+INFO:         *weightMonthlyVaccinated = 0.0524367.
+INFO:        ------------------.
+INFO:        Iteration 20000.
+INFO:        	Annealing temperature = 1.
+INFO:        	Acceptance Rate = 0.0112821.
+INFO:        	Max PSRF 16.0372, 0/9 < 1.2.

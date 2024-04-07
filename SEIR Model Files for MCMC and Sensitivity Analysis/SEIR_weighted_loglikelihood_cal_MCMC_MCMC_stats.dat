@@ -1,0 +1,6228 @@
+Best Payoff
+1 -91.175311
+Best Payoff
+144 -91.231789
+Improvement
+144 0.056477702
+Is_outlier[Chain_7]
+224 -66.044087
+Mean_accept_rt
+224 0.22321429
+Btw_chains_mean_"(fC) Contact Rate"
+224 16.231044
+Btw_chains_mean_"(fI) Infectivity"
+224 0.29647424
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+224 0.23872373
+Btw_chains_mean_"(tR) Average Time to Recovery"
+224 0.26007931
+Btw_chains_mean_Average time to get vaccinated when infections are low
+224 2.0056191
+Btw_chains_mean_Average time to get vaccinated when infections are high
+224 0.016186251
+Btw_chains_mean_weightWeeklyInfected
+224 0.056469326
+Btw_chains_mean_weightMonthlyVaccinated
+224 0.036833799
+Btw_chains_mean_Payoff
+224 84.923941
+Btw_chains_var_"(fC) Contact Rate"
+224 0.00038483166
+Btw_chains_var_"(fI) Infectivity"
+224 2.8647569e-08
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+224 5.5451135e-09
+Btw_chains_var_"(tR) Average Time to Recovery"
+224 9.7165143e-09
+Btw_chains_var_Average time to get vaccinated when infections are low
+224 1.7045735e-07
+Btw_chains_var_Average time to get vaccinated when infections are high
+224 1.7082119e-08
+Btw_chains_var_weightWeeklyInfected
+224 8.5076437e-05
+Btw_chains_var_weightMonthlyVaccinated
+224 7.9531256e-05
+Btw_chains_var_Payoff
+224 -6.6435199
+Wth_chains_mean_var_"(fC) Contact Rate"
+224 0.00068763853
+Wth_chains_mean_var_"(fI) Infectivity"
+224 8.3460741e-09
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+224 9.0591082e-09
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+224 7.1184103e-09
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+224 8.6698047e-07
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+224 5.0450924e-08
+Wth_chains_mean_var_weightWeeklyInfected
+224 3.4704871e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+224 4.9514644e-05
+Wth_chains_mean_var_Payoff
+224 -12.528463
+PSRF_"(fC) Contact Rate"
+224 1.5507138
+PSRF_"(fI) Infectivity"
+224 4.4235318
+PSRF_"(tInc) Average Time to Show Symptoms"
+224 1.6031751
+PSRF_"(tR) Average Time to Recovery"
+224 2.3560552
+PSRF_Average time to get vaccinated when infections are low
+224 1.1876818
+PSRF_Average time to get vaccinated when infections are high
+224 1.3296603
+PSRF_weightWeeklyInfected
+224 3.4424978
+PSRF_weightMonthlyVaccinated
+224 2.5972883
+PSRF_Payoff
+224 -1.5213455
+Accept_rt[Chain_0]
+224 0.071428571
+Accepted[Chain_0]
+224 1
+Rejected[Chain_0]
+224 13
+Accept_rt[Chain_1]
+224 0.28571429
+Accepted[Chain_1]
+224 4
+Rejected[Chain_1]
+224 10
+Accept_rt[Chain_2]
+224 0.35714286
+Accepted[Chain_2]
+224 5
+Rejected[Chain_2]
+224 9
+Accept_rt[Chain_3]
+224 0.28571429
+Accepted[Chain_3]
+224 4
+Rejected[Chain_3]
+224 10
+Accept_rt[Chain_4]
+224 0.14285714
+Accepted[Chain_4]
+224 2
+Rejected[Chain_4]
+224 12
+Accept_rt[Chain_5]
+224 0.42857143
+Accepted[Chain_5]
+224 6
+Rejected[Chain_5]
+224 8
+Accept_rt[Chain_6]
+224 0.21428571
+Accepted[Chain_6]
+224 3
+Rejected[Chain_6]
+224 11
+Accept_rt[Chain_7]
+224 0.21428571
+Accepted[Chain_7]
+224 3
+Rejected[Chain_7]
+224 11
+Accept_rt[Chain_8]
+224 0.21428571
+Accepted[Chain_8]
+224 3
+Rejected[Chain_8]
+224 11
+Accept_rt[Chain_9]
+224 0.14285714
+Accepted[Chain_9]
+224 2
+Rejected[Chain_9]
+224 12
+Accept_rt[Chain_10]
+224 0.14285714
+Accepted[Chain_10]
+224 2
+Rejected[Chain_10]
+224 12
+Accept_rt[Chain_11]
+224 0.21428571
+Accepted[Chain_11]
+224 3
+Rejected[Chain_11]
+224 11
+Accept_rt[Chain_12]
+224 0.071428571
+Accepted[Chain_12]
+224 1
+Rejected[Chain_12]
+224 13
+Accept_rt[Chain_13]
+224 0.21428571
+Accepted[Chain_13]
+224 3
+Rejected[Chain_13]
+224 11
+Accept_rt[Chain_14]
+224 0.35714286
+Accepted[Chain_14]
+224 5
+Rejected[Chain_14]
+224 9
+Accept_rt[Chain_15]
+224 0.21428571
+Accepted[Chain_15]
+224 3
+Rejected[Chain_15]
+224 11
+Best Payoff
+368 -91.485377
+Improvement
+368 0.25358785
+Mean_accept_rt
+448 0.17741935
+Btw_chains_mean_"(fC) Contact Rate"
+448 16.229935
+Btw_chains_mean_"(fI) Infectivity"
+448 0.29650072
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+448 0.23874865
+Btw_chains_mean_"(tR) Average Time to Recovery"
+448 0.26004952
+Btw_chains_mean_Average time to get vaccinated when infections are low
+448 2.0051943
+Btw_chains_mean_Average time to get vaccinated when infections are high
+448 0.016376608
+Btw_chains_mean_weightWeeklyInfected
+448 0.056764256
+Btw_chains_mean_weightMonthlyVaccinated
+448 0.042025269
+Btw_chains_mean_Payoff
+448 87.817586
+Btw_chains_var_"(fC) Contact Rate"
+448 8.6177308e-05
+Btw_chains_var_"(fI) Infectivity"
+448 2.9447637e-08
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+448 8.806253e-09
+Btw_chains_var_"(tR) Average Time to Recovery"
+448 4.3135396e-08
+Btw_chains_var_Average time to get vaccinated when infections are low
+448 8.9881264e-07
+Btw_chains_var_Average time to get vaccinated when infections are high
+448 3.3077336e-08
+Btw_chains_var_weightWeeklyInfected
+448 1.669597e-05
+Btw_chains_var_weightMonthlyVaccinated
+448 5.1531894e-05
+Btw_chains_var_Payoff
+448 -0.5613869
+Wth_chains_mean_var_"(fC) Contact Rate"
+448 0.00090828507
+Wth_chains_mean_var_"(fI) Infectivity"
+448 2.1137423e-08
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+448 1.3790179e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+448 3.4115632e-08
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+448 4.8303964e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+448 2.2559348e-07
+Wth_chains_mean_var_weightWeeklyInfected
+448 4.7653107e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+448 5.96299e-05
+Wth_chains_mean_var_Payoff
+448 -6.7607976
+PSRF_"(fC) Contact Rate"
+448 1.0902708
+PSRF_"(fI) Infectivity"
+448 2.3885434
+PSRF_"(tInc) Average Time to Show Symptoms"
+448 1.6339805
+PSRF_"(tR) Average Time to Recovery"
+448 2.2597797
+PSRF_Average time to get vaccinated when infections are low
+448 1.181466
+PSRF_Average time to get vaccinated when infections are high
+448 1.1420153
+PSRF_weightWeeklyInfected
+448 1.3457565
+PSRF_weightMonthlyVaccinated
+448 1.8595872
+PSRF_Payoff
+448 -1.0784273
+Accept_rt[Chain_0]
+448 0.071428571
+Accepted[Chain_0]
+448 2
+Rejected[Chain_0]
+448 26
+Accept_rt[Chain_1]
+448 0.17857143
+Accepted[Chain_1]
+448 5
+Rejected[Chain_1]
+448 23
+Accept_rt[Chain_2]
+448 0.21428571
+Accepted[Chain_2]
+448 6
+Rejected[Chain_2]
+448 22
+Accept_rt[Chain_3]
+448 0.14285714
+Accepted[Chain_3]
+448 4
+Rejected[Chain_3]
+448 24
+Accept_rt[Chain_4]
+448 0.14285714
+Accepted[Chain_4]
+448 4
+Rejected[Chain_4]
+448 24
+Accept_rt[Chain_5]
+448 0.25
+Accepted[Chain_5]
+448 7
+Rejected[Chain_5]
+448 21
+Accept_rt[Chain_6]
+448 0.17857143
+Accepted[Chain_6]
+448 5
+Rejected[Chain_6]
+448 23
+Accept_rt[Chain_7]
+448 0.14285714
+Accepted[Chain_7]
+448 2
+Rejected[Chain_7]
+448 12
+Accept_rt[Chain_8]
+448 0.21428571
+Accepted[Chain_8]
+448 6
+Rejected[Chain_8]
+448 22
+Accept_rt[Chain_9]
+448 0.21428571
+Accepted[Chain_9]
+448 6
+Rejected[Chain_9]
+448 22
+Accept_rt[Chain_10]
+448 0.071428571
+Accepted[Chain_10]
+448 2
+Rejected[Chain_10]
+448 26
+Accept_rt[Chain_11]
+448 0.17857143
+Accepted[Chain_11]
+448 5
+Rejected[Chain_11]
+448 23
+Accept_rt[Chain_12]
+448 0.17857143
+Accepted[Chain_12]
+448 5
+Rejected[Chain_12]
+448 23
+Accept_rt[Chain_13]
+448 0.17857143
+Accepted[Chain_13]
+448 5
+Rejected[Chain_13]
+448 23
+Accept_rt[Chain_14]
+448 0.28571429
+Accepted[Chain_14]
+448 8
+Rejected[Chain_14]
+448 20
+Accept_rt[Chain_15]
+448 0.17857143
+Accepted[Chain_15]
+448 5
+Rejected[Chain_15]
+448 23
+Is_outlier[Chain_8]
+672 -86.329787
+Mean_accept_rt
+672 0.14285714
+Btw_chains_mean_"(fC) Contact Rate"
+672 16.231892
+Btw_chains_mean_"(fI) Infectivity"
+672 0.29651614
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+672 0.23874629
+Btw_chains_mean_"(tR) Average Time to Recovery"
+672 0.25999339
+Btw_chains_mean_Average time to get vaccinated when infections are low
+672 2.0052881
+Btw_chains_mean_Average time to get vaccinated when infections are high
+672 0.016378761
+Btw_chains_mean_weightWeeklyInfected
+672 0.053360783
+Btw_chains_mean_weightMonthlyVaccinated
+672 0.04546953
+Btw_chains_mean_Payoff
+672 88.41068
+Btw_chains_var_"(fC) Contact Rate"
+672 0.00054540367
+Btw_chains_var_"(fI) Infectivity"
+672 5.9978475e-08
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+672 1.1279437e-08
+Btw_chains_var_"(tR) Average Time to Recovery"
+672 8.5017604e-08
+Btw_chains_var_Average time to get vaccinated when infections are low
+672 1.8616901e-06
+Btw_chains_var_Average time to get vaccinated when infections are high
+672 6.0257689e-08
+Btw_chains_var_weightWeeklyInfected
+672 1.1116899e-05
+Btw_chains_var_weightMonthlyVaccinated
+672 6.8147786e-05
+Btw_chains_var_Payoff
+672 -0.42293493
+Wth_chains_mean_var_"(fC) Contact Rate"
+672 0.00088165035
+Wth_chains_mean_var_"(fI) Infectivity"
+672 3.5574076e-08
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+672 1.8831667e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+672 6.3536904e-08
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+672 7.5563913e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+672 2.2226213e-07
+Wth_chains_mean_var_weightWeeklyInfected
+672 4.7460893e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+672 6.337876e-05
+Wth_chains_mean_var_Payoff
+672 -4.0173786
+PSRF_"(fC) Contact Rate"
+672 1.6155772
+PSRF_"(fI) Infectivity"
+672 2.6829769
+PSRF_"(tInc) Average Time to Show Symptoms"
+672 1.5959217
+PSRF_"(tR) Average Time to Recovery"
+672 2.3350428
+PSRF_Average time to get vaccinated when infections are low
+672 1.2433334
+PSRF_Average time to get vaccinated when infections are high
+672 1.2680714
+PSRF_weightWeeklyInfected
+672 1.2311933
+PSRF_weightMonthlyVaccinated
+672 2.0722069
+PSRF_Payoff
+672 -1.1022368
+Accept_rt[Chain_0]
+672 0.047619048
+Accepted[Chain_0]
+672 2
+Rejected[Chain_0]
+672 40
+Accept_rt[Chain_1]
+672 0.11904762
+Accepted[Chain_1]
+672 5
+Rejected[Chain_1]
+672 37
+Accept_rt[Chain_2]
+672 0.14285714
+Accepted[Chain_2]
+672 6
+Rejected[Chain_2]
+672 36
+Accept_rt[Chain_3]
+672 0.095238095
+Accepted[Chain_3]
+672 4
+Rejected[Chain_3]
+672 38
+Accept_rt[Chain_4]
+672 0.14285714
+Accepted[Chain_4]
+672 6
+Rejected[Chain_4]
+672 36
+Accept_rt[Chain_5]
+672 0.16666667
+Accepted[Chain_5]
+672 7
+Rejected[Chain_5]
+672 35
+Accept_rt[Chain_6]
+672 0.11904762
+Accepted[Chain_6]
+672 5
+Rejected[Chain_6]
+672 37
+Accept_rt[Chain_7]
+672 0.14285714
+Accepted[Chain_7]
+672 4
+Rejected[Chain_7]
+672 24
+Accept_rt[Chain_8]
+672 0.16666667
+Accepted[Chain_8]
+672 7
+Rejected[Chain_8]
+672 35
+Accept_rt[Chain_9]
+672 0.19047619
+Accepted[Chain_9]
+672 8
+Rejected[Chain_9]
+672 34
+Accept_rt[Chain_10]
+672 0.047619048
+Accepted[Chain_10]
+672 2
+Rejected[Chain_10]
+672 40
+Accept_rt[Chain_11]
+672 0.16666667
+Accepted[Chain_11]
+672 7
+Rejected[Chain_11]
+672 35
+Accept_rt[Chain_12]
+672 0.14285714
+Accepted[Chain_12]
+672 6
+Rejected[Chain_12]
+672 36
+Accept_rt[Chain_13]
+672 0.16666667
+Accepted[Chain_13]
+672 7
+Rejected[Chain_13]
+672 35
+Accept_rt[Chain_14]
+672 0.30952381
+Accepted[Chain_14]
+672 13
+Rejected[Chain_14]
+672 29
+Accept_rt[Chain_15]
+672 0.11904762
+Accepted[Chain_15]
+672 5
+Rejected[Chain_15]
+672 37
+Is_outlier[Chain_13]
+912 -84.41002
+Is_outlier[Chain_14]
+912 -85.574769
+Mean_accept_rt
+912 0.1296729
+Btw_chains_mean_"(fC) Contact Rate"
+912 16.231429
+Btw_chains_mean_"(fI) Infectivity"
+912 0.29656707
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+912 0.23873811
+Btw_chains_mean_"(tR) Average Time to Recovery"
+912 0.25995821
+Btw_chains_mean_Average time to get vaccinated when infections are low
+912 2.0045715
+Btw_chains_mean_Average time to get vaccinated when infections are high
+912 0.016410949
+Btw_chains_mean_weightWeeklyInfected
+912 0.052168178
+Btw_chains_mean_weightMonthlyVaccinated
+912 0.046454027
+Btw_chains_mean_Payoff
+912 89.035929
+Btw_chains_var_"(fC) Contact Rate"
+912 0.00071369125
+Btw_chains_var_"(fI) Infectivity"
+912 9.6228808e-08
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+912 1.5078088e-08
+Btw_chains_var_"(tR) Average Time to Recovery"
+912 5.3022808e-08
+Btw_chains_var_Average time to get vaccinated when infections are low
+912 6.3419863e-06
+Btw_chains_var_Average time to get vaccinated when infections are high
+912 3.0167769e-08
+Btw_chains_var_weightWeeklyInfected
+912 6.5126099e-06
+Btw_chains_var_weightMonthlyVaccinated
+912 5.3722344e-05
+Btw_chains_var_Payoff
+912 -0.37072752
+Wth_chains_mean_var_"(fC) Contact Rate"
+912 0.00070082042
+Wth_chains_mean_var_"(fI) Infectivity"
+912 6.6396682e-08
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+912 3.2615406e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+912 9.3308797e-08
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+912 1.2140994e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+912 1.9638819e-07
+Wth_chains_mean_var_weightWeeklyInfected
+912 4.1211491e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+912 6.8720084e-05
+Wth_chains_mean_var_Payoff
+912 -2.8147623
+PSRF_"(fC) Contact Rate"
+912 2.0160289
+PSRF_"(fI) Infectivity"
+912 2.446965
+PSRF_"(tInc) Average Time to Show Symptoms"
+912 1.4599631
+PSRF_"(tR) Average Time to Recovery"
+912 1.5659145
+PSRF_Average time to get vaccinated when infections are low
+912 1.5200249
+PSRF_Average time to get vaccinated when infections are high
+912 1.1512765
+PSRF_weightWeeklyInfected
+912 1.1556925
+PSRF_weightMonthlyVaccinated
+912 1.7794196
+PSRF_Payoff
+912 -1.1293718
+Accept_rt[Chain_0]
+912 0.070175439
+Accepted[Chain_0]
+912 4
+Rejected[Chain_0]
+912 53
+Accept_rt[Chain_1]
+912 0.12280702
+Accepted[Chain_1]
+912 7
+Rejected[Chain_1]
+912 50
+Accept_rt[Chain_2]
+912 0.12280702
+Accepted[Chain_2]
+912 7
+Rejected[Chain_2]
+912 50
+Accept_rt[Chain_3]
+912 0.087719298
+Accepted[Chain_3]
+912 5
+Rejected[Chain_3]
+912 52
+Accept_rt[Chain_4]
+912 0.10526316
+Accepted[Chain_4]
+912 6
+Rejected[Chain_4]
+912 51
+Accept_rt[Chain_5]
+912 0.14035088
+Accepted[Chain_5]
+912 8
+Rejected[Chain_5]
+912 49
+Accept_rt[Chain_6]
+912 0.12280702
+Accepted[Chain_6]
+912 7
+Rejected[Chain_6]
+912 50
+Accept_rt[Chain_7]
+912 0.13953488
+Accepted[Chain_7]
+912 6
+Rejected[Chain_7]
+912 37
+Accept_rt[Chain_8]
+912 0.13333333
+Accepted[Chain_8]
+912 2
+Rejected[Chain_8]
+912 13
+Accept_rt[Chain_9]
+912 0.15789474
+Accepted[Chain_9]
+912 9
+Rejected[Chain_9]
+912 48
+Accept_rt[Chain_10]
+912 0.052631579
+Accepted[Chain_10]
+912 3
+Rejected[Chain_10]
+912 54
+Accept_rt[Chain_11]
+912 0.12280702
+Accepted[Chain_11]
+912 7
+Rejected[Chain_11]
+912 50
+Accept_rt[Chain_12]
+912 0.12280702
+Accepted[Chain_12]
+912 7
+Rejected[Chain_12]
+912 50
+Accept_rt[Chain_13]
+912 0.15789474
+Accepted[Chain_13]
+912 9
+Rejected[Chain_13]
+912 48
+Accept_rt[Chain_14]
+912 0.29824561
+Accepted[Chain_14]
+912 17
+Rejected[Chain_14]
+912 40
+Accept_rt[Chain_15]
+912 0.12280702
+Accepted[Chain_15]
+912 7
+Rejected[Chain_15]
+912 50
+Mean_accept_rt
+1168 0.10320641
+Btw_chains_mean_"(fC) Contact Rate"
+1168 16.234303
+Btw_chains_mean_"(fI) Infectivity"
+1168 0.29660201
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+1168 0.23868304
+Btw_chains_mean_"(tR) Average Time to Recovery"
+1168 0.25989899
+Btw_chains_mean_Average time to get vaccinated when infections are low
+1168 2.0047324
+Btw_chains_mean_Average time to get vaccinated when infections are high
+1168 0.016553158
+Btw_chains_mean_weightWeeklyInfected
+1168 0.048967116
+Btw_chains_mean_weightMonthlyVaccinated
+1168 0.047183934
+Btw_chains_mean_Payoff
+1168 89.616943
+Btw_chains_var_"(fC) Contact Rate"
+1168 0.00071118623
+Btw_chains_var_"(fI) Infectivity"
+1168 1.3652576e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+1168 8.0193745e-09
+Btw_chains_var_"(tR) Average Time to Recovery"
+1168 4.5199623e-08
+Btw_chains_var_Average time to get vaccinated when infections are low
+1168 8.8227732e-06
+Btw_chains_var_Average time to get vaccinated when infections are high
+1168 4.57659e-08
+Btw_chains_var_weightWeeklyInfected
+1168 1.1018483e-06
+Btw_chains_var_weightMonthlyVaccinated
+1168 5.5407051e-05
+Btw_chains_var_Payoff
+1168 -0.011955818
+Wth_chains_mean_var_"(fC) Contact Rate"
+1168 0.00060027482
+Wth_chains_mean_var_"(fI) Infectivity"
+1168 6.2603935e-08
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+1168 2.4793445e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+1168 1.34967e-07
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+1168 1.4780051e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+1168 1.5808439e-07
+Wth_chains_mean_var_weightWeeklyInfected
+1168 3.4750846e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+1168 6.7440543e-05
+Wth_chains_mean_var_Payoff
+1168 -2.1709556
+PSRF_"(fC) Contact Rate"
+1168 2.1827637
+PSRF_"(fI) Infectivity"
+1168 3.1787816
+PSRF_"(tInc) Average Time to Show Symptoms"
+1168 1.3214434
+PSRF_"(tR) Average Time to Recovery"
+1168 1.3328899
+PSRF_Average time to get vaccinated when infections are low
+1168 1.5949339
+PSRF_Average time to get vaccinated when infections are high
+1168 1.287499
+PSRF_weightWeeklyInfected
+1168 1.0297031
+PSRF_weightMonthlyVaccinated
+1168 1.8195649
+PSRF_Payoff
+1168 -1.0035032
+Accept_rt[Chain_0]
+1168 0.068493151
+Accepted[Chain_0]
+1168 5
+Rejected[Chain_0]
+1168 68
+Accept_rt[Chain_1]
+1168 0.12328767
+Accepted[Chain_1]
+1168 9
+Rejected[Chain_1]
+1168 64
+Accept_rt[Chain_2]
+1168 0.095890411
+Accepted[Chain_2]
+1168 7
+Rejected[Chain_2]
+1168 66
+Accept_rt[Chain_3]
+1168 0.095890411
+Accepted[Chain_3]
+1168 7
+Rejected[Chain_3]
+1168 66
+Accept_rt[Chain_4]
+1168 0.082191781
+Accepted[Chain_4]
+1168 6
+Rejected[Chain_4]
+1168 67
+Accept_rt[Chain_5]
+1168 0.12328767
+Accepted[Chain_5]
+1168 9
+Rejected[Chain_5]
+1168 64
+Accept_rt[Chain_6]
+1168 0.12328767
+Accepted[Chain_6]
+1168 9
+Rejected[Chain_6]
+1168 64
+Accept_rt[Chain_7]
+1168 0.11864407
+Accepted[Chain_7]
+1168 7
+Rejected[Chain_7]
+1168 52
+Accept_rt[Chain_8]
+1168 0.16129032
+Accepted[Chain_8]
+1168 5
+Rejected[Chain_8]
+1168 26
+Accept_rt[Chain_9]
+1168 0.12328767
+Accepted[Chain_9]
+1168 9
+Rejected[Chain_9]
+1168 64
+Accept_rt[Chain_10]
+1168 0.054794521
+Accepted[Chain_10]
+1168 4
+Rejected[Chain_10]
+1168 69
+Accept_rt[Chain_11]
+1168 0.10958904
+Accepted[Chain_11]
+1168 8
+Rejected[Chain_11]
+1168 65
+Accept_rt[Chain_12]
+1168 0.10958904
+Accepted[Chain_12]
+1168 8
+Rejected[Chain_12]
+1168 65
+Accept_rt[Chain_13]
+1168 0.125
+Accepted[Chain_13]
+1168 2
+Rejected[Chain_13]
+1168 14
+Accept_rt[Chain_14]
+1168 0.0625
+Accepted[Chain_14]
+1168 1
+Rejected[Chain_14]
+1168 15
+Accept_rt[Chain_15]
+1168 0.095890411
+Accepted[Chain_15]
+1168 7
+Rejected[Chain_15]
+1168 66
+Is_outlier[Chain_1]
+1424 -87.616211
+Is_outlier[Chain_2]
+1424 -86.531511
+Is_outlier[Chain_3]
+1424 -87.993792
+Mean_accept_rt
+1424 0.09569378
+Btw_chains_mean_"(fC) Contact Rate"
+1424 16.235618
+Btw_chains_mean_"(fI) Infectivity"
+1424 0.29666984
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+1424 0.23866625
+Btw_chains_mean_"(tR) Average Time to Recovery"
+1424 0.25984533
+Btw_chains_mean_Average time to get vaccinated when infections are low
+1424 2.003862
+Btw_chains_mean_Average time to get vaccinated when infections are high
+1424 0.016542867
+Btw_chains_mean_weightWeeklyInfected
+1424 0.048494599
+Btw_chains_mean_weightMonthlyVaccinated
+1424 0.048642035
+Btw_chains_mean_Payoff
+1424 89.586766
+Btw_chains_var_"(fC) Contact Rate"
+1424 0.00082299196
+Btw_chains_var_"(fI) Infectivity"
+1424 1.861326e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+1424 6.3690492e-09
+Btw_chains_var_"(tR) Average Time to Recovery"
+1424 5.3225135e-08
+Btw_chains_var_Average time to get vaccinated when infections are low
+1424 1.0617293e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+1424 9.408524e-08
+Btw_chains_var_weightWeeklyInfected
+1424 1.5032241e-06
+Btw_chains_var_weightMonthlyVaccinated
+1424 4.7488268e-05
+Btw_chains_var_Payoff
+1424 -0.033879719
+Wth_chains_mean_var_"(fC) Contact Rate"
+1424 0.00055494988
+Wth_chains_mean_var_"(fI) Infectivity"
+1424 1.2426784e-07
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+1424 2.7173847e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+1424 2.5137705e-07
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+1424 2.7552239e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+1424 2.2602365e-07
+Wth_chains_mean_var_weightWeeklyInfected
+1424 2.806741e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+1424 6.8702203e-05
+Wth_chains_mean_var_Payoff
+1424 -1.6966508
+PSRF_"(fC) Contact Rate"
+1424 2.4814074
+PSRF_"(fI) Infectivity"
+1424 2.4962392
+PSRF_"(tInc) Average Time to Show Symptoms"
+1424 1.2327867
+PSRF_"(tR) Average Time to Recovery"
+1424 1.2101394
+PSRF_Average time to get vaccinated when infections are low
+1424 1.3837565
+PSRF_Average time to get vaccinated when infections are high
+1424 1.4146679
+PSRF_weightWeeklyInfected
+1424 1.0519627
+PSRF_weightMonthlyVaccinated
+1424 1.6896241
+PSRF_Payoff
+1424 -1.0183737
+Accept_rt[Chain_0]
+1424 0.056179775
+Accepted[Chain_0]
+1424 5
+Rejected[Chain_0]
+1424 84
+Accept_rt[Chain_1]
+1424 0.11235955
+Accepted[Chain_1]
+1424 10
+Rejected[Chain_1]
+1424 79
+Accept_rt[Chain_2]
+1424 0.1011236
+Accepted[Chain_2]
+1424 9
+Rejected[Chain_2]
+1424 80
+Accept_rt[Chain_3]
+1424 0.078651685
+Accepted[Chain_3]
+1424 7
+Rejected[Chain_3]
+1424 82
+Accept_rt[Chain_4]
+1424 0.06741573
+Accepted[Chain_4]
+1424 6
+Rejected[Chain_4]
+1424 83
+Accept_rt[Chain_5]
+1424 0.12359551
+Accepted[Chain_5]
+1424 11
+Rejected[Chain_5]
+1424 78
+Accept_rt[Chain_6]
+1424 0.1011236
+Accepted[Chain_6]
+1424 9
+Rejected[Chain_6]
+1424 80
+Accept_rt[Chain_7]
+1424 0.13333333
+Accepted[Chain_7]
+1424 10
+Rejected[Chain_7]
+1424 65
+Accept_rt[Chain_8]
+1424 0.17021277
+Accepted[Chain_8]
+1424 8
+Rejected[Chain_8]
+1424 39
+Accept_rt[Chain_9]
+1424 0.12359551
+Accepted[Chain_9]
+1424 11
+Rejected[Chain_9]
+1424 78
+Accept_rt[Chain_10]
+1424 0.056179775
+Accepted[Chain_10]
+1424 5
+Rejected[Chain_10]
+1424 84
+Accept_rt[Chain_11]
+1424 0.1011236
+Accepted[Chain_11]
+1424 9
+Rejected[Chain_11]
+1424 80
+Accept_rt[Chain_12]
+1424 0.08988764
+Accepted[Chain_12]
+1424 8
+Rejected[Chain_12]
+1424 81
+Accept_rt[Chain_13]
+1424 0.0625
+Accepted[Chain_13]
+1424 2
+Rejected[Chain_13]
+1424 30
+Accept_rt[Chain_14]
+1424 0.0625
+Accepted[Chain_14]
+1424 2
+Rejected[Chain_14]
+1424 30
+Accept_rt[Chain_15]
+1424 0.08988764
+Accepted[Chain_15]
+1424 8
+Rejected[Chain_15]
+1424 81
+Is_outlier[Chain_5]
+1696 -86.47808
+Is_outlier[Chain_6]
+1696 -86.794034
+Is_outlier[Chain_10]
+1696 -86.236469
+Mean_accept_rt
+1696 0.097696585
+Btw_chains_mean_"(fC) Contact Rate"
+1696 16.233848
+Btw_chains_mean_"(fI) Infectivity"
+1696 0.29670295
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+1696 0.23871383
+Btw_chains_mean_"(tR) Average Time to Recovery"
+1696 0.25991279
+Btw_chains_mean_Average time to get vaccinated when infections are low
+1696 2.0043757
+Btw_chains_mean_Average time to get vaccinated when infections are high
+1696 0.01646
+Btw_chains_mean_weightWeeklyInfected
+1696 0.048626616
+Btw_chains_mean_weightMonthlyVaccinated
+1696 0.046973772
+Btw_chains_mean_Payoff
+1696 89.756266
+Btw_chains_var_"(fC) Contact Rate"
+1696 0.0012874313
+Btw_chains_var_"(fI) Infectivity"
+1696 1.7917879e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+1696 2.1928337e-08
+Btw_chains_var_"(tR) Average Time to Recovery"
+1696 1.2029464e-07
+Btw_chains_var_Average time to get vaccinated when infections are low
+1696 5.7520046e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+1696 1.5061991e-07
+Btw_chains_var_weightWeeklyInfected
+1696 1.2736328e-06
+Btw_chains_var_weightMonthlyVaccinated
+1696 1.9404082e-05
+Btw_chains_var_Payoff
+1696 -0.0543921
+Wth_chains_mean_var_"(fC) Contact Rate"
+1696 0.0012021079
+Wth_chains_mean_var_"(fI) Infectivity"
+1696 3.096708e-07
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+1696 6.5522267e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+1696 6.9337588e-07
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+1696 0.0001823021
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+1696 2.3821968e-07
+Wth_chains_mean_var_weightWeeklyInfected
+1696 2.2790331e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+1696 9.7235407e-05
+Wth_chains_mean_var_Payoff
+1696 -1.1060427
+PSRF_"(fC) Contact Rate"
+1696 2.0693896
+PSRF_"(fI) Infectivity"
+1696 1.577022
+PSRF_"(tInc) Average Time to Show Symptoms"
+1696 1.3330814
+PSRF_"(tR) Average Time to Recovery"
+1696 1.1719027
+PSRF_Average time to get vaccinated when infections are low
+1696 1.3139319
+PSRF_Average time to get vaccinated when infections are high
+1696 1.6306846
+PSRF_weightWeeklyInfected
+1696 1.0542962
+PSRF_weightMonthlyVaccinated
+1696 1.1979692
+PSRF_Payoff
+1696 -1.0475887
+Accept_rt[Chain_0]
+1696 0.056603774
+Accepted[Chain_0]
+1696 6
+Rejected[Chain_0]
+1696 100
+Accept_rt[Chain_1]
+1696 0.058823529
+Accepted[Chain_1]
+1696 1
+Rejected[Chain_1]
+1696 16
+Accept_rt[Chain_2]
+1696 0.058823529
+Accepted[Chain_2]
+1696 1
+Rejected[Chain_2]
+1696 16
+Accept_rt[Chain_3]
+1696 0.17647059
+Accepted[Chain_3]
+1696 3
+Rejected[Chain_3]
+1696 14
+Accept_rt[Chain_4]
+1696 0.075471698
+Accepted[Chain_4]
+1696 8
+Rejected[Chain_4]
+1696 98
+Accept_rt[Chain_5]
+1696 0.13207547
+Accepted[Chain_5]
+1696 14
+Rejected[Chain_5]
+1696 92
+Accept_rt[Chain_6]
+1696 0.11320755
+Accepted[Chain_6]
+1696 12
+Rejected[Chain_6]
+1696 94
+Accept_rt[Chain_7]
+1696 0.13043478
+Accepted[Chain_7]
+1696 12
+Rejected[Chain_7]
+1696 80
+Accept_rt[Chain_8]
+1696 0.125
+Accepted[Chain_8]
+1696 8
+Rejected[Chain_8]
+1696 56
+Accept_rt[Chain_9]
+1696 0.11320755
+Accepted[Chain_9]
+1696 12
+Rejected[Chain_9]
+1696 94
+Accept_rt[Chain_10]
+1696 0.066037736
+Accepted[Chain_10]
+1696 7
+Rejected[Chain_10]
+1696 99
+Accept_rt[Chain_11]
+1696 0.094339623
+Accepted[Chain_11]
+1696 10
+Rejected[Chain_11]
+1696 96
+Accept_rt[Chain_12]
+1696 0.08490566
+Accepted[Chain_12]
+1696 9
+Rejected[Chain_12]
+1696 97
+Accept_rt[Chain_13]
+1696 0.081632653
+Accepted[Chain_13]
+1696 4
+Rejected[Chain_13]
+1696 45
+Accept_rt[Chain_14]
+1696 0.14285714
+Accepted[Chain_14]
+1696 7
+Rejected[Chain_14]
+1696 42
+Accept_rt[Chain_15]
+1696 0.08490566
+Accepted[Chain_15]
+1696 9
+Rejected[Chain_15]
+1696 97
+Best Payoff
+1920 -91.617153
+Improvement
+1920 0.13177571
+Is_outlier[Chain_5]
+1984 -87.658328
+Is_outlier[Chain_6]
+1984 -87.795023
+Mean_accept_rt
+1984 0.09275834
+Btw_chains_mean_"(fC) Contact Rate"
+1984 16.250879
+Btw_chains_mean_"(fI) Infectivity"
+1984 0.29661795
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+1984 0.238806
+Btw_chains_mean_"(tR) Average Time to Recovery"
+1984 0.25970504
+Btw_chains_mean_Average time to get vaccinated when infections are low
+1984 2.001322
+Btw_chains_mean_Average time to get vaccinated when infections are high
+1984 0.016468711
+Btw_chains_mean_weightWeeklyInfected
+1984 0.048865194
+Btw_chains_mean_weightMonthlyVaccinated
+1984 0.045368023
+Btw_chains_mean_Payoff
+1984 89.880623
+Btw_chains_var_"(fC) Contact Rate"
+1984 0.00077673033
+Btw_chains_var_"(fI) Infectivity"
+1984 2.4563301e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+1984 8.0423499e-08
+Btw_chains_var_"(tR) Average Time to Recovery"
+1984 1.8612294e-07
+Btw_chains_var_Average time to get vaccinated when infections are low
+1984 0.00012623849
+Btw_chains_var_Average time to get vaccinated when infections are high
+1984 2.0455123e-07
+Btw_chains_var_weightWeeklyInfected
+1984 2.1273591e-06
+Btw_chains_var_weightMonthlyVaccinated
+1984 3.903198e-05
+Btw_chains_var_Payoff
+1984 -0.11162392
+Wth_chains_mean_var_"(fC) Contact Rate"
+1984 0.0014997013
+Wth_chains_mean_var_"(fI) Infectivity"
+1984 5.2147535e-07
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+1984 7.3508314e-08
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+1984 1.0489438e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+1984 0.00021941416
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+1984 1.9557587e-07
+Wth_chains_mean_var_weightWeeklyInfected
+1984 2.0895941e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+1984 4.9632492e-05
+Wth_chains_mean_var_Payoff
+1984 -0.60460076
+PSRF_"(fC) Contact Rate"
+1984 1.516296
+PSRF_"(fI) Infectivity"
+1984 1.4694074
+PSRF_"(tInc) Average Time to Show Symptoms"
+1984 2.0924462
+PSRF_"(tR) Average Time to Recovery"
+1984 1.1758111
+PSRF_Average time to get vaccinated when infections are low
+1984 1.5737161
+PSRF_Average time to get vaccinated when infections are high
+1984 2.0442646
+PSRF_weightWeeklyInfected
+1984 1.1001799
+PSRF_weightMonthlyVaccinated
+1984 1.7847926
+PSRF_Payoff
+1984 -1.1829968
+Accept_rt[Chain_0]
+1984 0.048387097
+Accepted[Chain_0]
+1984 6
+Rejected[Chain_0]
+1984 118
+Accept_rt[Chain_1]
+1984 0.14285714
+Accepted[Chain_1]
+1984 5
+Rejected[Chain_1]
+1984 30
+Accept_rt[Chain_2]
+1984 0.057142857
+Accepted[Chain_2]
+1984 2
+Rejected[Chain_2]
+1984 33
+Accept_rt[Chain_3]
+1984 0.17142857
+Accepted[Chain_3]
+1984 6
+Rejected[Chain_3]
+1984 29
+Accept_rt[Chain_4]
+1984 0.072580645
+Accepted[Chain_4]
+1984 9
+Rejected[Chain_4]
+1984 115
+Accept_rt[Chain_5]
+1984 0.16666667
+Accepted[Chain_5]
+1984 3
+Rejected[Chain_5]
+1984 15
+Accept_rt[Chain_6]
+1984 0.16666667
+Accepted[Chain_6]
+1984 3
+Rejected[Chain_6]
+1984 15
+Accept_rt[Chain_7]
+1984 0.11818182
+Accepted[Chain_7]
+1984 13
+Rejected[Chain_7]
+1984 97
+Accept_rt[Chain_8]
+1984 0.097560976
+Accepted[Chain_8]
+1984 8
+Rejected[Chain_8]
+1984 74
+Accept_rt[Chain_9]
+1984 0.10483871
+Accepted[Chain_9]
+1984 13
+Rejected[Chain_9]
+1984 111
+Accept_rt[Chain_10]
+1984 0.055555556
+Accepted[Chain_10]
+1984 1
+Rejected[Chain_10]
+1984 17
+Accept_rt[Chain_11]
+1984 0.096774194
+Accepted[Chain_11]
+1984 12
+Rejected[Chain_11]
+1984 112
+Accept_rt[Chain_12]
+1984 0.088709677
+Accepted[Chain_12]
+1984 11
+Rejected[Chain_12]
+1984 113
+Accept_rt[Chain_13]
+1984 0.089552239
+Accepted[Chain_13]
+1984 6
+Rejected[Chain_13]
+1984 61
+Accept_rt[Chain_14]
+1984 0.10447761
+Accepted[Chain_14]
+1984 7
+Rejected[Chain_14]
+1984 60
+Accept_rt[Chain_15]
+1984 0.072580645
+Accepted[Chain_15]
+1984 9
+Rejected[Chain_15]
+1984 115
+Is_outlier[Chain_2]
+2288 -86.334975
+Mean_accept_rt
+2288 0.08750835
+Btw_chains_mean_"(fC) Contact Rate"
+2288 16.258419
+Btw_chains_mean_"(fI) Infectivity"
+2288 0.29656418
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+2288 0.23895526
+Btw_chains_mean_"(tR) Average Time to Recovery"
+2288 0.25962413
+Btw_chains_mean_Average time to get vaccinated when infections are low
+2288 2.0013386
+Btw_chains_mean_Average time to get vaccinated when infections are high
+2288 0.016501083
+Btw_chains_mean_weightWeeklyInfected
+2288 0.048691322
+Btw_chains_mean_weightMonthlyVaccinated
+2288 0.046096782
+Btw_chains_mean_Payoff
+2288 89.840511
+Btw_chains_var_"(fC) Contact Rate"
+2288 0.0017717025
+Btw_chains_var_"(fI) Infectivity"
+2288 2.1934988e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+2288 1.6747972e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+2288 8.634053e-07
+Btw_chains_var_Average time to get vaccinated when infections are low
+2288 0.00017246693
+Btw_chains_var_Average time to get vaccinated when infections are high
+2288 1.6442661e-07
+Btw_chains_var_weightWeeklyInfected
+2288 3.6666451e-06
+Btw_chains_var_weightMonthlyVaccinated
+2288 3.4065238e-05
+Btw_chains_var_Payoff
+2288 -0.056943398
+Wth_chains_mean_var_"(fC) Contact Rate"
+2288 0.0022726578
+Wth_chains_mean_var_"(fI) Infectivity"
+2288 9.1893641e-07
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+2288 1.6526329e-07
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+2288 1.9171391e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+2288 0.0003142702
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+2288 2.1813218e-07
+Wth_chains_mean_var_weightWeeklyInfected
+2288 2.1380398e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+2288 5.8245948e-05
+Wth_chains_mean_var_Payoff
+2288 -0.86012323
+PSRF_"(fC) Contact Rate"
+2288 1.7782369
+PSRF_"(fI) Infectivity"
+2288 1.2373637
+PSRF_"(tInc) Average Time to Show Symptoms"
+2288 2.0120755
+PSRF_"(tR) Average Time to Recovery"
+2288 1.4490253
+PSRF_Average time to get vaccinated when infections are low
+2288 1.5474495
+PSRF_Average time to get vaccinated when infections are high
+2288 1.7524574
+PSRF_weightWeeklyInfected
+2288 1.1701596
+PSRF_weightMonthlyVaccinated
+2288 1.5835156
+PSRF_Payoff
+2288 -1.0648678
+Accept_rt[Chain_0]
+2288 0.055944056
+Accepted[Chain_0]
+2288 8
+Rejected[Chain_0]
+2288 135
+Accept_rt[Chain_1]
+2288 0.11111111
+Accepted[Chain_1]
+2288 6
+Rejected[Chain_1]
+2288 48
+Accept_rt[Chain_2]
+2288 0.092592593
+Accepted[Chain_2]
+2288 5
+Rejected[Chain_2]
+2288 49
+Accept_rt[Chain_3]
+2288 0.14814815
+Accepted[Chain_3]
+2288 8
+Rejected[Chain_3]
+2288 46
+Accept_rt[Chain_4]
+2288 0.062937063
+Accepted[Chain_4]
+2288 9
+Rejected[Chain_4]
+2288 134
+Accept_rt[Chain_5]
+2288 0.21052632
+Accepted[Chain_5]
+2288 4
+Rejected[Chain_5]
+2288 15
+Accept_rt[Chain_6]
+2288 0.052631579
+Accepted[Chain_6]
+2288 1
+Rejected[Chain_6]
+2288 18
+Accept_rt[Chain_7]
+2288 0.10852713
+Accepted[Chain_7]
+2288 14
+Rejected[Chain_7]
+2288 115
+Accept_rt[Chain_8]
+2288 0.089108911
+Accepted[Chain_8]
+2288 9
+Rejected[Chain_8]
+2288 92
+Accept_rt[Chain_9]
+2288 0.1048951
+Accepted[Chain_9]
+2288 15
+Rejected[Chain_9]
+2288 128
+Accept_rt[Chain_10]
+2288 0.027027027
+Accepted[Chain_10]
+2288 1
+Rejected[Chain_10]
+2288 36
+Accept_rt[Chain_11]
+2288 0.11188811
+Accepted[Chain_11]
+2288 16
+Rejected[Chain_11]
+2288 127
+Accept_rt[Chain_12]
+2288 0.076923077
+Accepted[Chain_12]
+2288 11
+Rejected[Chain_12]
+2288 132
+Accept_rt[Chain_13]
+2288 0.081395349
+Accepted[Chain_13]
+2288 7
+Rejected[Chain_13]
+2288 79
+Accept_rt[Chain_14]
+2288 0.081395349
+Accepted[Chain_14]
+2288 7
+Rejected[Chain_14]
+2288 79
+Accept_rt[Chain_15]
+2288 0.06993007
+Accepted[Chain_15]
+2288 10
+Rejected[Chain_15]
+2288 133
+Is_outlier[Chain_6]
+2608 -82.428165
+Mean_accept_rt
+2608 0.081111741
+Btw_chains_mean_"(fC) Contact Rate"
+2608 16.263911
+Btw_chains_mean_"(fI) Infectivity"
+2608 0.2965761
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+2608 0.23919154
+Btw_chains_mean_"(tR) Average Time to Recovery"
+2608 0.25955146
+Btw_chains_mean_Average time to get vaccinated when infections are low
+2608 2.0056224
+Btw_chains_mean_Average time to get vaccinated when infections are high
+2608 0.016557963
+Btw_chains_mean_weightWeeklyInfected
+2608 0.049331213
+Btw_chains_mean_weightMonthlyVaccinated
+2608 0.04572998
+Btw_chains_mean_Payoff
+2608 89.758752
+Btw_chains_var_"(fC) Contact Rate"
+2608 0.0021667124
+Btw_chains_var_"(fI) Infectivity"
+2608 6.9496906e-07
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+2608 3.3947612e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+2608 1.4151224e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+2608 0.00014934267
+Btw_chains_var_Average time to get vaccinated when infections are high
+2608 1.4185169e-07
+Btw_chains_var_weightWeeklyInfected
+2608 2.7036813e-06
+Btw_chains_var_weightMonthlyVaccinated
+2608 3.2006372e-05
+Btw_chains_var_Payoff
+2608 -0.024771637
+Wth_chains_mean_var_"(fC) Contact Rate"
+2608 0.0046251918
+Wth_chains_mean_var_"(fI) Infectivity"
+2608 1.031073e-06
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+2608 4.8594986e-07
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+2608 2.3971882e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+2608 0.00032431222
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+2608 2.1105422e-07
+Wth_chains_mean_var_weightWeeklyInfected
+2608 2.4457285e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+2608 5.8338727e-05
+Wth_chains_mean_var_Payoff
+2608 -0.87320974
+PSRF_"(fC) Contact Rate"
+2608 1.4673245
+PSRF_"(fI) Infectivity"
+2608 1.6728906
+PSRF_"(tInc) Average Time to Show Symptoms"
+2608 1.6974482
+PSRF_"(tR) Average Time to Recovery"
+2608 1.5891915
+PSRF_Average time to get vaccinated when infections are low
+2608 1.459356
+PSRF_Average time to get vaccinated when infections are high
+2608 1.6709758
+PSRF_weightWeeklyInfected
+2608 1.1094126
+PSRF_weightMonthlyVaccinated
+2608 1.5474955
+PSRF_Payoff
+2608 -1.0272341
+Accept_rt[Chain_0]
+2608 0.049079755
+Accepted[Chain_0]
+2608 8
+Rejected[Chain_0]
+2608 155
+Accept_rt[Chain_1]
+2608 0.12162162
+Accepted[Chain_1]
+2608 9
+Rejected[Chain_1]
+2608 65
+Accept_rt[Chain_2]
+2608 0.15
+Accepted[Chain_2]
+2608 3
+Rejected[Chain_2]
+2608 17
+Accept_rt[Chain_3]
+2608 0.13513514
+Accepted[Chain_3]
+2608 10
+Rejected[Chain_3]
+2608 64
+Accept_rt[Chain_4]
+2608 0.061349693
+Accepted[Chain_4]
+2608 10
+Rejected[Chain_4]
+2608 153
+Accept_rt[Chain_5]
+2608 0.15384615
+Accepted[Chain_5]
+2608 6
+Rejected[Chain_5]
+2608 33
+Accept_rt[Chain_6]
+2608 0.076923077
+Accepted[Chain_6]
+2608 3
+Rejected[Chain_6]
+2608 36
+Accept_rt[Chain_7]
+2608 0.093959732
+Accepted[Chain_7]
+2608 14
+Rejected[Chain_7]
+2608 135
+Accept_rt[Chain_8]
+2608 0.090909091
+Accepted[Chain_8]
+2608 11
+Rejected[Chain_8]
+2608 110
+Accept_rt[Chain_9]
+2608 0.09202454
+Accepted[Chain_9]
+2608 15
+Rejected[Chain_9]
+2608 148
+Accept_rt[Chain_10]
+2608 0.01754386
+Accepted[Chain_10]
+2608 1
+Rejected[Chain_10]
+2608 56
+Accept_rt[Chain_11]
+2608 0.10429448
+Accepted[Chain_11]
+2608 17
+Rejected[Chain_11]
+2608 146
+Accept_rt[Chain_12]
+2608 0.073619632
+Accepted[Chain_12]
+2608 12
+Rejected[Chain_12]
+2608 151
+Accept_rt[Chain_13]
+2608 0.066037736
+Accepted[Chain_13]
+2608 7
+Rejected[Chain_13]
+2608 99
+Accept_rt[Chain_14]
+2608 0.066037736
+Accepted[Chain_14]
+2608 7
+Rejected[Chain_14]
+2608 99
+Accept_rt[Chain_15]
+2608 0.061349693
+Accepted[Chain_15]
+2608 10
+Rejected[Chain_15]
+2608 153
+Is_outlier[Chain_5]
+2944 -86.415084
+Mean_accept_rt
+2944 0.077184466
+Btw_chains_mean_"(fC) Contact Rate"
+2944 16.281769
+Btw_chains_mean_"(fI) Infectivity"
+2944 0.29649901
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+2944 0.23944091
+Btw_chains_mean_"(tR) Average Time to Recovery"
+2944 0.25933111
+Btw_chains_mean_Average time to get vaccinated when infections are low
+2944 2.0055147
+Btw_chains_mean_Average time to get vaccinated when infections are high
+2944 0.016611613
+Btw_chains_mean_weightWeeklyInfected
+2944 0.049366546
+Btw_chains_mean_weightMonthlyVaccinated
+2944 0.045166707
+Btw_chains_mean_Payoff
+2944 89.644137
+Btw_chains_var_"(fC) Contact Rate"
+2944 0.0020597671
+Btw_chains_var_"(fI) Infectivity"
+2944 1.0607176e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+2944 3.3465954e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+2944 1.1378911e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+2944 0.00018199354
+Btw_chains_var_Average time to get vaccinated when infections are high
+2944 1.1346119e-07
+Btw_chains_var_weightWeeklyInfected
+2944 1.9877426e-07
+Btw_chains_var_weightMonthlyVaccinated
+2944 3.8430155e-05
+Btw_chains_var_Payoff
+2944 -0.029555072
+Wth_chains_mean_var_"(fC) Contact Rate"
+2944 0.0081451753
+Wth_chains_mean_var_"(fI) Infectivity"
+2944 2.4459328e-06
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+2944 9.7635811e-07
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+2944 3.8908684e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+2944 0.00036047593
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+2944 2.9844898e-07
+Wth_chains_mean_var_weightWeeklyInfected
+2944 2.6132235e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+2944 7.6931492e-05
+Wth_chains_mean_var_Payoff
+2944 -0.8694121
+PSRF_"(fC) Contact Rate"
+2944 1.251911
+PSRF_"(fI) Infectivity"
+2944 1.432695
+PSRF_"(tInc) Average Time to Show Symptoms"
+2944 1.3417922
+PSRF_"(tR) Average Time to Recovery"
+2944 1.2914808
+PSRF_Average time to get vaccinated when infections are low
+2944 1.5038993
+PSRF_Average time to get vaccinated when infections are high
+2944 1.3791986
+PSRF_weightWeeklyInfected
+2944 1.0066356
+PSRF_weightMonthlyVaccinated
+2944 1.4985665
+PSRF_Payoff
+2944 -1.0330234
+Accept_rt[Chain_0]
+2944 0.048913043
+Accepted[Chain_0]
+2944 9
+Rejected[Chain_0]
+2944 175
+Accept_rt[Chain_1]
+2944 0.094736842
+Accepted[Chain_1]
+2944 9
+Rejected[Chain_1]
+2944 86
+Accept_rt[Chain_2]
+2944 0.073170732
+Accepted[Chain_2]
+2944 3
+Rejected[Chain_2]
+2944 38
+Accept_rt[Chain_3]
+2944 0.11578947
+Accepted[Chain_3]
+2944 11
+Rejected[Chain_3]
+2944 84
+Accept_rt[Chain_4]
+2944 0.054347826
+Accepted[Chain_4]
+2944 10
+Rejected[Chain_4]
+2944 174
+Accept_rt[Chain_5]
+2944 0.15
+Accepted[Chain_5]
+2944 9
+Rejected[Chain_5]
+2944 51
+Accept_rt[Chain_6]
+2944 0.095238095
+Accepted[Chain_6]
+2944 2
+Rejected[Chain_6]
+2944 19
+Accept_rt[Chain_7]
+2944 0.082352941
+Accepted[Chain_7]
+2944 14
+Rejected[Chain_7]
+2944 156
+Accept_rt[Chain_8]
+2944 0.091549296
+Accepted[Chain_8]
+2944 13
+Rejected[Chain_8]
+2944 129
+Accept_rt[Chain_9]
+2944 0.092391304
+Accepted[Chain_9]
+2944 17
+Rejected[Chain_9]
+2944 167
+Accept_rt[Chain_10]
+2944 0.012820513
+Accepted[Chain_10]
+2944 1
+Rejected[Chain_10]
+2944 77
+Accept_rt[Chain_11]
+2944 0.092391304
+Accepted[Chain_11]
+2944 17
+Rejected[Chain_11]
+2944 167
+Accept_rt[Chain_12]
+2944 0.081521739
+Accepted[Chain_12]
+2944 15
+Rejected[Chain_12]
+2944 169
+Accept_rt[Chain_13]
+2944 0.062992126
+Accepted[Chain_13]
+2944 8
+Rejected[Chain_13]
+2944 119
+Accept_rt[Chain_14]
+2944 0.05511811
+Accepted[Chain_14]
+2944 7
+Rejected[Chain_14]
+2944 120
+Accept_rt[Chain_15]
+2944 0.076086957
+Accepted[Chain_15]
+2944 14
+Rejected[Chain_15]
+2944 170
+Mean_accept_rt
+3296 0.069727891
+Btw_chains_mean_"(fC) Contact Rate"
+3296 16.304392
+Btw_chains_mean_"(fI) Infectivity"
+3296 0.2963206
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+3296 0.23954211
+Btw_chains_mean_"(tR) Average Time to Recovery"
+3296 0.25913509
+Btw_chains_mean_Average time to get vaccinated when infections are low
+3296 2.0042286
+Btw_chains_mean_Average time to get vaccinated when infections are high
+3296 0.016607038
+Btw_chains_mean_weightWeeklyInfected
+3296 0.049196888
+Btw_chains_mean_weightMonthlyVaccinated
+3296 0.046518915
+Btw_chains_mean_Payoff
+3296 89.487975
+Btw_chains_var_"(fC) Contact Rate"
+3296 0.0038155653
+Btw_chains_var_"(fI) Infectivity"
+3296 2.3186883e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+3296 2.5794056e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+3296 1.7785471e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+3296 0.00018827084
+Btw_chains_var_Average time to get vaccinated when infections are high
+3296 1.3010597e-07
+Btw_chains_var_weightWeeklyInfected
+3296 2.566019e-07
+Btw_chains_var_weightMonthlyVaccinated
+3296 4.3170768e-05
+Btw_chains_var_Payoff
+3296 -0.053570068
+Wth_chains_mean_var_"(fC) Contact Rate"
+3296 0.0093369973
+Wth_chains_mean_var_"(fI) Infectivity"
+3296 4.8147404e-06
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+3296 1.7371735e-06
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+3296 5.9218886e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+3296 0.00039080197
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+3296 4.0902359e-07
+Wth_chains_mean_var_weightWeeklyInfected
+3296 2.4496049e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+3296 0.00011665139
+Wth_chains_mean_var_Payoff
+3296 -0.96350766
+PSRF_"(fC) Contact Rate"
+3296 1.4077998
+PSRF_"(fI) Infectivity"
+3296 1.4807308
+PSRF_"(tInc) Average Time to Show Symptoms"
+3296 1.1476326
+PSRF_"(tR) Average Time to Recovery"
+3296 1.2994841
+PSRF_Average time to get vaccinated when infections are low
+3296 1.4809047
+PSRF_Average time to get vaccinated when infections are high
+3296 1.3172388
+PSRF_weightWeeklyInfected
+3296 1.0096249
+PSRF_weightMonthlyVaccinated
+3296 1.3692333
+PSRF_Payoff
+3296 -1.0547487
+Accept_rt[Chain_0]
+3296 0.048543689
+Accepted[Chain_0]
+3296 10
+Rejected[Chain_0]
+3296 196
+Accept_rt[Chain_1]
+3296 0.085470085
+Accepted[Chain_1]
+3296 10
+Rejected[Chain_1]
+3296 107
+Accept_rt[Chain_2]
+3296 0.047619048
+Accepted[Chain_2]
+3296 3
+Rejected[Chain_2]
+3296 60
+Accept_rt[Chain_3]
+3296 0.1025641
+Accepted[Chain_3]
+3296 12
+Rejected[Chain_3]
+3296 105
+Accept_rt[Chain_4]
+3296 0.053398058
+Accepted[Chain_4]
+3296 11
+Rejected[Chain_4]
+3296 195
+Accept_rt[Chain_5]
+3296 0.090909091
+Accepted[Chain_5]
+3296 2
+Rejected[Chain_5]
+3296 20
+Accept_rt[Chain_6]
+3296 0.046511628
+Accepted[Chain_6]
+3296 2
+Rejected[Chain_6]
+3296 41
+Accept_rt[Chain_7]
+3296 0.072916667
+Accepted[Chain_7]
+3296 14
+Rejected[Chain_7]
+3296 178
+Accept_rt[Chain_8]
+3296 0.085365854
+Accepted[Chain_8]
+3296 14
+Rejected[Chain_8]
+3296 150
+Accept_rt[Chain_9]
+3296 0.09223301
+Accepted[Chain_9]
+3296 19
+Rejected[Chain_9]
+3296 187
+Accept_rt[Chain_10]
+3296 0.01
+Accepted[Chain_10]
+3296 1
+Rejected[Chain_10]
+3296 99
+Accept_rt[Chain_11]
+3296 0.082524272
+Accepted[Chain_11]
+3296 17
+Rejected[Chain_11]
+3296 189
+Accept_rt[Chain_12]
+3296 0.072815534
+Accepted[Chain_12]
+3296 15
+Rejected[Chain_12]
+3296 191
+Accept_rt[Chain_13]
+3296 0.067114094
+Accepted[Chain_13]
+3296 10
+Rejected[Chain_13]
+3296 139
+Accept_rt[Chain_14]
+3296 0.046979866
+Accepted[Chain_14]
+3296 7
+Rejected[Chain_14]
+3296 142
+Accept_rt[Chain_15]
+3296 0.082524272
+Accepted[Chain_15]
+3296 17
+Rejected[Chain_15]
+3296 189
+Mean_accept_rt
+3664 0.069852941
+Btw_chains_mean_"(fC) Contact Rate"
+3664 16.320215
+Btw_chains_mean_"(fI) Infectivity"
+3664 0.29678749
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+3664 0.23986629
+Btw_chains_mean_"(tR) Average Time to Recovery"
+3664 0.25846948
+Btw_chains_mean_Average time to get vaccinated when infections are low
+3664 2.000949
+Btw_chains_mean_Average time to get vaccinated when infections are high
+3664 0.016693261
+Btw_chains_mean_weightWeeklyInfected
+3664 0.049510895
+Btw_chains_mean_weightMonthlyVaccinated
+3664 0.048093288
+Btw_chains_mean_Payoff
+3664 89.244966
+Btw_chains_var_"(fC) Contact Rate"
+3664 0.0068948361
+Btw_chains_var_"(fI) Infectivity"
+3664 3.4285539e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+3664 5.9664073e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+3664 1.8862901e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+3664 0.0001931559
+Btw_chains_var_Average time to get vaccinated when infections are high
+3664 1.3687158e-07
+Btw_chains_var_weightWeeklyInfected
+3664 5.0450792e-07
+Btw_chains_var_weightMonthlyVaccinated
+3664 4.2779712e-05
+Btw_chains_var_Payoff
+3664 -0.035604552
+Wth_chains_mean_var_"(fC) Contact Rate"
+3664 0.018061461
+Wth_chains_mean_var_"(fI) Infectivity"
+3664 1.0024498e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+3664 3.0876611e-06
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+3664 9.7648418e-06
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+3664 0.00054724992
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+3664 4.9854736e-07
+Wth_chains_mean_var_weightWeeklyInfected
+3664 2.9070872e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+3664 0.0001222481
+Wth_chains_mean_var_Payoff
+3664 -1.1673269
+PSRF_"(fC) Contact Rate"
+3664 1.3810077
+PSRF_"(fI) Infectivity"
+3664 1.3412822
+PSRF_"(tInc) Average Time to Show Symptoms"
+3664 1.1924986
+PSRF_"(tR) Average Time to Recovery"
+3664 1.1924363
+PSRF_Average time to get vaccinated when infections are low
+3664 1.3522221
+PSRF_Average time to get vaccinated when infections are high
+3664 1.2738055
+PSRF_weightWeeklyInfected
+3664 1.0166191
+PSRF_weightMonthlyVaccinated
+3664 1.3492064
+PSRF_Payoff
+3664 -1.0297656
+Accept_rt[Chain_0]
+3664 0.043668122
+Accepted[Chain_0]
+3664 10
+Rejected[Chain_0]
+3664 219
+Accept_rt[Chain_1]
+3664 0.092857143
+Accepted[Chain_1]
+3664 13
+Rejected[Chain_1]
+3664 127
+Accept_rt[Chain_2]
+3664 0.046511628
+Accepted[Chain_2]
+3664 4
+Rejected[Chain_2]
+3664 82
+Accept_rt[Chain_3]
+3664 0.092857143
+Accepted[Chain_3]
+3664 13
+Rejected[Chain_3]
+3664 127
+Accept_rt[Chain_4]
+3664 0.061135371
+Accepted[Chain_4]
+3664 14
+Rejected[Chain_4]
+3664 215
+Accept_rt[Chain_5]
+3664 0.066666667
+Accepted[Chain_5]
+3664 3
+Rejected[Chain_5]
+3664 42
+Accept_rt[Chain_6]
+3664 0.045454545
+Accepted[Chain_6]
+3664 3
+Rejected[Chain_6]
+3664 63
+Accept_rt[Chain_7]
+3664 0.065116279
+Accepted[Chain_7]
+3664 14
+Rejected[Chain_7]
+3664 201
+Accept_rt[Chain_8]
+3664 0.090909091
+Accepted[Chain_8]
+3664 17
+Rejected[Chain_8]
+3664 170
+Accept_rt[Chain_9]
+3664 0.087336245
+Accepted[Chain_9]
+3664 20
+Rejected[Chain_9]
+3664 209
+Accept_rt[Chain_10]
+3664 0.016260163
+Accepted[Chain_10]
+3664 2
+Rejected[Chain_10]
+3664 121
+Accept_rt[Chain_11]
+3664 0.087336245
+Accepted[Chain_11]
+3664 20
+Rejected[Chain_11]
+3664 209
+Accept_rt[Chain_12]
+3664 0.074235808
+Accepted[Chain_12]
+3664 17
+Rejected[Chain_12]
+3664 212
+Accept_rt[Chain_13]
+3664 0.069767442
+Accepted[Chain_13]
+3664 12
+Rejected[Chain_13]
+3664 160
+Accept_rt[Chain_14]
+3664 0.052325581
+Accepted[Chain_14]
+3664 9
+Rejected[Chain_14]
+3664 163
+Accept_rt[Chain_15]
+3664 0.082969432
+Accepted[Chain_15]
+3664 19
+Rejected[Chain_15]
+3664 210
+Is_outlier[Chain_11]
+4048 -85.646485
+Mean_accept_rt
+4048 0.067976804
+Btw_chains_mean_"(fC) Contact Rate"
+4048 16.293629
+Btw_chains_mean_"(fI) Infectivity"
+4048 0.29790259
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+4048 0.23999118
+Btw_chains_mean_"(tR) Average Time to Recovery"
+4048 0.25791484
+Btw_chains_mean_Average time to get vaccinated when infections are low
+4048 1.9960498
+Btw_chains_mean_Average time to get vaccinated when infections are high
+4048 0.016795567
+Btw_chains_mean_weightWeeklyInfected
+4048 0.049897514
+Btw_chains_mean_weightMonthlyVaccinated
+4048 0.048468701
+Btw_chains_mean_Payoff
+4048 89.110267
+Btw_chains_var_"(fC) Contact Rate"
+4048 0.015632447
+Btw_chains_var_"(fI) Infectivity"
+4048 7.9797735e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+4048 1.1349271e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+4048 3.7316772e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+4048 0.00012975245
+Btw_chains_var_Average time to get vaccinated when infections are high
+4048 1.703214e-07
+Btw_chains_var_weightWeeklyInfected
+4048 1.9488609e-06
+Btw_chains_var_weightMonthlyVaccinated
+4048 3.7656601e-05
+Btw_chains_var_Payoff
+4048 -0.0029828533
+Wth_chains_mean_var_"(fC) Contact Rate"
+4048 0.041465684
+Wth_chains_mean_var_"(fI) Infectivity"
+4048 2.0799342e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+4048 4.6381501e-06
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+4048 1.3125934e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+4048 0.0007799362
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+4048 4.8026356e-07
+Wth_chains_mean_var_weightWeeklyInfected
+4048 2.8758868e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+4048 0.00011586207
+Wth_chains_mean_var_Payoff
+4048 -1.2663999
+PSRF_"(fC) Contact Rate"
+4048 1.3763529
+PSRF_"(fI) Infectivity"
+4048 1.3830108
+PSRF_"(tInc) Average Time to Show Symptoms"
+4048 1.2440496
+PSRF_"(tR) Average Time to Recovery"
+4048 1.2836537
+PSRF_Average time to get vaccinated when infections are low
+4048 1.1657186
+PSRF_Average time to get vaccinated when infections are high
+4048 1.3539972
+PSRF_weightWeeklyInfected
+4048 1.0671212
+PSRF_weightMonthlyVaccinated
+4048 1.324368
+PSRF_Payoff
+4048 -1.0017111
+Accept_rt[Chain_0]
+4048 0.039525692
+Accepted[Chain_0]
+4048 10
+Rejected[Chain_0]
+4048 243
+Accept_rt[Chain_1]
+4048 0.079268293
+Accepted[Chain_1]
+4048 13
+Rejected[Chain_1]
+4048 151
+Accept_rt[Chain_2]
+4048 0.036363636
+Accepted[Chain_2]
+4048 4
+Rejected[Chain_2]
+4048 106
+Accept_rt[Chain_3]
+4048 0.085365854
+Accepted[Chain_3]
+4048 14
+Rejected[Chain_3]
+4048 150
+Accept_rt[Chain_4]
+4048 0.059288538
+Accepted[Chain_4]
+4048 15
+Rejected[Chain_4]
+4048 238
+Accept_rt[Chain_5]
+4048 0.057971014
+Accepted[Chain_5]
+4048 4
+Rejected[Chain_5]
+4048 65
+Accept_rt[Chain_6]
+4048 0.055555556
+Accepted[Chain_6]
+4048 5
+Rejected[Chain_6]
+4048 85
+Accept_rt[Chain_7]
+4048 0.058577406
+Accepted[Chain_7]
+4048 14
+Rejected[Chain_7]
+4048 225
+Accept_rt[Chain_8]
+4048 0.099526066
+Accepted[Chain_8]
+4048 21
+Rejected[Chain_8]
+4048 190
+Accept_rt[Chain_9]
+4048 0.083003953
+Accepted[Chain_9]
+4048 21
+Rejected[Chain_9]
+4048 232
+Accept_rt[Chain_10]
+4048 0.027210884
+Accepted[Chain_10]
+4048 4
+Rejected[Chain_10]
+4048 143
+Accept_rt[Chain_11]
+4048 0.083003953
+Accepted[Chain_11]
+4048 21
+Rejected[Chain_11]
+4048 232
+Accept_rt[Chain_12]
+4048 0.067193676
+Accepted[Chain_12]
+4048 17
+Rejected[Chain_12]
+4048 236
+Accept_rt[Chain_13]
+4048 0.086734694
+Accepted[Chain_13]
+4048 17
+Rejected[Chain_13]
+4048 179
+Accept_rt[Chain_14]
+4048 0.056122449
+Accepted[Chain_14]
+4048 11
+Rejected[Chain_14]
+4048 185
+Accept_rt[Chain_15]
+4048 0.079051383
+Accepted[Chain_15]
+4048 20
+Rejected[Chain_15]
+4048 233
+Is_outlier[Chain_10]
+4464 -87.401832
+Is_outlier[Chain_15]
+4464 -87.427543
+Mean_accept_rt
+4464 0.06305479
+Btw_chains_mean_"(fC) Contact Rate"
+4464 16.280384
+Btw_chains_mean_"(fI) Infectivity"
+4464 0.29811001
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+4464 0.24016535
+Btw_chains_mean_"(tR) Average Time to Recovery"
+4464 0.25802534
+Btw_chains_mean_Average time to get vaccinated when infections are low
+4464 1.9938966
+Btw_chains_mean_Average time to get vaccinated when infections are high
+4464 0.016771242
+Btw_chains_mean_weightWeeklyInfected
+4464 0.049194582
+Btw_chains_mean_weightMonthlyVaccinated
+4464 0.04811129
+Btw_chains_mean_Payoff
+4464 89.153768
+Btw_chains_var_"(fC) Contact Rate"
+4464 0.029718197
+Btw_chains_var_"(fI) Infectivity"
+4464 9.5868547e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+4464 1.4436944e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+4464 7.3715186e-06
+Btw_chains_var_Average time to get vaccinated when infections are low
+4464 0.00011827876
+Btw_chains_var_Average time to get vaccinated when infections are high
+4464 3.2209006e-07
+Btw_chains_var_weightWeeklyInfected
+4464 2.5651576e-06
+Btw_chains_var_weightMonthlyVaccinated
+4464 2.4283963e-05
+Btw_chains_var_Payoff
+4464 -0.022447491
+Wth_chains_mean_var_"(fC) Contact Rate"
+4464 0.069998498
+Wth_chains_mean_var_"(fI) Infectivity"
+4464 2.7115415e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+4464 5.9218272e-06
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+4464 1.1247721e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+4464 0.00063576691
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+4464 3.9365056e-07
+Wth_chains_mean_var_weightWeeklyInfected
+4464 2.9061959e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+4464 0.0001300292
+Wth_chains_mean_var_Payoff
+4464 -1.1049176
+PSRF_"(fC) Contact Rate"
+4464 1.4239426
+PSRF_"(fI) Infectivity"
+4464 1.3529452
+PSRF_"(tInc) Average Time to Show Symptoms"
+4464 1.2431799
+PSRF_"(tR) Average Time to Recovery"
+4464 1.6547667
+PSRF_Average time to get vaccinated when infections are low
+4464 1.1854289
+PSRF_Average time to get vaccinated when infections are high
+4464 1.8176009
+PSRF_weightWeeklyInfected
+4464 1.0876529
+PSRF_weightMonthlyVaccinated
+4464 1.1861456
+PSRF_Payoff
+4464 -1.0197038
+Accept_rt[Chain_0]
+4464 0.039426523
+Accepted[Chain_0]
+4464 11
+Rejected[Chain_0]
+4464 268
+Accept_rt[Chain_1]
+4464 0.068421053
+Accepted[Chain_1]
+4464 13
+Rejected[Chain_1]
+4464 177
+Accept_rt[Chain_2]
+4464 0.044117647
+Accepted[Chain_2]
+4464 6
+Rejected[Chain_2]
+4464 130
+Accept_rt[Chain_3]
+4464 0.073684211
+Accepted[Chain_3]
+4464 14
+Rejected[Chain_3]
+4464 176
+Accept_rt[Chain_4]
+4464 0.053763441
+Accepted[Chain_4]
+4464 15
+Rejected[Chain_4]
+4464 264
+Accept_rt[Chain_5]
+4464 0.042105263
+Accepted[Chain_5]
+4464 4
+Rejected[Chain_5]
+4464 91
+Accept_rt[Chain_6]
+4464 0.068965517
+Accepted[Chain_6]
+4464 8
+Rejected[Chain_6]
+4464 108
+Accept_rt[Chain_7]
+4464 0.052830189
+Accepted[Chain_7]
+4464 14
+Rejected[Chain_7]
+4464 251
+Accept_rt[Chain_8]
+4464 0.088607595
+Accepted[Chain_8]
+4464 21
+Rejected[Chain_8]
+4464 216
+Accept_rt[Chain_9]
+4464 0.078853047
+Accepted[Chain_9]
+4464 22
+Rejected[Chain_9]
+4464 257
+Accept_rt[Chain_10]
+4464 0.040462428
+Accepted[Chain_10]
+4464 7
+Rejected[Chain_10]
+4464 166
+Accept_rt[Chain_11]
+4464 0.11538462
+Accepted[Chain_11]
+4464 3
+Rejected[Chain_11]
+4464 23
+Accept_rt[Chain_12]
+4464 0.064516129
+Accepted[Chain_12]
+4464 18
+Rejected[Chain_12]
+4464 261
+Accept_rt[Chain_13]
+4464 0.081081081
+Accepted[Chain_13]
+4464 18
+Rejected[Chain_13]
+4464 204
+Accept_rt[Chain_14]
+4464 0.054054054
+Accepted[Chain_14]
+4464 12
+Rejected[Chain_14]
+4464 210
+Accept_rt[Chain_15]
+4464 0.071684588
+Accepted[Chain_15]
+4464 20
+Rejected[Chain_15]
+4464 259
+Is_outlier[Chain_6]
+4896 -86.610671
+Mean_accept_rt
+4896 0.060821241
+Btw_chains_mean_"(fC) Contact Rate"
+4896 16.342665
+Btw_chains_mean_"(fI) Infectivity"
+4896 0.29707389
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+4896 0.24084644
+Btw_chains_mean_"(tR) Average Time to Recovery"
+4896 0.25806004
+Btw_chains_mean_Average time to get vaccinated when infections are low
+4896 1.9977935
+Btw_chains_mean_Average time to get vaccinated when infections are high
+4896 0.016755769
+Btw_chains_mean_weightWeeklyInfected
+4896 0.049340988
+Btw_chains_mean_weightMonthlyVaccinated
+4896 0.047287921
+Btw_chains_mean_Payoff
+4896 89.140086
+Btw_chains_var_"(fC) Contact Rate"
+4896 0.022991762
+Btw_chains_var_"(fI) Infectivity"
+4896 7.8675107e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+4896 1.7607099e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+4896 1.2627455e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+4896 0.00029993825
+Btw_chains_var_Average time to get vaccinated when infections are high
+4896 3.816357e-07
+Btw_chains_var_weightWeeklyInfected
+4896 4.876967e-06
+Btw_chains_var_weightMonthlyVaccinated
+4896 2.8954256e-05
+Btw_chains_var_Payoff
+4896 -0.076598501
+Wth_chains_mean_var_"(fC) Contact Rate"
+4896 0.08324462
+Wth_chains_mean_var_"(fI) Infectivity"
+4896 2.6309375e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+4896 8.8274985e-06
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+4896 1.3382226e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+4896 0.00063609691
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+4896 2.9950255e-07
+Wth_chains_mean_var_weightWeeklyInfected
+4896 2.7974271e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+4896 9.1541773e-05
+Wth_chains_mean_var_Payoff
+4896 -0.92267593
+PSRF_"(fC) Contact Rate"
+4896 1.2755777
+PSRF_"(fI) Infectivity"
+4896 1.2984208
+PSRF_"(tInc) Average Time to Show Symptoms"
+4896 1.1988399
+PSRF_"(tR) Average Time to Recovery"
+4896 1.9429816
+PSRF_Average time to get vaccinated when infections are low
+4896 1.4709117
+PSRF_Average time to get vaccinated when infections are high
+4896 2.2736144
+PSRF_weightWeeklyInfected
+4896 1.1737201
+PSRF_weightMonthlyVaccinated
+4896 1.3156781
+PSRF_Payoff
+4896 -1.0824003
+Accept_rt[Chain_0]
+4896 0.035947712
+Accepted[Chain_0]
+4896 11
+Rejected[Chain_0]
+4896 295
+Accept_rt[Chain_1]
+4896 0.059907834
+Accepted[Chain_1]
+4896 13
+Rejected[Chain_1]
+4896 204
+Accept_rt[Chain_2]
+4896 0.042944785
+Accepted[Chain_2]
+4896 7
+Rejected[Chain_2]
+4896 156
+Accept_rt[Chain_3]
+4896 0.064516129
+Accepted[Chain_3]
+4896 14
+Rejected[Chain_3]
+4896 203
+Accept_rt[Chain_4]
+4896 0.049019608
+Accepted[Chain_4]
+4896 15
+Rejected[Chain_4]
+4896 291
+Accept_rt[Chain_5]
+4896 0.032786885
+Accepted[Chain_5]
+4896 4
+Rejected[Chain_5]
+4896 118
+Accept_rt[Chain_6]
+4896 0.090909091
+Accepted[Chain_6]
+4896 13
+Rejected[Chain_6]
+4896 130
+Accept_rt[Chain_7]
+4896 0.051369863
+Accepted[Chain_7]
+4896 15
+Rejected[Chain_7]
+4896 277
+Accept_rt[Chain_8]
+4896 0.083333333
+Accepted[Chain_8]
+4896 22
+Rejected[Chain_8]
+4896 242
+Accept_rt[Chain_9]
+4896 0.078431373
+Accepted[Chain_9]
+4896 24
+Rejected[Chain_9]
+4896 282
+Accept_rt[Chain_10]
+4896 0.08
+Accepted[Chain_10]
+4896 2
+Rejected[Chain_10]
+4896 23
+Accept_rt[Chain_11]
+4896 0.075471698
+Accepted[Chain_11]
+4896 4
+Rejected[Chain_11]
+4896 49
+Accept_rt[Chain_12]
+4896 0.065359477
+Accepted[Chain_12]
+4896 20
+Rejected[Chain_12]
+4896 286
+Accept_rt[Chain_13]
+4896 0.072289157
+Accepted[Chain_13]
+4896 18
+Rejected[Chain_13]
+4896 231
+Accept_rt[Chain_14]
+4896 0.048192771
+Accepted[Chain_14]
+4896 12
+Rejected[Chain_14]
+4896 237
+Accept_rt[Chain_15]
+4896 0.14285714
+Accepted[Chain_15]
+4896 3
+Rejected[Chain_15]
+4896 18
+Is_outlier[Chain_9]
+5344 -86.286283
+Mean_accept_rt
+5344 0.056763626
+Btw_chains_mean_"(fC) Contact Rate"
+5344 16.319376
+Btw_chains_mean_"(fI) Infectivity"
+5344 0.29746274
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+5344 0.24091625
+Btw_chains_mean_"(tR) Average Time to Recovery"
+5344 0.25816955
+Btw_chains_mean_Average time to get vaccinated when infections are low
+5344 1.9976813
+Btw_chains_mean_Average time to get vaccinated when infections are high
+5344 0.016684954
+Btw_chains_mean_weightWeeklyInfected
+5344 0.049731317
+Btw_chains_mean_weightMonthlyVaccinated
+5344 0.046709048
+Btw_chains_mean_Payoff
+5344 89.132243
+Btw_chains_var_"(fC) Contact Rate"
+5344 0.03072922
+Btw_chains_var_"(fI) Infectivity"
+5344 6.1636219e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+5344 1.1902317e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+5344 1.3094557e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+5344 0.00035661567
+Btw_chains_var_Average time to get vaccinated when infections are high
+5344 3.263801e-07
+Btw_chains_var_weightWeeklyInfected
+5344 7.1870402e-06
+Btw_chains_var_weightMonthlyVaccinated
+5344 4.366459e-05
+Btw_chains_var_Payoff
+5344 -0.03950348
+Wth_chains_mean_var_"(fC) Contact Rate"
+5344 0.088952464
+Wth_chains_mean_var_"(fI) Infectivity"
+5344 3.2761168e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+5344 1.0573744e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+5344 1.3311091e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+5344 0.00060819124
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+5344 2.9818356e-07
+Wth_chains_mean_var_weightWeeklyInfected
+5344 2.4802044e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+5344 8.7555313e-05
+Wth_chains_mean_var_Payoff
+5344 -0.90766595
+PSRF_"(fC) Contact Rate"
+5344 1.3448918
+PSRF_"(fI) Infectivity"
+5344 1.1875732
+PSRF_"(tInc) Average Time to Show Symptoms"
+5344 1.112
+PSRF_"(tR) Average Time to Recovery"
+5344 1.983168
+PSRF_Average time to get vaccinated when infections are low
+5344 1.5857897
+PSRF_Average time to get vaccinated when infections are high
+5344 2.0939962
+PSRF_weightWeeklyInfected
+5344 1.2892113
+PSRF_weightMonthlyVaccinated
+5344 1.4981438
+PSRF_Payoff
+5344 -1.0429572
+Accept_rt[Chain_0]
+5344 0.035928144
+Accepted[Chain_0]
+5344 12
+Rejected[Chain_0]
+5344 322
+Accept_rt[Chain_1]
+5344 0.06122449
+Accepted[Chain_1]
+5344 15
+Rejected[Chain_1]
+5344 230
+Accept_rt[Chain_2]
+5344 0.036649215
+Accepted[Chain_2]
+5344 7
+Rejected[Chain_2]
+5344 184
+Accept_rt[Chain_3]
+5344 0.065306122
+Accepted[Chain_3]
+5344 16
+Rejected[Chain_3]
+5344 229
+Accept_rt[Chain_4]
+5344 0.04491018
+Accepted[Chain_4]
+5344 15
+Rejected[Chain_4]
+5344 319
+Accept_rt[Chain_5]
+5344 0.033333333
+Accepted[Chain_5]
+5344 5
+Rejected[Chain_5]
+5344 145
+Accept_rt[Chain_6]
+5344 0.04
+Accepted[Chain_6]
+5344 1
+Rejected[Chain_6]
+5344 24
+Accept_rt[Chain_7]
+5344 0.05625
+Accepted[Chain_7]
+5344 18
+Rejected[Chain_7]
+5344 302
+Accept_rt[Chain_8]
+5344 0.082191781
+Accepted[Chain_8]
+5344 24
+Rejected[Chain_8]
+5344 268
+Accept_rt[Chain_9]
+5344 0.074850299
+Accepted[Chain_9]
+5344 25
+Rejected[Chain_9]
+5344 309
+Accept_rt[Chain_10]
+5344 0.037735849
+Accepted[Chain_10]
+5344 2
+Rejected[Chain_10]
+5344 51
+Accept_rt[Chain_11]
+5344 0.074074074
+Accepted[Chain_11]
+5344 6
+Rejected[Chain_11]
+5344 75
+Accept_rt[Chain_12]
+5344 0.062874251
+Accepted[Chain_12]
+5344 21
+Rejected[Chain_12]
+5344 313
+Accept_rt[Chain_13]
+5344 0.068592058
+Accepted[Chain_13]
+5344 19
+Rejected[Chain_13]
+5344 258
+Accept_rt[Chain_14]
+5344 0.0433213
+Accepted[Chain_14]
+5344 12
+Rejected[Chain_14]
+5344 265
+Accept_rt[Chain_15]
+5344 0.06122449
+Accepted[Chain_15]
+5344 3
+Rejected[Chain_15]
+5344 46
+Mean_accept_rt
+5824 0.055088195
+Btw_chains_mean_"(fC) Contact Rate"
+5824 16.269475
+Btw_chains_mean_"(fI) Infectivity"
+5824 0.29865504
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+5824 0.24003727
+Btw_chains_mean_"(tR) Average Time to Recovery"
+5824 0.25796768
+Btw_chains_mean_Average time to get vaccinated when infections are low
+5824 1.998398
+Btw_chains_mean_Average time to get vaccinated when infections are high
+5824 0.016616626
+Btw_chains_mean_weightWeeklyInfected
+5824 0.049904046
+Btw_chains_mean_weightMonthlyVaccinated
+5824 0.048916148
+Btw_chains_mean_Payoff
+5824 89.163577
+Btw_chains_var_"(fC) Contact Rate"
+5824 0.058699954
+Btw_chains_var_"(fI) Infectivity"
+5824 8.1755126e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+5824 2.6342928e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+5824 1.4923993e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+5824 0.00029217774
+Btw_chains_var_Average time to get vaccinated when infections are high
+5824 3.6975113e-07
+Btw_chains_var_weightWeeklyInfected
+5824 7.0782095e-06
+Btw_chains_var_weightMonthlyVaccinated
+5824 4.7131722e-05
+Btw_chains_var_Payoff
+5824 -0.023237387
+Wth_chains_mean_var_"(fC) Contact Rate"
+5824 0.12373415
+Wth_chains_mean_var_"(fI) Infectivity"
+5824 7.3963454e-05
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+5824 1.1370121e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+5824 2.2384552e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+5824 0.00086476773
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+5824 3.9798001e-07
+Wth_chains_mean_var_weightWeeklyInfected
+5824 2.2686918e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+5824 0.00010855682
+Wth_chains_mean_var_Payoff
+5824 -0.9455496
+PSRF_"(fC) Contact Rate"
+5824 1.4738611
+PSRF_"(fI) Infectivity"
+5824 1.1099917
+PSRF_"(tInc) Average Time to Show Symptoms"
+5824 1.0226258
+PSRF_"(tR) Average Time to Recovery"
+5824 1.6661667
+PSRF_Average time to get vaccinated when infections are low
+5824 1.3373257
+PSRF_Average time to get vaccinated when infections are high
+5824 1.9285269
+PSRF_weightWeeklyInfected
+5824 1.3114525
+PSRF_weightMonthlyVaccinated
+5824 1.4336237
+PSRF_Payoff
+5824 -1.0240328
+Accept_rt[Chain_0]
+5824 0.041208791
+Accepted[Chain_0]
+5824 15
+Rejected[Chain_0]
+5824 349
+Accept_rt[Chain_1]
+5824 0.054545455
+Accepted[Chain_1]
+5824 15
+Rejected[Chain_1]
+5824 260
+Accept_rt[Chain_2]
+5824 0.040723982
+Accepted[Chain_2]
+5824 9
+Rejected[Chain_2]
+5824 212
+Accept_rt[Chain_3]
+5824 0.069090909
+Accepted[Chain_3]
+5824 19
+Rejected[Chain_3]
+5824 256
+Accept_rt[Chain_4]
+5824 0.046703297
+Accepted[Chain_4]
+5824 17
+Rejected[Chain_4]
+5824 347
+Accept_rt[Chain_5]
+5824 0.044444444
+Accepted[Chain_5]
+5824 8
+Rejected[Chain_5]
+5824 172
+Accept_rt[Chain_6]
+5824 0.036363636
+Accepted[Chain_6]
+5824 2
+Rejected[Chain_6]
+5824 53
+Accept_rt[Chain_7]
+5824 0.051428571
+Accepted[Chain_7]
+5824 18
+Rejected[Chain_7]
+5824 332
+Accept_rt[Chain_8]
+5824 0.080745342
+Accepted[Chain_8]
+5824 26
+Rejected[Chain_8]
+5824 296
+Accept_rt[Chain_9]
+5824 0.10714286
+Accepted[Chain_9]
+5824 3
+Rejected[Chain_9]
+5824 25
+Accept_rt[Chain_10]
+5824 0.036144578
+Accepted[Chain_10]
+5824 3
+Rejected[Chain_10]
+5824 80
+Accept_rt[Chain_11]
+5824 0.081081081
+Accepted[Chain_11]
+5824 9
+Rejected[Chain_11]
+5824 102
+Accept_rt[Chain_12]
+5824 0.06043956
+Accepted[Chain_12]
+5824 22
+Rejected[Chain_12]
+5824 342
+Accept_rt[Chain_13]
+5824 0.068403909
+Accepted[Chain_13]
+5824 21
+Rejected[Chain_13]
+5824 286
+Accept_rt[Chain_14]
+5824 0.039087948
+Accepted[Chain_14]
+5824 12
+Rejected[Chain_14]
+5824 295
+Accept_rt[Chain_15]
+5824 0.050632911
+Accepted[Chain_15]
+5824 4
+Rejected[Chain_15]
+5824 75
+Is_outlier[Chain_6]
+6320 -83.088159
+Is_outlier[Chain_13]
+6320 -85.866448
+Mean_accept_rt
+6320 0.052858168
+Btw_chains_mean_"(fC) Contact Rate"
+6320 16.225764
+Btw_chains_mean_"(fI) Infectivity"
+6320 0.29965419
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+6320 0.24026231
+Btw_chains_mean_"(tR) Average Time to Recovery"
+6320 0.258059
+Btw_chains_mean_Average time to get vaccinated when infections are low
+6320 1.998461
+Btw_chains_mean_Average time to get vaccinated when infections are high
+6320 0.016636945
+Btw_chains_mean_weightWeeklyInfected
+6320 0.049893031
+Btw_chains_mean_weightMonthlyVaccinated
+6320 0.04940745
+Btw_chains_mean_Payoff
+6320 89.144823
+Btw_chains_var_"(fC) Contact Rate"
+6320 0.075855719
+Btw_chains_var_"(fI) Infectivity"
+6320 9.3153081e-06
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+6320 2.3158734e-07
+Btw_chains_var_"(tR) Average Time to Recovery"
+6320 1.6188171e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+6320 0.00020697549
+Btw_chains_var_Average time to get vaccinated when infections are high
+6320 3.4361624e-07
+Btw_chains_var_weightWeeklyInfected
+6320 5.7441768e-06
+Btw_chains_var_weightMonthlyVaccinated
+6320 5.115184e-05
+Btw_chains_var_Payoff
+6320 -0.032941036
+Wth_chains_mean_var_"(fC) Contact Rate"
+6320 0.18535352
+Wth_chains_mean_var_"(fI) Infectivity"
+6320 0.00011115129
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+6320 2.5423238e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+6320 2.9897512e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+6320 0.00095251889
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+6320 5.9207833e-07
+Wth_chains_mean_var_weightWeeklyInfected
+6320 2.1512567e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+6320 0.00011738795
+Wth_chains_mean_var_Payoff
+6320 -1.0862267
+PSRF_"(fC) Contact Rate"
+6320 1.4087705
+PSRF_"(fI) Infectivity"
+6320 1.0833291
+PSRF_"(tInc) Average Time to Show Symptoms"
+6320 1.0086309
+PSRF_"(tR) Average Time to Recovery"
+6320 1.5409771
+PSRF_Average time to get vaccinated when infections are low
+6320 1.2168144
+PSRF_Average time to get vaccinated when infections are high
+6320 1.5798777
+PSRF_weightWeeklyInfected
+6320 1.2665366
+PSRF_weightMonthlyVaccinated
+6320 1.435272
+PSRF_Payoff
+6320 -1.0298478
+Accept_rt[Chain_0]
+6320 0.043037975
+Accepted[Chain_0]
+6320 17
+Rejected[Chain_0]
+6320 378
+Accept_rt[Chain_1]
+6320 0.052287582
+Accepted[Chain_1]
+6320 16
+Rejected[Chain_1]
+6320 290
+Accept_rt[Chain_2]
+6320 0.047619048
+Accepted[Chain_2]
+6320 12
+Rejected[Chain_2]
+6320 240
+Accept_rt[Chain_3]
+6320 0.068627451
+Accepted[Chain_3]
+6320 21
+Rejected[Chain_3]
+6320 285
+Accept_rt[Chain_4]
+6320 0.04556962
+Accepted[Chain_4]
+6320 18
+Rejected[Chain_4]
+6320 377
+Accept_rt[Chain_5]
+6320 0.037914692
+Accepted[Chain_5]
+6320 8
+Rejected[Chain_5]
+6320 203
+Accept_rt[Chain_6]
+6320 0.058139535
+Accepted[Chain_6]
+6320 5
+Rejected[Chain_6]
+6320 81
+Accept_rt[Chain_7]
+6320 0.049868766
+Accepted[Chain_7]
+6320 19
+Rejected[Chain_7]
+6320 362
+Accept_rt[Chain_8]
+6320 0.076487252
+Accepted[Chain_8]
+6320 27
+Rejected[Chain_8]
+6320 326
+Accept_rt[Chain_9]
+6320 0.06779661
+Accepted[Chain_9]
+6320 4
+Rejected[Chain_9]
+6320 55
+Accept_rt[Chain_10]
+6320 0.026315789
+Accepted[Chain_10]
+6320 3
+Rejected[Chain_10]
+6320 111
+Accept_rt[Chain_11]
+6320 0.063380282
+Accepted[Chain_11]
+6320 9
+Rejected[Chain_11]
+6320 133
+Accept_rt[Chain_12]
+6320 0.058227848
+Accepted[Chain_12]
+6320 23
+Rejected[Chain_12]
+6320 372
+Accept_rt[Chain_13]
+6320 0.062130178
+Accepted[Chain_13]
+6320 21
+Rejected[Chain_13]
+6320 317
+Accept_rt[Chain_14]
+6320 0.035502959
+Accepted[Chain_14]
+6320 12
+Rejected[Chain_14]
+6320 326
+Accept_rt[Chain_15]
+6320 0.054545455
+Accepted[Chain_15]
+6320 6
+Rejected[Chain_15]
+6320 104
+Mean_accept_rt
+6848 0.051623452
+Btw_chains_mean_"(fC) Contact Rate"
+6848 16.353099
+Btw_chains_mean_"(fI) Infectivity"
+6848 0.2993434
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+6848 0.24167443
+Btw_chains_mean_"(tR) Average Time to Recovery"
+6848 0.2562516
+Btw_chains_mean_Average time to get vaccinated when infections are low
+6848 2.0037571
+Btw_chains_mean_Average time to get vaccinated when infections are high
+6848 0.016851857
+Btw_chains_mean_weightWeeklyInfected
+6848 0.050418715
+Btw_chains_mean_weightMonthlyVaccinated
+6848 0.048591437
+Btw_chains_mean_Payoff
+6848 89.202125
+Btw_chains_var_"(fC) Contact Rate"
+6848 0.028465313
+Btw_chains_var_"(fI) Infectivity"
+6848 2.184928e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+6848 2.1097419e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+6848 1.8599305e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+6848 9.8196786e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+6848 3.8190611e-07
+Btw_chains_var_weightWeeklyInfected
+6848 2.8821469e-06
+Btw_chains_var_weightMonthlyVaccinated
+6848 5.1549148e-05
+Btw_chains_var_Payoff
+6848 -0.036205929
+Wth_chains_mean_var_"(fC) Contact Rate"
+6848 0.16795565
+Wth_chains_mean_var_"(fI) Infectivity"
+6848 0.0001313511
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+6848 4.4520384e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+6848 3.31282e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+6848 0.00093633682
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+6848 7.5732335e-07
+Wth_chains_mean_var_weightWeeklyInfected
+6848 2.2457591e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+6848 0.00011868173
+Wth_chains_mean_var_Payoff
+6848 -1.0796301
+PSRF_"(fC) Contact Rate"
+6848 1.169014
+PSRF_"(fI) Infectivity"
+6848 1.1658754
+PSRF_"(tInc) Average Time to Show Symptoms"
+6848 1.046921
+PSRF_"(tR) Average Time to Recovery"
+6848 1.560967
+PSRF_Average time to get vaccinated when infections are low
+6848 1.1044062
+PSRF_Average time to get vaccinated when infections are high
+6848 1.5038169
+PSRF_weightWeeklyInfected
+6848 1.1278701
+PSRF_weightMonthlyVaccinated
+6848 1.4338806
+PSRF_Payoff
+6848 -1.0330683
+CMCP
+6848 0.010909498
+Overlap
+6848 0.22634527
+Collapsed
+6848 0
+Accept_rt[Chain_0]
+6848 0.039719626
+Accepted[Chain_0]
+6848 17
+Rejected[Chain_0]
+6848 411
+Accept_rt[Chain_1]
+6848 0.064896755
+Accepted[Chain_1]
+6848 22
+Rejected[Chain_1]
+6848 317
+Accept_rt[Chain_2]
+6848 0.045614035
+Accepted[Chain_2]
+6848 13
+Rejected[Chain_2]
+6848 272
+Accept_rt[Chain_3]
+6848 0.061946903
+Accepted[Chain_3]
+6848 21
+Rejected[Chain_3]
+6848 318
+Accept_rt[Chain_4]
+6848 0.042056075
+Accepted[Chain_4]
+6848 18
+Rejected[Chain_4]
+6848 410
+Accept_rt[Chain_5]
+6848 0.036885246
+Accepted[Chain_5]
+6848 9
+Rejected[Chain_5]
+6848 235
+Accept_rt[Chain_6]
+6848 0.1
+Accepted[Chain_6]
+6848 3
+Rejected[Chain_6]
+6848 27
+Accept_rt[Chain_7]
+6848 0.050724638
+Accepted[Chain_7]
+6848 21
+Rejected[Chain_7]
+6848 393
+Accept_rt[Chain_8]
+6848 0.069948187
+Accepted[Chain_8]
+6848 27
+Rejected[Chain_8]
+6848 359
+Accept_rt[Chain_9]
+6848 0.065217391
+Accepted[Chain_9]
+6848 6
+Rejected[Chain_9]
+6848 86
+Accept_rt[Chain_10]
+6848 0.020408163
+Accepted[Chain_10]
+6848 3
+Rejected[Chain_10]
+6848 144
+Accept_rt[Chain_11]
+6848 0.057142857
+Accepted[Chain_11]
+6848 10
+Rejected[Chain_11]
+6848 165
+Accept_rt[Chain_12]
+6848 0.060747664
+Accepted[Chain_12]
+6848 26
+Rejected[Chain_12]
+6848 402
+Accept_rt[Chain_13]
+6848 0.15625
+Accepted[Chain_13]
+6848 5
+Rejected[Chain_13]
+6848 27
+Accept_rt[Chain_14]
+6848 0.035040431
+Accepted[Chain_14]
+6848 13
+Rejected[Chain_14]
+6848 358
+Accept_rt[Chain_15]
+6848 0.048951049
+Accepted[Chain_15]
+6848 7
+Rejected[Chain_15]
+6848 136
+Is_outlier[Chain_0]
+7392 -87.311275
+Is_outlier[Chain_12]
+7392 -86.277384
+Is_outlier[Chain_13]
+7392 -83.470122
+Mean_accept_rt
+7392 0.050362694
+Btw_chains_mean_"(fC) Contact Rate"
+7392 16.361838
+Btw_chains_mean_"(fI) Infectivity"
+7392 0.29980413
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+7392 0.24227097
+Btw_chains_mean_"(tR) Average Time to Recovery"
+7392 0.2559339
+Btw_chains_mean_Average time to get vaccinated when infections are low
+7392 2.0047377
+Btw_chains_mean_Average time to get vaccinated when infections are high
+7392 0.016872283
+Btw_chains_mean_weightWeeklyInfected
+7392 0.050448792
+Btw_chains_mean_weightMonthlyVaccinated
+7392 0.049086873
+Btw_chains_mean_Payoff
+7392 89.16048
+Btw_chains_var_"(fC) Contact Rate"
+7392 0.020832501
+Btw_chains_var_"(fI) Infectivity"
+7392 2.6211726e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+7392 5.0695223e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+7392 2.1366352e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+7392 6.6417584e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+7392 3.4598684e-07
+Btw_chains_var_weightWeeklyInfected
+7392 9.2080462e-07
+Btw_chains_var_weightMonthlyVaccinated
+7392 6.1417686e-05
+Btw_chains_var_Payoff
+7392 -0.068729167
+Wth_chains_mean_var_"(fC) Contact Rate"
+7392 0.18353418
+Wth_chains_mean_var_"(fI) Infectivity"
+7392 0.00014147922
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+7392 6.6966427e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+7392 4.0402375e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+7392 0.00085266358
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+7392 8.111264e-07
+Wth_chains_mean_var_weightWeeklyInfected
+7392 2.7364376e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+7392 0.00012520556
+Wth_chains_mean_var_Payoff
+7392 -1.0976728
+PSRF_"(fC) Contact Rate"
+7392 1.113093
+PSRF_"(fI) Infectivity"
+7392 1.1848546
+PSRF_"(tInc) Average Time to Show Symptoms"
+7392 1.0752879
+PSRF_"(tR) Average Time to Recovery"
+7392 1.5284245
+PSRF_Average time to get vaccinated when infections are low
+7392 1.0774797
+PSRF_Average time to get vaccinated when infections are high
+7392 1.4261366
+PSRF_weightWeeklyInfected
+7392 1.0332352
+PSRF_weightMonthlyVaccinated
+7392 1.4901203
+PSRF_Payoff
+7392 -1.062199
+Accept_rt[Chain_0]
+7392 0.043290043
+Accepted[Chain_0]
+7392 20
+Rejected[Chain_0]
+7392 442
+Accept_rt[Chain_1]
+7392 0.064343164
+Accepted[Chain_1]
+7392 24
+Rejected[Chain_1]
+7392 349
+Accept_rt[Chain_2]
+7392 0.047021944
+Accepted[Chain_2]
+7392 15
+Rejected[Chain_2]
+7392 304
+Accept_rt[Chain_3]
+7392 0.056300268
+Accepted[Chain_3]
+7392 21
+Rejected[Chain_3]
+7392 352
+Accept_rt[Chain_4]
+7392 0.038961039
+Accepted[Chain_4]
+7392 18
+Rejected[Chain_4]
+7392 444
+Accept_rt[Chain_5]
+7392 0.032374101
+Accepted[Chain_5]
+7392 9
+Rejected[Chain_5]
+7392 269
+Accept_rt[Chain_6]
+7392 0.0625
+Accepted[Chain_6]
+7392 4
+Rejected[Chain_6]
+7392 60
+Accept_rt[Chain_7]
+7392 0.051339286
+Accepted[Chain_7]
+7392 23
+Rejected[Chain_7]
+7392 425
+Accept_rt[Chain_8]
+7392 0.066666667
+Accepted[Chain_8]
+7392 28
+Rejected[Chain_8]
+7392 392
+Accept_rt[Chain_9]
+7392 0.063492063
+Accepted[Chain_9]
+7392 8
+Rejected[Chain_9]
+7392 118
+Accept_rt[Chain_10]
+7392 0.027624309
+Accepted[Chain_10]
+7392 5
+Rejected[Chain_10]
+7392 176
+Accept_rt[Chain_11]
+7392 0.04784689
+Accepted[Chain_11]
+7392 10
+Rejected[Chain_11]
+7392 199
+Accept_rt[Chain_12]
+7392 0.058441558
+Accepted[Chain_12]
+7392 27
+Rejected[Chain_12]
+7392 435
+Accept_rt[Chain_13]
+7392 0.13636364
+Accepted[Chain_13]
+7392 9
+Rejected[Chain_13]
+7392 57
+Accept_rt[Chain_14]
+7392 0.034567901
+Accepted[Chain_14]
+7392 14
+Rejected[Chain_14]
+7392 391
+Accept_rt[Chain_15]
+7392 0.04519774
+Accepted[Chain_15]
+7392 8
+Rejected[Chain_15]
+7392 169
+Mean_accept_rt
+7968 0.047694754
+Btw_chains_mean_"(fC) Contact Rate"
+7968 16.287121
+Btw_chains_mean_"(fI) Infectivity"
+7968 0.30325755
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+7968 0.24356582
+Btw_chains_mean_"(tR) Average Time to Recovery"
+7968 0.25421363
+Btw_chains_mean_Average time to get vaccinated when infections are low
+7968 2.006867
+Btw_chains_mean_Average time to get vaccinated when infections are high
+7968 0.017003454
+Btw_chains_mean_weightWeeklyInfected
+7968 0.050063537
+Btw_chains_mean_weightMonthlyVaccinated
+7968 0.044981595
+Btw_chains_mean_Payoff
+7968 89.498505
+Btw_chains_var_"(fC) Contact Rate"
+7968 0.0058129613
+Btw_chains_var_"(fI) Infectivity"
+7968 3.7224955e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+7968 5.1869573e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+7968 3.7343074e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+7968 8.8717283e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+7968 4.4113943e-07
+Btw_chains_var_weightWeeklyInfected
+7968 1.1394676e-06
+Btw_chains_var_weightMonthlyVaccinated
+7968 2.5374286e-05
+Btw_chains_var_Payoff
+7968 -0.12747222
+Wth_chains_mean_var_"(fC) Contact Rate"
+7968 0.19457038
+Wth_chains_mean_var_"(fI) Infectivity"
+7968 0.00013087617
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+7968 8.0473495e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+7968 4.1285836e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+7968 0.00065934481
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+7968 6.1416131e-07
+Wth_chains_mean_var_weightWeeklyInfected
+7968 2.3091586e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+7968 0.0001009366
+Wth_chains_mean_var_Payoff
+7968 -0.9539121
+PSRF_"(fC) Contact Rate"
+7968 1.0294216
+PSRF_"(fI) Infectivity"
+7968 1.2839746
+PSRF_"(tInc) Average Time to Show Symptoms"
+7968 1.0640012
+PSRF_"(tR) Average Time to Recovery"
+7968 1.9040466
+PSRF_Average time to get vaccinated when infections are low
+7968 1.1340995
+PSRF_Average time to get vaccinated when infections are high
+7968 1.7178252
+PSRF_weightWeeklyInfected
+7968 1.0488913
+PSRF_weightMonthlyVaccinated
+7968 1.2509341
+PSRF_Payoff
+7968 -1.1331768
+Accept_rt[Chain_0]
+7968 0.032258065
+Accepted[Chain_0]
+7968 1
+Rejected[Chain_0]
+7968 30
+Accept_rt[Chain_1]
+7968 0.061124694
+Accepted[Chain_1]
+7968 25
+Rejected[Chain_1]
+7968 384
+Accept_rt[Chain_2]
+7968 0.045070423
+Accepted[Chain_2]
+7968 16
+Rejected[Chain_2]
+7968 339
+Accept_rt[Chain_3]
+7968 0.053789731
+Accepted[Chain_3]
+7968 22
+Rejected[Chain_3]
+7968 387
+Accept_rt[Chain_4]
+7968 0.036144578
+Accepted[Chain_4]
+7968 18
+Rejected[Chain_4]
+7968 480
+Accept_rt[Chain_5]
+7968 0.035031847
+Accepted[Chain_5]
+7968 11
+Rejected[Chain_5]
+7968 303
+Accept_rt[Chain_6]
+7968 0.06
+Accepted[Chain_6]
+7968 6
+Rejected[Chain_6]
+7968 94
+Accept_rt[Chain_7]
+7968 0.053719008
+Accepted[Chain_7]
+7968 26
+Rejected[Chain_7]
+7968 458
+Accept_rt[Chain_8]
+7968 0.065789474
+Accepted[Chain_8]
+7968 30
+Rejected[Chain_8]
+7968 426
+Accept_rt[Chain_9]
+7968 0.049382716
+Accepted[Chain_9]
+7968 8
+Rejected[Chain_9]
+7968 154
+Accept_rt[Chain_10]
+7968 0.032258065
+Accepted[Chain_10]
+7968 7
+Rejected[Chain_10]
+7968 210
+Accept_rt[Chain_11]
+7968 0.053061224
+Accepted[Chain_11]
+7968 13
+Rejected[Chain_11]
+7968 232
+Accept_rt[Chain_12]
+7968 0.029411765
+Accepted[Chain_12]
+7968 1
+Rejected[Chain_12]
+7968 33
+Accept_rt[Chain_13]
+7968 0.057142857
+Accepted[Chain_13]
+7968 2
+Rejected[Chain_13]
+7968 33
+Accept_rt[Chain_14]
+7968 0.034013605
+Accepted[Chain_14]
+7968 15
+Rejected[Chain_14]
+7968 426
+Accept_rt[Chain_15]
+7968 0.042253521
+Accepted[Chain_15]
+7968 9
+Rejected[Chain_15]
+7968 204
+Is_outlier[Chain_12]
+8576 -82.805252
+Mean_accept_rt
+8576 0.046896827
+Btw_chains_mean_"(fC) Contact Rate"
+8576 16.31062
+Btw_chains_mean_"(fI) Infectivity"
+8576 0.30373574
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+8576 0.24447557
+Btw_chains_mean_"(tR) Average Time to Recovery"
+8576 0.25353491
+Btw_chains_mean_Average time to get vaccinated when infections are low
+8576 2.0055438
+Btw_chains_mean_Average time to get vaccinated when infections are high
+8576 0.017031583
+Btw_chains_mean_weightWeeklyInfected
+8576 0.050130971
+Btw_chains_mean_weightMonthlyVaccinated
+8576 0.045608541
+Btw_chains_mean_Payoff
+8576 89.476251
+Btw_chains_var_"(fC) Contact Rate"
+8576 0.0041779141
+Btw_chains_var_"(fI) Infectivity"
+8576 4.2170686e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+8576 5.3924243e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+8576 3.6426617e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+8576 4.4716307e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+8576 3.9383526e-07
+Btw_chains_var_weightWeeklyInfected
+8576 1.747236e-06
+Btw_chains_var_weightMonthlyVaccinated
+8576 1.1369002e-05
+Btw_chains_var_Payoff
+8576 -0.092246482
+Wth_chains_mean_var_"(fC) Contact Rate"
+8576 0.22609665
+Wth_chains_mean_var_"(fI) Infectivity"
+8576 0.00012420411
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+8576 8.653445e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+8576 4.3133775e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+8576 0.00071421221
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+8576 5.6678237e-07
+Wth_chains_mean_var_weightWeeklyInfected
+8576 2.3906787e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+8576 0.00011680468
+Wth_chains_mean_var_Payoff
+8576 -1.0645772
+PSRF_"(fC) Contact Rate"
+8576 1.0180793
+PSRF_"(fI) Infectivity"
+8576 1.3391282
+PSRF_"(tInc) Average Time to Show Symptoms"
+8576 1.0619162
+PSRF_"(tR) Average Time to Recovery"
+8576 1.8441042
+PSRF_Average time to get vaccinated when infections are low
+8576 1.0622102
+PSRF_Average time to get vaccinated when infections are high
+8576 1.6944624
+PSRF_weightWeeklyInfected
+8576 1.0726862
+PSRF_weightMonthlyVaccinated
+8576 1.0969343
+PSRF_Payoff
+8576 -1.0862517
+Accept_rt[Chain_0]
+8576 0.014492754
+Accepted[Chain_0]
+8576 1
+Rejected[Chain_0]
+8576 68
+Accept_rt[Chain_1]
+8576 0.062639821
+Accepted[Chain_1]
+8576 28
+Rejected[Chain_1]
+8576 419
+Accept_rt[Chain_2]
+8576 0.040712468
+Accepted[Chain_2]
+8576 16
+Rejected[Chain_2]
+8576 377
+Accept_rt[Chain_3]
+8576 0.049217002
+Accepted[Chain_3]
+8576 22
+Rejected[Chain_3]
+8576 425
+Accept_rt[Chain_4]
+8576 0.035447761
+Accepted[Chain_4]
+8576 19
+Rejected[Chain_4]
+8576 517
+Accept_rt[Chain_5]
+8576 0.039772727
+Accepted[Chain_5]
+8576 14
+Rejected[Chain_5]
+8576 338
+Accept_rt[Chain_6]
+8576 0.065217391
+Accepted[Chain_6]
+8576 9
+Rejected[Chain_6]
+8576 129
+Accept_rt[Chain_7]
+8576 0.049808429
+Accepted[Chain_7]
+8576 26
+Rejected[Chain_7]
+8576 496
+Accept_rt[Chain_8]
+8576 0.062753036
+Accepted[Chain_8]
+8576 31
+Rejected[Chain_8]
+8576 463
+Accept_rt[Chain_9]
+8576 0.045
+Accepted[Chain_9]
+8576 9
+Rejected[Chain_9]
+8576 191
+Accept_rt[Chain_10]
+8576 0.035294118
+Accepted[Chain_10]
+8576 9
+Rejected[Chain_10]
+8576 246
+Accept_rt[Chain_11]
+8576 0.053003534
+Accepted[Chain_11]
+8576 15
+Rejected[Chain_11]
+8576 268
+Accept_rt[Chain_12]
+8576 0.097222222
+Accepted[Chain_12]
+8576 7
+Rejected[Chain_12]
+8576 65
+Accept_rt[Chain_13]
+8576 0.04109589
+Accepted[Chain_13]
+8576 3
+Rejected[Chain_13]
+8576 70
+Accept_rt[Chain_14]
+8576 0.033402923
+Accepted[Chain_14]
+8576 16
+Rejected[Chain_14]
+8576 463
+Accept_rt[Chain_15]
+8576 0.039840637
+Accepted[Chain_15]
+8576 10
+Rejected[Chain_15]
+8576 241
+Is_outlier[Chain_6]
+9216 -85.576893
+Mean_accept_rt
+9216 0.04446038
+Btw_chains_mean_"(fC) Contact Rate"
+9216 16.393184
+Btw_chains_mean_"(fI) Infectivity"
+9216 0.30333705
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+9216 0.24601209
+Btw_chains_mean_"(tR) Average Time to Recovery"
+9216 0.25276906
+Btw_chains_mean_Average time to get vaccinated when infections are low
+9216 2.0064329
+Btw_chains_mean_Average time to get vaccinated when infections are high
+9216 0.017028852
+Btw_chains_mean_weightWeeklyInfected
+9216 0.049612914
+Btw_chains_mean_weightMonthlyVaccinated
+9216 0.04610991
+Btw_chains_mean_Payoff
+9216 89.53719
+Btw_chains_var_"(fC) Contact Rate"
+9216 0.0032172782
+Btw_chains_var_"(fI) Infectivity"
+9216 4.2679487e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+9216 7.5213243e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+9216 3.138743e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+9216 5.0235464e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+9216 3.3862481e-07
+Btw_chains_var_weightWeeklyInfected
+9216 1.7016891e-06
+Btw_chains_var_weightMonthlyVaccinated
+9216 4.2418274e-06
+Btw_chains_var_Payoff
+9216 -0.15881334
+Wth_chains_mean_var_"(fC) Contact Rate"
+9216 0.28986441
+Wth_chains_mean_var_"(fI) Infectivity"
+9216 0.00011340516
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+9216 9.347549e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+9216 4.4632381e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+9216 0.00071256498
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+9216 6.03149e-07
+Wth_chains_mean_var_weightWeeklyInfected
+9216 2.7367738e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+9216 0.00012623101
+Wth_chains_mean_var_Payoff
+9216 -1.017077
+PSRF_"(fC) Contact Rate"
+9216 1.0107407
+PSRF_"(fI) Infectivity"
+9216 1.3759867
+PSRF_"(tInc) Average Time to Show Symptoms"
+9216 1.0801045
+PSRF_"(tR) Average Time to Recovery"
+9216 1.7028849
+PSRF_Average time to get vaccinated when infections are low
+9216 1.0701409
+PSRF_Average time to get vaccinated when infections are high
+9216 1.5610696
+PSRF_weightWeeklyInfected
+9216 1.0618201
+PSRF_weightMonthlyVaccinated
+9216 1.0332451
+PSRF_Payoff
+9216 -1.1557883
+Accept_rt[Chain_0]
+9216 0.0091743119
+Accepted[Chain_0]
+9216 1
+Rejected[Chain_0]
+9216 108
+Accept_rt[Chain_1]
+9216 0.065708419
+Accepted[Chain_1]
+9216 32
+Rejected[Chain_1]
+9216 455
+Accept_rt[Chain_2]
+9216 0.041570439
+Accepted[Chain_2]
+9216 18
+Rejected[Chain_2]
+9216 415
+Accept_rt[Chain_3]
+9216 0.047227926
+Accepted[Chain_3]
+9216 23
+Rejected[Chain_3]
+9216 464
+Accept_rt[Chain_4]
+9216 0.034722222
+Accepted[Chain_4]
+9216 20
+Rejected[Chain_4]
+9216 556
+Accept_rt[Chain_5]
+9216 0.038265306
+Accepted[Chain_5]
+9216 15
+Rejected[Chain_5]
+9216 377
+Accept_rt[Chain_6]
+9216 0.084269663
+Accepted[Chain_6]
+9216 15
+Rejected[Chain_6]
+9216 163
+Accept_rt[Chain_7]
+9216 0.046263345
+Accepted[Chain_7]
+9216 26
+Rejected[Chain_7]
+9216 536
+Accept_rt[Chain_8]
+9216 0.059925094
+Accepted[Chain_8]
+9216 32
+Rejected[Chain_8]
+9216 502
+Accept_rt[Chain_9]
+9216 0.0375
+Accepted[Chain_9]
+9216 9
+Rejected[Chain_9]
+9216 231
+Accept_rt[Chain_10]
+9216 0.033898305
+Accepted[Chain_10]
+9216 10
+Rejected[Chain_10]
+9216 285
+Accept_rt[Chain_11]
+9216 0.046439628
+Accepted[Chain_11]
+9216 15
+Rejected[Chain_11]
+9216 308
+Accept_rt[Chain_12]
+9216 0.051282051
+Accepted[Chain_12]
+9216 2
+Rejected[Chain_12]
+9216 37
+Accept_rt[Chain_13]
+9216 0.03539823
+Accepted[Chain_13]
+9216 4
+Rejected[Chain_13]
+9216 109
+Accept_rt[Chain_14]
+9216 0.030828516
+Accepted[Chain_14]
+9216 16
+Rejected[Chain_14]
+9216 503
+Accept_rt[Chain_15]
+9216 0.034364261
+Accepted[Chain_15]
+9216 10
+Rejected[Chain_15]
+9216 281
+Is_outlier[Chain_7]
+9888 -85.287896
+Mean_accept_rt
+9888 0.042160738
+Btw_chains_mean_"(fC) Contact Rate"
+9888 16.445144
+Btw_chains_mean_"(fI) Infectivity"
+9888 0.3031063
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+9888 0.24690377
+Btw_chains_mean_"(tR) Average Time to Recovery"
+9888 0.25221625
+Btw_chains_mean_Average time to get vaccinated when infections are low
+9888 2.0062983
+Btw_chains_mean_Average time to get vaccinated when infections are high
+9888 0.017062193
+Btw_chains_mean_weightWeeklyInfected
+9888 0.049028403
+Btw_chains_mean_weightMonthlyVaccinated
+9888 0.04586487
+Btw_chains_mean_Payoff
+9888 89.595889
+Btw_chains_var_"(fC) Contact Rate"
+9888 0.0038144698
+Btw_chains_var_"(fI) Infectivity"
+9888 2.6352258e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+9888 2.4916416e-06
+Btw_chains_var_"(tR) Average Time to Recovery"
+9888 1.8903567e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+9888 3.5191562e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+9888 2.8898194e-07
+Btw_chains_var_weightWeeklyInfected
+9888 1.5515796e-06
+Btw_chains_var_weightMonthlyVaccinated
+9888 1.2522773e-06
+Btw_chains_var_Payoff
+9888 -0.051875123
+Wth_chains_mean_var_"(fC) Contact Rate"
+9888 0.28698407
+Wth_chains_mean_var_"(fI) Infectivity"
+9888 0.00011622781
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+9888 0.00010979796
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+9888 5.5034015e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+9888 0.00075108164
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+9888 7.7377234e-07
+Wth_chains_mean_var_weightWeeklyInfected
+9888 2.5043706e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+9888 9.8000365e-05
+Wth_chains_mean_var_Payoff
+9888 -1.0830506
+PSRF_"(fC) Contact Rate"
+9888 1.0129622
+PSRF_"(fI) Infectivity"
+9888 1.2264
+PSRF_"(tInc) Average Time to Show Symptoms"
+9888 1.0223636
+PSRF_"(tR) Average Time to Recovery"
+9888 1.3431594
+PSRF_Average time to get vaccinated when infections are low
+9888 1.0465251
+PSRF_Average time to get vaccinated when infections are high
+9888 1.3731421
+PSRF_weightWeeklyInfected
+9888 1.0616255
+PSRF_weightMonthlyVaccinated
+9888 1.0124489
+PSRF_Payoff
+9888 -1.0475678
+Accept_rt[Chain_0]
+9888 0.013245033
+Accepted[Chain_0]
+9888 2
+Rejected[Chain_0]
+9888 149
+Accept_rt[Chain_1]
+9888 0.060491493
+Accepted[Chain_1]
+9888 32
+Rejected[Chain_1]
+9888 497
+Accept_rt[Chain_2]
+9888 0.037894737
+Accepted[Chain_2]
+9888 18
+Rejected[Chain_2]
+9888 457
+Accept_rt[Chain_3]
+9888 0.04536862
+Accepted[Chain_3]
+9888 24
+Rejected[Chain_3]
+9888 505
+Accept_rt[Chain_4]
+9888 0.037216828
+Accepted[Chain_4]
+9888 23
+Rejected[Chain_4]
+9888 595
+Accept_rt[Chain_5]
+9888 0.034562212
+Accepted[Chain_5]
+9888 15
+Rejected[Chain_5]
+9888 419
+Accept_rt[Chain_6]
+9888 0.071428571
+Accepted[Chain_6]
+9888 3
+Rejected[Chain_6]
+9888 39
+Accept_rt[Chain_7]
+9888 0.051324503
+Accepted[Chain_7]
+9888 31
+Rejected[Chain_7]
+9888 573
+Accept_rt[Chain_8]
+9888 0.055555556
+Accepted[Chain_8]
+9888 32
+Rejected[Chain_8]
+9888 544
+Accept_rt[Chain_9]
+9888 0.039007092
+Accepted[Chain_9]
+9888 11
+Rejected[Chain_9]
+9888 271
+Accept_rt[Chain_10]
+9888 0.035608309
+Accepted[Chain_10]
+9888 12
+Rejected[Chain_10]
+9888 325
+Accept_rt[Chain_11]
+9888 0.04109589
+Accepted[Chain_11]
+9888 15
+Rejected[Chain_11]
+9888 350
+Accept_rt[Chain_12]
+9888 0.061728395
+Accepted[Chain_12]
+9888 5
+Rejected[Chain_12]
+9888 76
+Accept_rt[Chain_13]
+9888 0.038709677
+Accepted[Chain_13]
+9888 6
+Rejected[Chain_13]
+9888 149
+Accept_rt[Chain_14]
+9888 0.03030303
+Accepted[Chain_14]
+9888 17
+Rejected[Chain_14]
+9888 544
+Accept_rt[Chain_15]
+9888 0.03003003
+Accepted[Chain_15]
+9888 10
+Rejected[Chain_15]
+9888 323
+Mean_accept_rt
+10592 0.040687308
+Btw_chains_mean_"(fC) Contact Rate"
+10592 16.410915
+Btw_chains_mean_"(fI) Infectivity"
+10592 0.30417403
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+10592 0.24636058
+Btw_chains_mean_"(tR) Average Time to Recovery"
+10592 0.25185756
+Btw_chains_mean_Average time to get vaccinated when infections are low
+10592 2.0083363
+Btw_chains_mean_Average time to get vaccinated when infections are high
+10592 0.017199578
+Btw_chains_mean_weightWeeklyInfected
+10592 0.049359484
+Btw_chains_mean_weightMonthlyVaccinated
+10592 0.046451336
+Btw_chains_mean_Payoff
+10592 89.619433
+Btw_chains_var_"(fC) Contact Rate"
+10592 0.0074010639
+Btw_chains_var_"(fI) Infectivity"
+10592 3.4503811e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+10592 2.0253646e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+10592 2.5035436e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+10592 3.6369491e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+10592 2.4724844e-07
+Btw_chains_var_weightWeeklyInfected
+10592 1.1349505e-06
+Btw_chains_var_weightMonthlyVaccinated
+10592 3.7935146e-07
+Btw_chains_var_Payoff
+10592 -0.055719309
+Wth_chains_mean_var_"(fC) Contact Rate"
+10592 0.35461699
+Wth_chains_mean_var_"(fI) Infectivity"
+10592 0.0001373465
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+10592 9.8057373e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+10592 5.6247648e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+10592 0.00074750822
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+10592 8.5244897e-07
+Wth_chains_mean_var_weightWeeklyInfected
+10592 2.7775164e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+10592 0.00010087021
+Wth_chains_mean_var_Payoff
+10592 -1.0702966
+PSRF_"(fC) Contact Rate"
+10592 1.0205464
+PSRF_"(fI) Infectivity"
+10592 1.2508931
+PSRF_"(tInc) Average Time to Show Symptoms"
+10592 1.2062247
+PSRF_"(tR) Average Time to Recovery"
+10592 1.4447688
+PSRF_Average time to get vaccinated when infections are low
+10592 1.0483301
+PSRF_Average time to get vaccinated when infections are high
+10592 1.2897206
+PSRF_weightWeeklyInfected
+10592 1.0405379
+PSRF_weightMonthlyVaccinated
+10592 1.0034366
+PSRF_Payoff
+10592 -1.0517355
+Accept_rt[Chain_0]
+10592 0.015384615
+Accepted[Chain_0]
+10592 3
+Rejected[Chain_0]
+10592 192
+Accept_rt[Chain_1]
+10592 0.057591623
+Accepted[Chain_1]
+10592 33
+Rejected[Chain_1]
+10592 540
+Accept_rt[Chain_2]
+10592 0.036608863
+Accepted[Chain_2]
+10592 19
+Rejected[Chain_2]
+10592 500
+Accept_rt[Chain_3]
+10592 0.055846422
+Accepted[Chain_3]
+10592 32
+Rejected[Chain_3]
+10592 541
+Accept_rt[Chain_4]
+10592 0.034743202
+Accepted[Chain_4]
+10592 23
+Rejected[Chain_4]
+10592 639
+Accept_rt[Chain_5]
+10592 0.031380753
+Accepted[Chain_5]
+10592 15
+Rejected[Chain_5]
+10592 463
+Accept_rt[Chain_6]
+10592 0.069767442
+Accepted[Chain_6]
+10592 6
+Rejected[Chain_6]
+10592 80
+Accept_rt[Chain_7]
+10592 0.097560976
+Accepted[Chain_7]
+10592 4
+Rejected[Chain_7]
+10592 37
+Accept_rt[Chain_8]
+10592 0.053225806
+Accepted[Chain_8]
+10592 33
+Rejected[Chain_8]
+10592 587
+Accept_rt[Chain_9]
+10592 0.033742331
+Accepted[Chain_9]
+10592 11
+Rejected[Chain_9]
+10592 315
+Accept_rt[Chain_10]
+10592 0.039370079
+Accepted[Chain_10]
+10592 15
+Rejected[Chain_10]
+10592 366
+Accept_rt[Chain_11]
+10592 0.039119804
+Accepted[Chain_11]
+10592 16
+Rejected[Chain_11]
+10592 393
+Accept_rt[Chain_12]
+10592 0.04
+Accepted[Chain_12]
+10592 5
+Rejected[Chain_12]
+10592 120
+Accept_rt[Chain_13]
+10592 0.040201005
+Accepted[Chain_13]
+10592 8
+Rejected[Chain_13]
+10592 191
+Accept_rt[Chain_14]
+10592 0.028099174
+Accepted[Chain_14]
+10592 17
+Rejected[Chain_14]
+10592 588
+Accept_rt[Chain_15]
+10592 0.029177719
+Accepted[Chain_15]
+10592 11
+Rejected[Chain_15]
+10592 366
+Is_outlier[Chain_1]
+11344 -86.322897
+Mean_accept_rt
+11344 0.038433752
+Btw_chains_mean_"(fC) Contact Rate"
+11344 16.451703
+Btw_chains_mean_"(fI) Infectivity"
+11344 0.30395828
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+11344 0.24658082
+Btw_chains_mean_"(tR) Average Time to Recovery"
+11344 0.25166917
+Btw_chains_mean_Average time to get vaccinated when infections are low
+11344 2.0093103
+Btw_chains_mean_Average time to get vaccinated when infections are high
+11344 0.017275508
+Btw_chains_mean_weightWeeklyInfected
+11344 0.049836073
+Btw_chains_mean_weightMonthlyVaccinated
+11344 0.047162127
+Btw_chains_mean_Payoff
+11344 89.586715
+Btw_chains_var_"(fC) Contact Rate"
+11344 0.0096726399
+Btw_chains_var_"(fI) Infectivity"
+11344 4.7845603e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+11344 2.4478403e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+11344 2.4545419e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+11344 3.0860481e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+11344 2.2457484e-07
+Btw_chains_var_weightWeeklyInfected
+11344 1.0454827e-06
+Btw_chains_var_weightMonthlyVaccinated
+11344 4.8634763e-07
+Btw_chains_var_Payoff
+11344 -0.041158583
+Wth_chains_mean_var_"(fC) Contact Rate"
+11344 0.40967043
+Wth_chains_mean_var_"(fI) Infectivity"
+11344 0.0001705921
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+11344 0.00010152612
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+11344 6.601866e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+11344 0.00076749219
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+11344 8.5025825e-07
+Wth_chains_mean_var_weightWeeklyInfected
+11344 2.8704062e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+11344 9.8089321e-05
+Wth_chains_mean_var_Payoff
+11344 -1.0352526
+PSRF_"(fC) Contact Rate"
+11344 1.0233218
+PSRF_"(fI) Infectivity"
+11344 1.2801789
+PSRF_"(tInc) Average Time to Show Symptoms"
+11344 1.2408155
+PSRF_"(tR) Average Time to Recovery"
+11344 1.3715062
+PSRF_Average time to get vaccinated when infections are low
+11344 1.0399205
+PSRF_Average time to get vaccinated when infections are high
+11344 1.2638365
+PSRF_weightWeeklyInfected
+11344 1.0361338
+PSRF_weightMonthlyVaccinated
+11344 1.0046692
+PSRF_Payoff
+11344 -1.0394681
+Accept_rt[Chain_0]
+11344 0.016528926
+Accepted[Chain_0]
+11344 4
+Rejected[Chain_0]
+11344 238
+Accept_rt[Chain_1]
+11344 0.05483871
+Accepted[Chain_1]
+11344 34
+Rejected[Chain_1]
+11344 586
+Accept_rt[Chain_2]
+11344 0.033568905
+Accepted[Chain_2]
+11344 19
+Rejected[Chain_2]
+11344 547
+Accept_rt[Chain_3]
+11344 0.053225806
+Accepted[Chain_3]
+11344 33
+Rejected[Chain_3]
+11344 587
+Accept_rt[Chain_4]
+11344 0.032440056
+Accepted[Chain_4]
+11344 23
+Rejected[Chain_4]
+11344 686
+Accept_rt[Chain_5]
+11344 0.03047619
+Accepted[Chain_5]
+11344 16
+Rejected[Chain_5]
+11344 509
+Accept_rt[Chain_6]
+11344 0.060150376
+Accepted[Chain_6]
+11344 8
+Rejected[Chain_6]
+11344 125
+Accept_rt[Chain_7]
+11344 0.068181818
+Accepted[Chain_7]
+11344 6
+Rejected[Chain_7]
+11344 82
+Accept_rt[Chain_8]
+11344 0.049475262
+Accepted[Chain_8]
+11344 33
+Rejected[Chain_8]
+11344 634
+Accept_rt[Chain_9]
+11344 0.029490617
+Accepted[Chain_9]
+11344 11
+Rejected[Chain_9]
+11344 362
+Accept_rt[Chain_10]
+11344 0.035046729
+Accepted[Chain_10]
+11344 15
+Rejected[Chain_10]
+11344 413
+Accept_rt[Chain_11]
+11344 0.035087719
+Accepted[Chain_11]
+11344 16
+Rejected[Chain_11]
+11344 440
+Accept_rt[Chain_12]
+11344 0.046511628
+Accepted[Chain_12]
+11344 8
+Rejected[Chain_12]
+11344 164
+Accept_rt[Chain_13]
+11344 0.032520325
+Accepted[Chain_13]
+11344 8
+Rejected[Chain_13]
+11344 238
+Accept_rt[Chain_14]
+11344 0.02607362
+Accepted[Chain_14]
+11344 17
+Rejected[Chain_14]
+11344 635
+Accept_rt[Chain_15]
+11344 0.035377358
+Accepted[Chain_15]
+11344 15
+Rejected[Chain_15]
+11344 409
+Is_outlier[Chain_1]
+12128 -86.458105
+Is_outlier[Chain_12]
+12128 -87.2312
+Mean_accept_rt
+12128 0.036345637
+Btw_chains_mean_"(fC) Contact Rate"
+12128 16.500387
+Btw_chains_mean_"(fI) Infectivity"
+12128 0.30221361
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+12128 0.24475394
+Btw_chains_mean_"(tR) Average Time to Recovery"
+12128 0.25265467
+Btw_chains_mean_Average time to get vaccinated when infections are low
+12128 2.0115356
+Btw_chains_mean_Average time to get vaccinated when infections are high
+12128 0.017237086
+Btw_chains_mean_weightWeeklyInfected
+12128 0.048968886
+Btw_chains_mean_weightMonthlyVaccinated
+12128 0.048810578
+Btw_chains_mean_Payoff
+12128 89.650093
+Btw_chains_var_"(fC) Contact Rate"
+12128 0.028337722
+Btw_chains_var_"(fI) Infectivity"
+12128 5.7788227e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+12128 1.2105483e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+12128 1.6843703e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+12128 6.0162536e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+12128 2.1150662e-07
+Btw_chains_var_weightWeeklyInfected
+12128 5.1610522e-07
+Btw_chains_var_weightMonthlyVaccinated
+12128 1.925448e-06
+Btw_chains_var_Payoff
+12128 -0.0055666958
+Wth_chains_mean_var_"(fC) Contact Rate"
+12128 0.47955395
+Wth_chains_mean_var_"(fI) Infectivity"
+12128 0.00016430977
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+12128 0.00014197026
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+12128 0.00011846861
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+12128 0.00089840112
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+12128 1.1518698e-06
+Wth_chains_mean_var_weightWeeklyInfected
+12128 2.4231992e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+12128 9.6359189e-05
+Wth_chains_mean_var_Payoff
+12128 -0.92497646
+PSRF_"(fC) Contact Rate"
+12128 1.058809
+PSRF_"(fI) Infectivity"
+12128 1.3514201
+PSRF_"(tInc) Average Time to Show Symptoms"
+12128 1.0849849
+PSRF_"(tR) Average Time to Recovery"
+12128 1.1418958
+PSRF_Average time to get vaccinated when infections are low
+12128 1.0666834
+PSRF_Average time to get vaccinated when infections are high
+12128 1.1833374
+PSRF_weightWeeklyInfected
+12128 1.0210157
+PSRF_weightMonthlyVaccinated
+12128 1.0196991
+PSRF_Payoff
+12128 -1.0057354
+Accept_rt[Chain_0]
+12128 0.017182131
+Accepted[Chain_0]
+12128 5
+Rejected[Chain_0]
+12128 286
+Accept_rt[Chain_1]
+12128 0.057142857
+Accepted[Chain_1]
+12128 2
+Rejected[Chain_1]
+12128 33
+Accept_rt[Chain_2]
+12128 0.030894309
+Accepted[Chain_2]
+12128 19
+Rejected[Chain_2]
+12128 596
+Accept_rt[Chain_3]
+12128 0.053811659
+Accepted[Chain_3]
+12128 36
+Rejected[Chain_3]
+12128 633
+Accept_rt[Chain_4]
+12128 0.031662269
+Accepted[Chain_4]
+12128 24
+Rejected[Chain_4]
+12128 734
+Accept_rt[Chain_5]
+12128 0.031358885
+Accepted[Chain_5]
+12128 18
+Rejected[Chain_5]
+12128 556
+Accept_rt[Chain_6]
+12128 0.049450549
+Accepted[Chain_6]
+12128 9
+Rejected[Chain_6]
+12128 173
+Accept_rt[Chain_7]
+12128 0.065693431
+Accepted[Chain_7]
+12128 9
+Rejected[Chain_7]
+12128 128
+Accept_rt[Chain_8]
+12128 0.046089385
+Accepted[Chain_8]
+12128 33
+Rejected[Chain_8]
+12128 683
+Accept_rt[Chain_9]
+12128 0.026066351
+Accepted[Chain_9]
+12128 11
+Rejected[Chain_9]
+12128 411
+Accept_rt[Chain_10]
+12128 0.039832285
+Accepted[Chain_10]
+12128 19
+Rejected[Chain_10]
+12128 458
+Accept_rt[Chain_11]
+12128 0.033663366
+Accepted[Chain_11]
+12128 17
+Rejected[Chain_11]
+12128 488
+Accept_rt[Chain_12]
+12128 0.045248869
+Accepted[Chain_12]
+12128 10
+Rejected[Chain_12]
+12128 211
+Accept_rt[Chain_13]
+12128 0.030508475
+Accepted[Chain_13]
+12128 9
+Rejected[Chain_13]
+12128 286
+Accept_rt[Chain_14]
+12128 0.027104137
+Accepted[Chain_14]
+12128 19
+Rejected[Chain_14]
+12128 682
+Accept_rt[Chain_15]
+12128 0.035940803
+Accepted[Chain_15]
+12128 17
+Rejected[Chain_15]
+12128 456
+Is_outlier[Chain_3]
+12944 -87.474484
+Is_outlier[Chain_10]
+12944 -87.886805
+Mean_accept_rt
+12944 0.034111782
+Btw_chains_mean_"(fC) Contact Rate"
+12944 16.557233
+Btw_chains_mean_"(fI) Infectivity"
+12944 0.30393945
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+12944 0.24678151
+Btw_chains_mean_"(tR) Average Time to Recovery"
+12944 0.25065315
+Btw_chains_mean_Average time to get vaccinated when infections are low
+12944 2.0157182
+Btw_chains_mean_Average time to get vaccinated when infections are high
+12944 0.017376614
+Btw_chains_mean_weightWeeklyInfected
+12944 0.048678893
+Btw_chains_mean_weightMonthlyVaccinated
+12944 0.048722228
+Btw_chains_mean_Payoff
+12944 89.703906
+Btw_chains_var_"(fC) Contact Rate"
+12944 0.071587589
+Btw_chains_var_"(fI) Infectivity"
+12944 8.6032653e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+12944 1.3752739e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+12944 2.1643737e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+12944 0.00010944041
+Btw_chains_var_Average time to get vaccinated when infections are high
+12944 2.8422562e-07
+Btw_chains_var_weightWeeklyInfected
+12944 6.1015201e-07
+Btw_chains_var_weightMonthlyVaccinated
+12944 8.1980186e-07
+Btw_chains_var_Payoff
+12944 -0.017853514
+Wth_chains_mean_var_"(fC) Contact Rate"
+12944 0.53234013
+Wth_chains_mean_var_"(fI) Infectivity"
+12944 0.00019075793
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+12944 0.00019097379
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+12944 0.00016808437
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+12944 0.00090695566
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+12944 1.2174655e-06
+Wth_chains_mean_var_weightWeeklyInfected
+12944 2.4356036e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+12944 0.00010428529
+Wth_chains_mean_var_Payoff
+12944 -0.86433348
+PSRF_"(fC) Contact Rate"
+12944 1.1342148
+PSRF_"(fI) Infectivity"
+12944 1.4507419
+PSRF_"(tInc) Average Time to Show Symptoms"
+12944 1.0717514
+PSRF_"(tR) Average Time to Recovery"
+12944 1.1285047
+PSRF_Average time to get vaccinated when infections are low
+12944 1.1204055
+PSRF_Average time to get vaccinated when infections are high
+12944 1.2331944
+PSRF_weightWeeklyInfected
+12944 1.024789
+PSRF_weightMonthlyVaccinated
+12944 1.0075987
+PSRF_Payoff
+12944 -1.0203934
+Accept_rt[Chain_0]
+12944 0.014619883
+Accepted[Chain_0]
+12944 5
+Rejected[Chain_0]
+12944 337
+Accept_rt[Chain_1]
+12944 0.10869565
+Accepted[Chain_1]
+12944 5
+Rejected[Chain_1]
+12944 41
+Accept_rt[Chain_2]
+12944 0.028528529
+Accepted[Chain_2]
+12944 19
+Rejected[Chain_2]
+12944 647
+Accept_rt[Chain_3]
+12944 0.052777778
+Accepted[Chain_3]
+12944 38
+Rejected[Chain_3]
+12944 682
+Accept_rt[Chain_4]
+12944 0.029666255
+Accepted[Chain_4]
+12944 24
+Rejected[Chain_4]
+12944 785
+Accept_rt[Chain_5]
+12944 0.0288
+Accepted[Chain_5]
+12944 18
+Rejected[Chain_5]
+12944 607
+Accept_rt[Chain_6]
+12944 0.042918455
+Accepted[Chain_6]
+12944 10
+Rejected[Chain_6]
+12944 223
+Accept_rt[Chain_7]
+12944 0.058510638
+Accepted[Chain_7]
+12944 11
+Rejected[Chain_7]
+12944 177
+Accept_rt[Chain_8]
+12944 0.044328553
+Accepted[Chain_8]
+12944 34
+Rejected[Chain_8]
+12944 733
+Accept_rt[Chain_9]
+12944 0.023255814
+Accepted[Chain_9]
+12944 11
+Rejected[Chain_9]
+12944 462
+Accept_rt[Chain_10]
+12944 0.035984848
+Accepted[Chain_10]
+12944 19
+Rejected[Chain_10]
+12944 509
+Accept_rt[Chain_11]
+12944 0.032374101
+Accepted[Chain_11]
+12944 18
+Rejected[Chain_11]
+12944 538
+Accept_rt[Chain_12]
+12944 0.021276596
+Accepted[Chain_12]
+12944 1
+Rejected[Chain_12]
+12944 46
+Accept_rt[Chain_13]
+12944 0.028901734
+Accepted[Chain_13]
+12944 10
+Rejected[Chain_13]
+12944 336
+Accept_rt[Chain_14]
+12944 0.025265957
+Accepted[Chain_14]
+12944 19
+Rejected[Chain_14]
+12944 733
+Accept_rt[Chain_15]
+12944 0.034351145
+Accepted[Chain_15]
+12944 18
+Rejected[Chain_15]
+12944 506
+Is_outlier[Chain_3]
+13808 -86.307022
+Is_outlier[Chain_13]
+13808 -86.870226
+Mean_accept_rt
+13808 0.031128943
+Btw_chains_mean_"(fC) Contact Rate"
+13808 16.73112
+Btw_chains_mean_"(fI) Infectivity"
+13808 0.30724904
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+13808 0.25233324
+Btw_chains_mean_"(tR) Average Time to Recovery"
+13808 0.24552961
+Btw_chains_mean_Average time to get vaccinated when infections are low
+13808 2.0184726
+Btw_chains_mean_Average time to get vaccinated when infections are high
+13808 0.01762876
+Btw_chains_mean_weightWeeklyInfected
+13808 0.048327828
+Btw_chains_mean_weightMonthlyVaccinated
+13808 0.048559283
+Btw_chains_mean_Payoff
+13808 89.769312
+Btw_chains_var_"(fC) Contact Rate"
+13808 0.11013719
+Btw_chains_var_"(fI) Infectivity"
+13808 7.375352e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+13808 1.4118561e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+13808 1.655106e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+13808 0.00011390982
+Btw_chains_var_Average time to get vaccinated when infections are high
+13808 2.6787857e-07
+Btw_chains_var_weightWeeklyInfected
+13808 9.6384303e-07
+Btw_chains_var_weightMonthlyVaccinated
+13808 4.910466e-07
+Btw_chains_var_Payoff
+13808 -0.021981533
+Wth_chains_mean_var_"(fC) Contact Rate"
+13808 0.53198382
+Wth_chains_mean_var_"(fI) Infectivity"
+13808 0.00015823453
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+13808 0.00015537335
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+13808 0.00012604577
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+13808 0.00073941439
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+13808 1.0107763e-06
+Wth_chains_mean_var_weightWeeklyInfected
+13808 1.82791e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+13808 9.6870549e-05
+Wth_chains_mean_var_Payoff
+13808 -0.81011639
+PSRF_"(fC) Contact Rate"
+13808 1.2067544
+PSRF_"(fI) Infectivity"
+13808 1.4658259
+PSRF_"(tInc) Average Time to Show Symptoms"
+13808 1.0905919
+PSRF_"(tR) Average Time to Recovery"
+13808 1.1310332
+PSRF_Average time to get vaccinated when infections are low
+13808 1.1537774
+PSRF_Average time to get vaccinated when infections are high
+13808 1.2647459
+PSRF_weightWeeklyInfected
+13808 1.0524525
+PSRF_weightMonthlyVaccinated
+13808 1.0047924
+PSRF_Payoff
+13808 -1.0268571
+CMCP
+13808 3.0577098e-06
+Overlap
+13808 0.48047661
+Collapsed
+13808 0
+Accept_rt[Chain_0]
+13808 0.012626263
+Accepted[Chain_0]
+13808 5
+Rejected[Chain_0]
+13808 391
+Accept_rt[Chain_1]
+13808 0.08
+Accepted[Chain_1]
+13808 8
+Rejected[Chain_1]
+13808 92
+Accept_rt[Chain_2]
+13808 0.027777778
+Accepted[Chain_2]
+13808 20
+Rejected[Chain_2]
+13808 700
+Accept_rt[Chain_3]
+13808 0.042553191
+Accepted[Chain_3]
+13808 2
+Rejected[Chain_3]
+13808 45
+Accept_rt[Chain_4]
+13808 0.027809965
+Accepted[Chain_4]
+13808 24
+Rejected[Chain_4]
+13808 839
+Accept_rt[Chain_5]
+13808 0.029455081
+Accepted[Chain_5]
+13808 20
+Rejected[Chain_5]
+13808 659
+Accept_rt[Chain_6]
+13808 0.034843206
+Accepted[Chain_6]
+13808 10
+Rejected[Chain_6]
+13808 277
+Accept_rt[Chain_7]
+13808 0.053719008
+Accepted[Chain_7]
+13808 13
+Rejected[Chain_7]
+13808 229
+Accept_rt[Chain_8]
+13808 0.042630938
+Accepted[Chain_8]
+13808 35
+Rejected[Chain_8]
+13808 786
+Accept_rt[Chain_9]
+13808 0.024667932
+Accepted[Chain_9]
+13808 13
+Rejected[Chain_9]
+13808 514
+Accept_rt[Chain_10]
+13808 0.078431373
+Accepted[Chain_10]
+13808 4
+Rejected[Chain_10]
+13808 47
+Accept_rt[Chain_11]
+13808 0.031147541
+Accepted[Chain_11]
+13808 19
+Rejected[Chain_11]
+13808 591
+Accept_rt[Chain_12]
+13808 0.01980198
+Accepted[Chain_12]
+13808 2
+Rejected[Chain_12]
+13808 99
+Accept_rt[Chain_13]
+13808 0.03
+Accepted[Chain_13]
+13808 12
+Rejected[Chain_13]
+13808 388
+Accept_rt[Chain_14]
+13808 0.024813896
+Accepted[Chain_14]
+13808 20
+Rejected[Chain_14]
+13808 786
+Accept_rt[Chain_15]
+13808 0.031141869
+Accepted[Chain_15]
+13808 18
+Rejected[Chain_15]
+13808 560
+Is_outlier[Chain_4]
+14720 -83.732245
+Mean_accept_rt
+14720 0.030472718
+Btw_chains_mean_"(fC) Contact Rate"
+14720 16.852775
+Btw_chains_mean_"(fI) Infectivity"
+14720 0.30609016
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+14720 0.25360368
+Btw_chains_mean_"(tR) Average Time to Recovery"
+14720 0.2450366
+Btw_chains_mean_Average time to get vaccinated when infections are low
+14720 2.0224186
+Btw_chains_mean_Average time to get vaccinated when infections are high
+14720 0.017735882
+Btw_chains_mean_weightWeeklyInfected
+14720 0.048212586
+Btw_chains_mean_weightMonthlyVaccinated
+14720 0.048343904
+Btw_chains_mean_Payoff
+14720 89.789029
+Btw_chains_var_"(fC) Contact Rate"
+14720 0.14782583
+Btw_chains_var_"(fI) Infectivity"
+14720 0.00011514431
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+14720 1.2246835e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+14720 2.0362876e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+14720 5.5498897e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+14720 3.8785321e-07
+Btw_chains_var_weightWeeklyInfected
+14720 1.0714285e-06
+Btw_chains_var_weightMonthlyVaccinated
+14720 3.8043949e-06
+Btw_chains_var_Payoff
+14720 -0.074253332
+Wth_chains_mean_var_"(fC) Contact Rate"
+14720 0.57270505
+Wth_chains_mean_var_"(fI) Infectivity"
+14720 0.00018434995
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+14720 0.00017614208
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+14720 0.00013941137
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+14720 0.00084001853
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+14720 8.8802211e-07
+Wth_chains_mean_var_weightWeeklyInfected
+14720 1.8233836e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+14720 0.00011484866
+Wth_chains_mean_var_Payoff
+14720 -0.92518036
+PSRF_"(fC) Contact Rate"
+14720 1.2578582
+PSRF_"(fI) Infectivity"
+14720 1.6243359
+PSRF_"(tInc) Average Time to Show Symptoms"
+14720 1.0692677
+PSRF_"(tR) Average Time to Recovery"
+14720 1.1458028
+PSRF_Average time to get vaccinated when infections are low
+14720 1.0658082
+PSRF_Average time to get vaccinated when infections are high
+14720 1.4365003
+PSRF_weightWeeklyInfected
+14720 1.0585
+PSRF_weightMonthlyVaccinated
+14720 1.0328648
+PSRF_Payoff
+14720 -1.0799978
+Accept_rt[Chain_0]
+14720 0.013245033
+Accepted[Chain_0]
+14720 6
+Rejected[Chain_0]
+14720 447
+Accept_rt[Chain_1]
+14720 0.050955414
+Accepted[Chain_1]
+14720 8
+Rejected[Chain_1]
+14720 149
+Accept_rt[Chain_2]
+14720 0.027027027
+Accepted[Chain_2]
+14720 21
+Rejected[Chain_2]
+14720 756
+Accept_rt[Chain_3]
+14720 0.035087719
+Accepted[Chain_3]
+14720 2
+Rejected[Chain_3]
+14720 55
+Accept_rt[Chain_4]
+14720 0.02826087
+Accepted[Chain_4]
+14720 26
+Rejected[Chain_4]
+14720 894
+Accept_rt[Chain_5]
+14720 0.032608696
+Accepted[Chain_5]
+14720 24
+Rejected[Chain_5]
+14720 712
+Accept_rt[Chain_6]
+14720 0.031976744
+Accepted[Chain_6]
+14720 11
+Rejected[Chain_6]
+14720 333
+Accept_rt[Chain_7]
+14720 0.046822742
+Accepted[Chain_7]
+14720 14
+Rejected[Chain_7]
+14720 285
+Accept_rt[Chain_8]
+14720 0.04214123
+Accepted[Chain_8]
+14720 37
+Rejected[Chain_8]
+14720 841
+Accept_rt[Chain_9]
+14720 0.025684932
+Accepted[Chain_9]
+14720 15
+Rejected[Chain_9]
+14720 569
+Accept_rt[Chain_10]
+14720 0.046296296
+Accepted[Chain_10]
+14720 5
+Rejected[Chain_10]
+14720 103
+Accept_rt[Chain_11]
+14720 0.028485757
+Accepted[Chain_11]
+14720 19
+Rejected[Chain_11]
+14720 648
+Accept_rt[Chain_12]
+14720 0.018987342
+Accepted[Chain_12]
+14720 3
+Rejected[Chain_12]
+14720 155
+Accept_rt[Chain_13]
+14720 0.046511628
+Accepted[Chain_13]
+14720 2
+Rejected[Chain_13]
+14720 41
+Accept_rt[Chain_14]
+14720 0.025492468
+Accepted[Chain_14]
+14720 22
+Rejected[Chain_14]
+14720 841
+Accept_rt[Chain_15]
+14720 0.02992126
+Accepted[Chain_15]
+14720 19
+Rejected[Chain_15]
+14720 616
+Is_outlier[Chain_8]
+15680 -86.507958
+Mean_accept_rt
+15680 0.029541332
+Btw_chains_mean_"(fC) Contact Rate"
+15680 17.037651
+Btw_chains_mean_"(fI) Infectivity"
+15680 0.30807032
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+15680 0.25741239
+Btw_chains_mean_"(tR) Average Time to Recovery"
+15680 0.24143205
+Btw_chains_mean_Average time to get vaccinated when infections are low
+15680 2.0243474
+Btw_chains_mean_Average time to get vaccinated when infections are high
+15680 0.017889222
+Btw_chains_mean_weightWeeklyInfected
+15680 0.048060559
+Btw_chains_mean_weightMonthlyVaccinated
+15680 0.048402831
+Btw_chains_mean_Payoff
+15680 89.752316
+Btw_chains_var_"(fC) Contact Rate"
+15680 0.20910106
+Btw_chains_var_"(fI) Infectivity"
+15680 0.00027241405
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+15680 3.0688957e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+15680 6.3494388e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+15680 5.0932446e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+15680 5.3579289e-07
+Btw_chains_var_weightWeeklyInfected
+15680 1.9385778e-06
+Btw_chains_var_weightMonthlyVaccinated
+15680 6.7682372e-06
+Btw_chains_var_Payoff
+15680 -0.12020401
+Wth_chains_mean_var_"(fC) Contact Rate"
+15680 0.81642752
+Wth_chains_mean_var_"(fI) Infectivity"
+15680 0.00018511757
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+15680 0.00023466967
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+15680 0.00018081176
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+15680 0.00091275587
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+15680 1.0168331e-06
+Wth_chains_mean_var_weightWeeklyInfected
+15680 1.7329661e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+15680 0.00012528517
+Wth_chains_mean_var_Payoff
+15680 -0.96932413
+PSRF_"(fC) Contact Rate"
+15680 1.255858
+PSRF_"(fI) Infectivity"
+15680 2.471314
+PSRF_"(tInc) Average Time to Show Symptoms"
+15680 1.130516
+PSRF_"(tR) Average Time to Recovery"
+15680 1.3509038
+PSRF_Average time to get vaccinated when infections are low
+15680 1.0555416
+PSRF_Average time to get vaccinated when infections are high
+15680 1.526664
+PSRF_weightWeeklyInfected
+15680 1.1116056
+PSRF_weightMonthlyVaccinated
+15680 1.0537635
+PSRF_Payoff
+15680 -1.1237489
+Accept_rt[Chain_0]
+15680 0.011695906
+Accepted[Chain_0]
+15680 6
+Rejected[Chain_0]
+15680 507
+Accept_rt[Chain_1]
+15680 0.041474654
+Accepted[Chain_1]
+15680 9
+Rejected[Chain_1]
+15680 208
+Accept_rt[Chain_2]
+15680 0.027479092
+Accepted[Chain_2]
+15680 23
+Rejected[Chain_2]
+15680 814
+Accept_rt[Chain_3]
+15680 0.025641026
+Accepted[Chain_3]
+15680 3
+Rejected[Chain_3]
+15680 114
+Accept_rt[Chain_4]
+15680 0.033898305
+Accepted[Chain_4]
+15680 2
+Rejected[Chain_4]
+15680 57
+Accept_rt[Chain_5]
+15680 0.030150754
+Accepted[Chain_5]
+15680 24
+Rejected[Chain_5]
+15680 772
+Accept_rt[Chain_6]
+15680 0.02970297
+Accepted[Chain_6]
+15680 12
+Rejected[Chain_6]
+15680 392
+Accept_rt[Chain_7]
+15680 0.04735376
+Accepted[Chain_7]
+15680 17
+Rejected[Chain_7]
+15680 342
+Accept_rt[Chain_8]
+15680 0.042643923
+Accepted[Chain_8]
+15680 40
+Rejected[Chain_8]
+15680 898
+Accept_rt[Chain_9]
+15680 0.023291925
+Accepted[Chain_9]
+15680 15
+Rejected[Chain_9]
+15680 629
+Accept_rt[Chain_10]
+15680 0.029761905
+Accepted[Chain_10]
+15680 5
+Rejected[Chain_10]
+15680 163
+Accept_rt[Chain_11]
+15680 0.026134801
+Accepted[Chain_11]
+15680 19
+Rejected[Chain_11]
+15680 708
+Accept_rt[Chain_12]
+15680 0.02293578
+Accepted[Chain_12]
+15680 5
+Rejected[Chain_12]
+15680 213
+Accept_rt[Chain_13]
+15680 0.038834951
+Accepted[Chain_13]
+15680 4
+Rejected[Chain_13]
+15680 99
+Accept_rt[Chain_14]
+15680 0.026002167
+Accepted[Chain_14]
+15680 24
+Rejected[Chain_14]
+15680 899
+Accept_rt[Chain_15]
+15680 0.028776978
+Accepted[Chain_15]
+15680 20
+Rejected[Chain_15]
+15680 675
+Is_outlier[Chain_13]
+16688 -86.079379
+Mean_accept_rt
+16688 0.026968024
+Btw_chains_mean_"(fC) Contact Rate"
+16688 17.389047
+Btw_chains_mean_"(fI) Infectivity"
+16688 0.3025376
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+16688 0.25821182
+Btw_chains_mean_"(tR) Average Time to Recovery"
+16688 0.24137582
+Btw_chains_mean_Average time to get vaccinated when infections are low
+16688 2.0241935
+Btw_chains_mean_Average time to get vaccinated when infections are high
+16688 0.017910189
+Btw_chains_mean_weightWeeklyInfected
+16688 0.048687703
+Btw_chains_mean_weightMonthlyVaccinated
+16688 0.048505529
+Btw_chains_mean_Payoff
+16688 89.652205
+Btw_chains_var_"(fC) Contact Rate"
+16688 0.13431672
+Btw_chains_var_"(fI) Infectivity"
+16688 0.00012827984
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+16688 3.015787e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+16688 5.6594432e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+16688 4.0913582e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+16688 3.981314e-07
+Btw_chains_var_weightWeeklyInfected
+16688 2.1336638e-06
+Btw_chains_var_weightMonthlyVaccinated
+16688 1.4403768e-05
+Btw_chains_var_Payoff
+16688 -0.12116595
+Wth_chains_mean_var_"(fC) Contact Rate"
+16688 1.1485108
+Wth_chains_mean_var_"(fI) Infectivity"
+16688 0.00021059086
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+16688 0.00023766568
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+16688 0.00018635382
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+16688 0.00083107027
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+16688 1.1227247e-06
+Wth_chains_mean_var_weightWeeklyInfected
+16688 1.9335613e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+16688 0.00011846103
+Wth_chains_mean_var_Payoff
+16688 -0.84935026
+PSRF_"(fC) Contact Rate"
+16688 1.1166918
+PSRF_"(fI) Infectivity"
+16688 1.6088856
+PSRF_"(tInc) Average Time to Show Symptoms"
+16688 1.1266352
+PSRF_"(tR) Average Time to Recovery"
+16688 1.3034366
+PSRF_Average time to get vaccinated when infections are low
+16688 1.0489732
+PSRF_Average time to get vaccinated when infections are high
+16688 1.3543549
+PSRF_weightWeeklyInfected
+16688 1.1100921
+PSRF_weightMonthlyVaccinated
+16688 1.1213339
+PSRF_Payoff
+16688 -1.1424004
+Accept_rt[Chain_0]
+16688 0.012152778
+Accepted[Chain_0]
+16688 7
+Rejected[Chain_0]
+16688 569
+Accept_rt[Chain_1]
+16688 0.032142857
+Accepted[Chain_1]
+16688 9
+Rejected[Chain_1]
+16688 271
+Accept_rt[Chain_2]
+16688 0.025555556
+Accepted[Chain_2]
+16688 23
+Rejected[Chain_2]
+16688 877
+Accept_rt[Chain_3]
+16688 0.022222222
+Accepted[Chain_3]
+16688 4
+Rejected[Chain_3]
+16688 176
+Accept_rt[Chain_4]
+16688 0.024590164
+Accepted[Chain_4]
+16688 3
+Rejected[Chain_4]
+16688 119
+Accept_rt[Chain_5]
+16688 0.029103609
+Accepted[Chain_5]
+16688 25
+Rejected[Chain_5]
+16688 834
+Accept_rt[Chain_6]
+16688 0.029978587
+Accepted[Chain_6]
+16688 14
+Rejected[Chain_6]
+16688 453
+Accept_rt[Chain_7]
+16688 0.04028436
+Accepted[Chain_7]
+16688 17
+Rejected[Chain_7]
+16688 405
+Accept_rt[Chain_8]
+16688 0.016129032
+Accepted[Chain_8]
+16688 1
+Rejected[Chain_8]
+16688 61
+Accept_rt[Chain_9]
+16688 0.024045262
+Accepted[Chain_9]
+16688 17
+Rejected[Chain_9]
+16688 690
+Accept_rt[Chain_10]
+16688 0.03030303
+Accepted[Chain_10]
+16688 7
+Rejected[Chain_10]
+16688 224
+Accept_rt[Chain_11]
+16688 0.025316456
+Accepted[Chain_11]
+16688 20
+Rejected[Chain_11]
+16688 770
+Accept_rt[Chain_12]
+16688 0.024911032
+Accepted[Chain_12]
+16688 7
+Rejected[Chain_12]
+16688 274
+Accept_rt[Chain_13]
+16688 0.036144578
+Accepted[Chain_13]
+16688 6
+Rejected[Chain_13]
+16688 160
+Accept_rt[Chain_14]
+16688 0.026369168
+Accepted[Chain_14]
+16688 26
+Rejected[Chain_14]
+16688 960
+Accept_rt[Chain_15]
+16688 0.031662269
+Accepted[Chain_15]
+16688 24
+Rejected[Chain_15]
+16688 734
+Mean_accept_rt
+17744 0.025357308
+Btw_chains_mean_"(fC) Contact Rate"
+17744 17.647409
+Btw_chains_mean_"(fI) Infectivity"
+17744 0.29914985
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+17744 0.2586096
+Btw_chains_mean_"(tR) Average Time to Recovery"
+17744 0.24084844
+Btw_chains_mean_Average time to get vaccinated when infections are low
+17744 2.0226665
+Btw_chains_mean_Average time to get vaccinated when infections are high
+17744 0.017972757
+Btw_chains_mean_weightWeeklyInfected
+17744 0.048957705
+Btw_chains_mean_weightMonthlyVaccinated
+17744 0.048229735
+Btw_chains_mean_Payoff
+17744 89.601484
+Btw_chains_var_"(fC) Contact Rate"
+17744 0.21608526
+Btw_chains_var_"(fI) Infectivity"
+17744 0.0001073268
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+17744 3.374012e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+17744 5.1389016e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+17744 5.7327873e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+17744 3.7828396e-07
+Btw_chains_var_weightWeeklyInfected
+17744 2.5134322e-06
+Btw_chains_var_weightMonthlyVaccinated
+17744 2.4461516e-05
+Btw_chains_var_Payoff
+17744 -0.18922129
+Wth_chains_mean_var_"(fC) Contact Rate"
+17744 1.441409
+Wth_chains_mean_var_"(fI) Infectivity"
+17744 0.00028477464
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+17744 0.00025024799
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+17744 0.00019669312
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+17744 0.00071429835
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+17744 1.1986218e-06
+Wth_chains_mean_var_weightWeeklyInfected
+17744 2.4570248e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+17744 0.0001022305
+Wth_chains_mean_var_Payoff
+17744 -0.87544602
+PSRF_"(fC) Contact Rate"
+17744 1.149682
+PSRF_"(fI) Infectivity"
+17744 1.3766528
+PSRF_"(tInc) Average Time to Show Symptoms"
+17744 1.1345962
+PSRF_"(tR) Average Time to Recovery"
+17744 1.2610344
+PSRF_Average time to get vaccinated when infections are low
+17744 1.0800271
+PSRF_Average time to get vaccinated when infections are high
+17744 1.3153686
+PSRF_weightWeeklyInfected
+17744 1.1020652
+PSRF_weightMonthlyVaccinated
+17744 1.2390475
+PSRF_Payoff
+17744 -1.2159122
+Accept_rt[Chain_0]
+17744 0.010903427
+Accepted[Chain_0]
+17744 7
+Rejected[Chain_0]
+17744 635
+Accept_rt[Chain_1]
+17744 0.026011561
+Accepted[Chain_1]
+17744 9
+Rejected[Chain_1]
+17744 337
+Accept_rt[Chain_2]
+17744 0.025879917
+Accepted[Chain_2]
+17744 25
+Rejected[Chain_2]
+17744 941
+Accept_rt[Chain_3]
+17744 0.020325203
+Accepted[Chain_3]
+17744 5
+Rejected[Chain_3]
+17744 241
+Accept_rt[Chain_4]
+17744 0.042553191
+Accepted[Chain_4]
+17744 8
+Rejected[Chain_4]
+17744 180
+Accept_rt[Chain_5]
+17744 0.027027027
+Accepted[Chain_5]
+17744 25
+Rejected[Chain_5]
+17744 900
+Accept_rt[Chain_6]
+17744 0.031894934
+Accepted[Chain_6]
+17744 17
+Rejected[Chain_6]
+17744 516
+Accept_rt[Chain_7]
+17744 0.034836066
+Accepted[Chain_7]
+17744 17
+Rejected[Chain_7]
+17744 471
+Accept_rt[Chain_8]
+17744 0.015625
+Accepted[Chain_8]
+17744 2
+Rejected[Chain_8]
+17744 126
+Accept_rt[Chain_9]
+17744 0.021992238
+Accepted[Chain_9]
+17744 17
+Rejected[Chain_9]
+17744 756
+Accept_rt[Chain_10]
+17744 0.023569024
+Accepted[Chain_10]
+17744 7
+Rejected[Chain_10]
+17744 290
+Accept_rt[Chain_11]
+17744 0.02453271
+Accepted[Chain_11]
+17744 21
+Rejected[Chain_11]
+17744 835
+Accept_rt[Chain_12]
+17744 0.020172911
+Accepted[Chain_12]
+17744 7
+Rejected[Chain_12]
+17744 340
+Accept_rt[Chain_13]
+17744 0.030769231
+Accepted[Chain_13]
+17744 2
+Rejected[Chain_13]
+17744 63
+Accept_rt[Chain_14]
+17744 0.025665399
+Accepted[Chain_14]
+17744 27
+Rejected[Chain_14]
+17744 1025
+Accept_rt[Chain_15]
+17744 0.029126214
+Accepted[Chain_15]
+17744 24
+Rejected[Chain_15]
+17744 800
+Is_outlier[Chain_14]
+18864 -83.620593
+Mean_accept_rt
+18864 0.025418538
+Btw_chains_mean_"(fC) Contact Rate"
+18864 17.826043
+Btw_chains_mean_"(fI) Infectivity"
+18864 0.29799867
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+18864 0.25989817
+Btw_chains_mean_"(tR) Average Time to Recovery"
+18864 0.23964873
+Btw_chains_mean_Average time to get vaccinated when infections are low
+18864 2.0208562
+Btw_chains_mean_Average time to get vaccinated when infections are high
+18864 0.018113091
+Btw_chains_mean_weightWeeklyInfected
+18864 0.04897468
+Btw_chains_mean_weightMonthlyVaccinated
+18864 0.048601336
+Btw_chains_mean_Payoff
+18864 89.444531
+Btw_chains_var_"(fC) Contact Rate"
+18864 0.28880978
+Btw_chains_var_"(fI) Infectivity"
+18864 0.00011266003
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+18864 2.8667121e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+18864 4.5809761e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+18864 6.4985497e-05
+Btw_chains_var_Average time to get vaccinated when infections are high
+18864 4.210726e-07
+Btw_chains_var_weightWeeklyInfected
+18864 3.3079156e-06
+Btw_chains_var_weightMonthlyVaccinated
+18864 3.0811463e-05
+Btw_chains_var_Payoff
+18864 -0.25712019
+Wth_chains_mean_var_"(fC) Contact Rate"
+18864 1.5853907
+Wth_chains_mean_var_"(fI) Infectivity"
+18864 0.00029454293
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+18864 0.00023960162
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+18864 0.00018631947
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+18864 0.00066937425
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+18864 1.239138e-06
+Wth_chains_mean_var_weightWeeklyInfected
+18864 2.7200151e-05
+Wth_chains_mean_var_weightMonthlyVaccinated
+18864 0.00012167088
+Wth_chains_mean_var_Payoff
+18864 -1.084954
+PSRF_"(fC) Contact Rate"
+18864 1.1819653
+PSRF_"(fI) Infectivity"
+18864 1.3822869
+PSRF_"(tInc) Average Time to Show Symptoms"
+18864 1.1194408
+PSRF_"(tR) Average Time to Recovery"
+18864 1.2456626
+PSRF_Average time to get vaccinated when infections are low
+18864 1.0968798
+PSRF_Average time to get vaccinated when infections are high
+18864 1.3396067
+PSRF_weightWeeklyInfected
+18864 1.1214097
+PSRF_weightMonthlyVaccinated
+18864 1.253032
+PSRF_Payoff
+18864 -1.236783
+Accept_rt[Chain_0]
+18864 0.011235955
+Accepted[Chain_0]
+18864 8
+Rejected[Chain_0]
+18864 704
+Accept_rt[Chain_1]
+18864 0.024038462
+Accepted[Chain_1]
+18864 10
+Rejected[Chain_1]
+18864 406
+Accept_rt[Chain_2]
+18864 0.027027027
+Accepted[Chain_2]
+18864 28
+Rejected[Chain_2]
+18864 1008
+Accept_rt[Chain_3]
+18864 0.018987342
+Accepted[Chain_3]
+18864 6
+Rejected[Chain_3]
+18864 310
+Accept_rt[Chain_4]
+18864 0.034883721
+Accepted[Chain_4]
+18864 9
+Rejected[Chain_4]
+18864 249
+Accept_rt[Chain_5]
+18864 0.026130653
+Accepted[Chain_5]
+18864 26
+Rejected[Chain_5]
+18864 969
+Accept_rt[Chain_6]
+18864 0.034825871
+Accepted[Chain_6]
+18864 21
+Rejected[Chain_6]
+18864 582
+Accept_rt[Chain_7]
+18864 0.034050179
+Accepted[Chain_7]
+18864 19
+Rejected[Chain_7]
+18864 539
+Accept_rt[Chain_8]
+18864 0.015151515
+Accepted[Chain_8]
+18864 3
+Rejected[Chain_8]
+18864 195
+Accept_rt[Chain_9]
+18864 0.023724792
+Accepted[Chain_9]
+18864 20
+Rejected[Chain_9]
+18864 823
+Accept_rt[Chain_10]
+18864 0.024523161
+Accepted[Chain_10]
+18864 9
+Rejected[Chain_10]
+18864 358
+Accept_rt[Chain_11]
+18864 0.024838013
+Accepted[Chain_11]
+18864 23
+Rejected[Chain_11]
+18864 903
+Accept_rt[Chain_12]
+18864 0.016786571
+Accepted[Chain_12]
+18864 7
+Rejected[Chain_12]
+18864 410
+Accept_rt[Chain_13]
+18864 0.044444444
+Accepted[Chain_13]
+18864 6
+Rejected[Chain_13]
+18864 129
+Accept_rt[Chain_14]
+18864 0.026737968
+Accepted[Chain_14]
+18864 30
+Rejected[Chain_14]
+18864 1092
+Accept_rt[Chain_15]
+18864 0.026845638
+Accepted[Chain_15]
+18864 24
+Rejected[Chain_15]
+18864 870
+Is_outlier[Chain_14]
+20000 -85.08119
+Is_outlier[Chain_15]
+20000 -85.065123
+Mean_accept_rt
+20000 0.011282051
+Btw_chains_mean_"(fC) Contact Rate"
+20000 18.202945
+Btw_chains_mean_"(fI) Infectivity"
+20000 0.29438759
+Btw_chains_mean_"(tInc) Average Time to Show Symptoms"
+20000 0.26250557
+Btw_chains_mean_"(tR) Average Time to Recovery"
+20000 0.23830184
+Btw_chains_mean_Average time to get vaccinated when infections are low
+20000 2.0146173
+Btw_chains_mean_Average time to get vaccinated when infections are high
+20000 0.018289689
+Btw_chains_mean_weightWeeklyInfected
+20000 0.050046083
+Btw_chains_mean_weightMonthlyVaccinated
+20000 0.053609069
+Btw_chains_mean_Payoff
+20000 88.666592
+Btw_chains_var_"(fC) Contact Rate"
+20000 0.13115225
+Btw_chains_var_"(fI) Infectivity"
+20000 9.8426421e-05
+Btw_chains_var_"(tInc) Average Time to Show Symptoms"
+20000 1.3136784e-05
+Btw_chains_var_"(tR) Average Time to Recovery"
+20000 3.013656e-05
+Btw_chains_var_Average time to get vaccinated when infections are low
+20000 0.0003411656
+Btw_chains_var_Average time to get vaccinated when infections are high
+20000 1.3036567e-06
+Btw_chains_var_weightWeeklyInfected
+20000 1.2812325e-05
+Btw_chains_var_weightMonthlyVaccinated
+20000 0.00014237152
+Btw_chains_var_Payoff
+20000 -0.83434837
+Wth_chains_mean_var_"(fC) Contact Rate"
+20000 0.082288208
+Wth_chains_mean_var_"(fI) Infectivity"
+20000 6.5446301e-06
+Wth_chains_mean_var_"(tInc) Average Time to Show Symptoms"
+20000 1.9824047e-05
+Wth_chains_mean_var_"(tR) Average Time to Recovery"
+20000 1.5148546e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are low
+20000 6.9494911e-05
+Wth_chains_mean_var_Average time to get vaccinated when infections are high
+20000 2.6772007e-07
+Wth_chains_mean_var_weightWeeklyInfected
+20000 5.5824611e-06
+Wth_chains_mean_var_weightMonthlyVaccinated
+20000 6.7524247e-05
+Wth_chains_mean_var_Payoff
+20000 -0.097904961
+PSRF_"(fC) Contact Rate"
+20000 2.5917646
+PSRF_"(fI) Infectivity"
+20000 16.037213
+PSRF_"(tInc) Average Time to Show Symptoms"
+20000 1.6606178
+PSRF_"(tR) Average Time to Recovery"
+20000 2.9873516
+PSRF_Average time to get vaccinated when infections are low
+20000 5.9071658
+PSRF_Average time to get vaccinated when infections are high
+20000 5.8674254
+PSRF_weightWeeklyInfected
+20000 3.293052
+PSRF_weightMonthlyVaccinated
+20000 3.106399
+PSRF_Payoff
+20000 -9.5199722
+Accept_rt[Chain_0]
+20000 0
+Accepted[Chain_0]
+20000 0
+Rejected[Chain_0]
+20000 60
+Accept_rt[Chain_1]
+20000 0.016393443
+Accepted[Chain_1]
+20000 1
+Rejected[Chain_1]
+20000 60
+Accept_rt[Chain_2]
+20000 0.032786885
+Accepted[Chain_2]
+20000 2
+Rejected[Chain_2]
+20000 59
+Accept_rt[Chain_3]
+20000 0
+Accepted[Chain_3]
+20000 0
+Rejected[Chain_3]
+20000 61
+Accept_rt[Chain_4]
+20000 0.032786885
+Accepted[Chain_4]
+20000 2
+Rejected[Chain_4]
+20000 59
+Accept_rt[Chain_5]
+20000 0.016393443
+Accepted[Chain_5]
+20000 1
+Rejected[Chain_5]
+20000 60
+Accept_rt[Chain_6]
+20000 0.016393443
+Accepted[Chain_6]
+20000 1
+Rejected[Chain_6]
+20000 60
+Accept_rt[Chain_7]
+20000 0.016393443
+Accepted[Chain_7]
+20000 1
+Rejected[Chain_7]
+20000 60
+Accept_rt[Chain_8]
+20000 0.016393443
+Accepted[Chain_8]
+20000 1
+Rejected[Chain_8]
+20000 60
+Accept_rt[Chain_9]
+20000 0
+Accepted[Chain_9]
+20000 0
+Rejected[Chain_9]
+20000 61
+Accept_rt[Chain_10]
+20000 0
+Accepted[Chain_10]
+20000 0
+Rejected[Chain_10]
+20000 61
+Accept_rt[Chain_11]
+20000 0
+Accepted[Chain_11]
+20000 0
+Rejected[Chain_11]
+20000 61
+Accept_rt[Chain_12]
+20000 0
+Accepted[Chain_12]
+20000 0
+Rejected[Chain_12]
+20000 61
+Accept_rt[Chain_13]
+20000 0
+Accepted[Chain_13]
+20000 0
+Rejected[Chain_13]
+20000 61
+Accept_rt[Chain_14]
+20000 0.016393443
+Accepted[Chain_14]
+20000 1
+Rejected[Chain_14]
+20000 60
+Accept_rt[Chain_15]
+20000 0.016393443
+Accepted[Chain_15]
+20000 1
+Rejected[Chain_15]
+20000 60

@@ -1,0 +1,17 @@
+"(fC) Contact Rate" = 17.6599
+"(fI) Infectivity" = 0.293163
+"(tInc) Average Time to Show Symptoms" = 0.291089
+"(tR) Average Time to Recovery" = 0.207812
+Average time to get vaccinated when infections are high = 0.0149965
+Average time to get vaccinated when infections are low = 2.08292
+Average time to produce one vaccine unit = 0.25
+FINAL TIME = 24
+Initial Infected Population = 10
+Initial Susceptible Population = 9990
+INITIAL TIME = 0
+Number of vaccine units needed to vaccinate = 1
+Number of vaccines used per person = 1
+TIME STEP = 0.0078125
+Vaccine units produced per infected person = 5
+weightMonthlyVaccinated = 0.0524367
+weightWeeklyInfected = 0.0190527

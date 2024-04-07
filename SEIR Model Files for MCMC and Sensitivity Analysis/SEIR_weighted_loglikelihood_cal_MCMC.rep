@@ -1,0 +1,19 @@
+The payoff is 91.6172
+The following are the components of the payoff:
+Type	Component	Contribution	Percent	Values	Params&Data	Used	Skipped	Source	RSquare	DW	Autocor1	Autocor2	Autocor3	Autocor4	(TimeGap)	RMSE	Um	Us	Uc	MAE	MAPE	MAEoM
+*CG	Weekly Infected|Weekly Infected Data/weightWeeklyInfected	72.2423	78.8524	-14.5728	86.8151	28	1	SEIR_caldata.xlsx	0.996174	1.85935	0.058457	0.190865	0.0578669	-0.33945	0.25	1.56204	0.0101449	0.0497267	0.940128	1.02463	3.59074	2.9577
+*CG	Monthly Vaccinated|Monthly Vaccinated Data/weightMonthlyVaccinated	19.3749	21.1476	-4.26768	23.6425	7	1	SEIR_caldata.xlsx	0.99961	2.04724	-0.78336	0.123813	-0.152402	0.26666	1	0.550007	0.00205128	0.0947274	0.903221	0.42889	2.58022	1.20572
+
+Sources for exogenous variables
+Monthly Vaccinated Data	SEIR_caldata.xlsx
+Weekly Infected Data	SEIR_caldata.xlsx
+
+External sources for Constant values
+"(fC) Contact Rate"	SEIR_weighted_loglikelihood_cal.out
+"(fI) Infectivity"	SEIR_weighted_loglikelihood_cal.out
+"(tInc) Average Time to Show Symptoms"	SEIR_weighted_loglikelihood_cal.out
+"(tR) Average Time to Recovery"	SEIR_weighted_loglikelihood_cal.out
+Average time to get vaccinated when infections are high	SEIR_weighted_loglikelihood_cal.out
+Average time to get vaccinated when infections are low	SEIR_weighted_loglikelihood_cal.out
+weightMonthlyVaccinated	SEIR_weighted_loglikelihood_cal.out
+weightWeeklyInfected	SEIR_weighted_loglikelihood_cal.out

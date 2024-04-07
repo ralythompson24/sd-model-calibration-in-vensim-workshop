@@ -1,0 +1,426 @@
+{UTF-8}
+weightWeeklyInfected=
+	1
+	~	
+	~		|
+
+weightMonthlyVaccinated=
+	1
+	~	
+	~		|
+
+"(I) Infected Population"= INTEG (
+	"(Ir) Getting Infected"-"(Rr) Recovering Rate",
+		Initial Infected Population)
+	~	People
+	~	The current infected population
+	|
+
+Monthly Vaccinated Data:INTERPOLATE::=
+	GET XLS DATA('SEIR_caldata.xlsx','Sheet 1','1','B2')
+	~	
+	~		|
+
+"(N) Total Population"=
+	"(S) Susceptible Population" + "(I) Infected Population" + "(R) Recovered Population"
+	~	People
+	~		|
+
+Weekly Infected Data:INTERPOLATE::=
+	GET XLS DATA('SEIR_caldata.xlsx','Sheet 1','1','B3')
+	~	
+	~		|
+
+Rate of weekly infections=
+	"(Ir) Getting Infected"
+	~	
+	~		|
+
+"(Ir) Getting Infected"=
+	("(fC) Contact Rate"*"(fI) Infectivity"*"(S) Susceptible Population") * ("(I) Infected Population"\
+		/"(N) Total Population"
+	)
+	~	People/Month
+	~		|
+
+Rate of monthly vaccinations=
+	"(Vr) Vaccination Rate"
+	~	
+	~		|
+
+"(Vr) Vaccination Rate"=
+	((("(S) Susceptible Population" / Vaccine Supply) * Number of vaccine units needed to vaccinate\
+		) / Time to Get Vaccinated Smooth
+	)
+	~	People/Month
+	~		|
+
+"(Rr) Recovering Rate"=
+	("(I) Infected Population"/"(tR) Average Time to Recovery")
+	~	People/Month
+	~		|
+
+Rate of Vaccine Production=
+	(("(I) Infected Population" * Vaccine units produced per infected person) / Average time to produce one vaccine unit\
+		)
+	~	vaccine/Month
+	~		|
+
+Time to Get Vaccinated=
+	IF THEN ELSE(Change in number infected <=0, Average time to get vaccinated when infections are low\
+		, 
+	Average time to get vaccinated when infections are high)
+	~	
+	~		|
+
+Monthly Vaccinated= INTEG (
+	Rate of monthly vaccinations-Dropout Vaccinated from Previous Month,
+		Rate of monthly vaccinations)
+	~	
+	~		|
+
+Average time to get vaccinated when infections are low=
+	2
+	~	Month
+	~		|
+
+Change in number infected=
+	("(I) Infected Population" - Infected Population Previous Month) / Infected Population Previous Month
+	~	DMNL
+	~		|
+
+"(R) Recovered Population"= INTEG (
+	"(Rr) Recovering Rate",
+		0)
+	~	People
+	~		|
+
+Infected Population Previous Month= DELAY FIXED (
+	"(I) Infected Population", 1, 10)
+	~	
+	~		|
+
+Switch every month=
+	IF THEN ELSE(INTEGER(Time / 1) = Time / 1, 1 , 0)
+	~	
+	~		|
+
+Time to change vaccination rate=
+	IF THEN ELSE(Change in number infected <= 0, 12, 1)
+	~	Month
+	~		|
+
+"(V) Vaccinated Population"= INTEG (
+	"(Vr) Vaccination Rate",
+		0)
+	~	
+	~		|
+
+Average time to get vaccinated when infections are high=
+	0.0166667
+	~	Month
+	~		|
+
+Dropout Vaccinated from Previous Month=
+	IF THEN ELSE(Switch every month, Monthly Vaccinated / TIME STEP, 0)
+	~	
+	~		|
+
+Time to Get Vaccinated Smooth=
+	SMOOTH(Time to Get Vaccinated, Time to change vaccination rate)
+	~	Month
+	~		|
+
+"(S) Susceptible Population"= INTEG (
+	-"(Ir) Getting Infected"-"(Vr) Vaccination Rate",
+		Initial Susceptible Population)
+	~	People
+	~		|
+
+Rate of Vaccine Use=
+	Number of vaccines used per person * "(Vr) Vaccination Rate"
+	~	vaccine/Month
+	~		|
+
+Average time to produce one vaccine unit=
+	0.25
+	~	Month
+	~		|
+
+Number of vaccine units needed to vaccinate=
+	1
+	~	vaccine
+	~		|
+
+Number of vaccines used per person=
+	1
+	~	vaccine/People
+	~		|
+
+Vaccine units produced per infected person=
+	5
+	~	vaccine/People
+	~		|
+
+Vaccine Supply= INTEG (
+	Rate of Vaccine Production-Rate of Vaccine Use,
+		1000)
+	~	vaccine
+	~		|
+
+Dropout Infected from Previous Week=
+	IF THEN ELSE(Switch every week, Weekly Infected / TIME STEP, 0)
+	~	
+	~		|
+
+Switch every week=
+	IF THEN ELSE(INTEGER(Time / 0.25) = Time / 0.25, 1 , 0)
+	~	
+	~		|
+
+Weekly Infected= INTEG (
+	Rate of weekly infections-Dropout Infected from Previous Week,
+		Rate of weekly infections)
+	~	
+	~		|
+
+"(fC) Contact Rate"=
+	100
+	~	DMNL/Month
+	~	The number of persons contacted per person per month
+	|
+
+"(fI) Infectivity"=
+	0.05
+	~	DMNL
+	~	Probability of becoming infected for each contact with an infected person
+	|
+
+Initial Infected Population=
+	10
+	~	People
+	~		|
+
+Initial Susceptible Population=
+	9990
+	~	People
+	~		|
+
+"(tR) Average Time to Recovery"=
+	0.25
+	~	Month
+	~	Average time for an individual to recover.
+	|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 24
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.0078125
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Arial|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,"(S) Susceptible Population",168,9,62,39,3,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,"(I) Infected Population",603,4,62,39,3,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,"(R) Recovered Population",993,7,62,39,3,131,0,0,0,0,0,0,0,0,0,0,0,0
+1,4,6,3,4,0,0,22,0,0,0,-1--1--1,,1|(876,9)|
+1,5,6,2,100,0,0,22,0,0,0,-1--1--1,,1|(737,9)|
+11,6,0,815,9,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,7,"(Rr) Recovering Rate",815,35,61,18,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,8,"(tR) Average Time to Recovery",1001,149,67,18,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,9,2,7,1,0,43,0,2,64,0,-1--1--1,|||0-0-0,1|(712,175)|
+1,10,8,7,1,0,45,0,2,0,0,-1--1--1,|||0-0-0,1|(923,96)|
+1,11,12,1,100,0,0,22,0,192,0,-1--1--1,,1|(309,16)|
+11,12,0,394,16,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,13,"(Ir) Getting Infected",394,48,50,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,14,"(fC) Contact Rate",125,146,53,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,15,"(fI) Infectivity",203,230,56,22,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,16,"(N) Total Population",356,238,46,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,17,1,16,1,1,0,0,0,192,0,-1--1--1,,1|(300,51)|
+1,18,2,16,0,1,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,19,3,16,1,1,0,0,0,192,0,-1--1--1,,1|(861,279)|
+1,20,14,13,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,21,1,13,1,0,0,0,0,192,0,-1--1--1,,1|(274,-99)|
+1,22,15,13,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,23,2,13,1,0,0,0,0,192,0,-1--1--1,,1|(487,-50)|
+1,24,16,13,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+10,25,Initial Susceptible Population,-60,-25,52,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,26,Initial Infected Population,655,-139,61,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,27,25,1,0,0,0,0,0,192,1,-1--1--1,,1|(0,0)|
+1,28,26,2,0,0,0,0,0,192,1,-1--1--1,,1|(0,0)|
+10,29,Switch every week,1001,706,55,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,30,Time,1155,671,29,10,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|||128-128-128,0,0,0,0,0,0
+1,31,30,29,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,32,Weekly Infected,767,520,42,24,3,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,33,48,615,519,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,34,36,33,100,0,0,22,0,192,0,-1--1--1,,1|(640,519)|
+1,35,36,32,4,0,0,22,0,192,0,-1--1--1,,1|(696,519)|
+11,36,0,662,519,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,37,Rate of weekly infections,662,551,64,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,38,48,960,520,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,39,42,32,100,0,0,22,0,192,0,-1--1--1,,1|(841,520)|
+1,40,42,38,4,0,0,22,0,192,0,-1--1--1,,1|(917,520)|
+1,41,32,42,1,0,0,0,0,192,0,-1--1--1,,1|(838,463)|
+11,42,0,879,520,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,43,Dropout Infected from Previous Week,879,563,73,35,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,44,29,43,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,45,TIME STEP,1098,573,52,10,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|||128-128-128,0,0,0,0,0,0
+1,46,45,43,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,47,Vaccine Supply,968,-537,68,42,3,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,48,48,755,-541,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,49,51,48,100,0,0,22,0,192,0,-1--1--1,,1|(795,-541)|
+1,50,51,47,4,0,0,22,0,192,0,-1--1--1,,1|(868,-541)|
+11,51,0,831,-541,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,52,Rate of Vaccine Production,831,-509,69,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,53,48,1197,-537,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,54,56,47,100,0,0,22,0,192,0,-1--1--1,,1|(1070,-537)|
+1,55,56,53,4,0,0,22,0,192,0,-1--1--1,,1|(1152,-537)|
+11,56,0,1111,-537,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,57,Rate of Vaccine Use,1111,-505,55,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,58,60,1,100,0,0,22,0,192,0,-1--1--1,,1|(168,-242)|
+1,59,60,92,4,0,0,22,0,192,0,-1--1--1,,1|(717,-242)|
+11,60,0,501,-242,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,61,"(Vr) Vaccination Rate",501,-210,68,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,62,1,60,1,0,0,0,0,192,0,-1--1--1,,1|(124,-159)|
+1,63,2,52,1,0,0,0,0,192,0,-1--1--1,,1|(866,-349)|
+10,64,Vaccine units produced per infected person,649,-455,68,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,65,Average time to produce one vaccine unit,617,-535,55,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,66,65,52,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,67,64,52,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,68,47,61,1,0,0,0,0,192,0,-1--1--1,,1|(723,-332)|
+10,69,Number of vaccine units needed to vaccinate,617,-368,82,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,70,69,61,1,0,0,0,0,192,0,-1--1--1,,1|(580,-284)|
+10,71,Number of vaccines used per person,1148,-410,71,27,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,72,61,57,1,0,0,0,0,192,0,-1--1--1,,1|(1045,-421)|
+1,73,71,57,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+10,74,Monthly Vaccinated,1580,-189,50,31,3,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,75,48,1417,-197,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,76,78,75,100,0,0,22,0,192,0,-1--1--1,,1|(1444,-197)|
+1,77,78,74,4,0,0,22,0,192,0,-1--1--1,,1|(1501,-197)|
+11,78,0,1467,-197,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,79,Rate of monthly vaccinations,1467,-165,68,24,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,80,48,1775,-196,10,8,0,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,81,83,74,100,0,0,22,0,192,0,-1--1--1,,1|(1660,-196)|
+1,82,83,80,4,0,0,22,0,192,0,-1--1--1,,1|(1733,-196)|
+11,83,0,1696,-196,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+10,84,Dropout Vaccinated from Previous Month,1696,-153,71,35,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,85,Switch every month,1791,-5,55,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,86,85,84,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,87,74,83,1,0,0,0,0,192,0,-1--1--1,,1|(1644,-275)|
+10,88,Time,1787,84,29,10,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|||128-128-128,0,0,0,0,0,0
+1,89,88,85,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,90,TIME STEP,1905,-93,52,10,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|||128-128-128,0,0,0,0,0,0
+1,91,90,84,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,92,"(V) Vaccinated Population",994,-232,66,46,3,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,93,Change in number infected,78,-340,56,24,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,94,2,93,1,0,0,0,0,192,0,-1--1--1,,1|(46,-236)|
+10,95,Average time to get vaccinated when infections are low,33,-598,84,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,96,Average time to get vaccinated when infections are high,80,-757,72,27,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,97,Time to change vaccination rate,264,-450,58,18,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,98,Time to Get Vaccinated,249,-661,68,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,99,96,98,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+1,100,95,98,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+1,101,93,98,1,0,0,0,0,64,0,-1--1--1,,1|(109,-495)|
+1,102,98,103,1,0,0,0,0,192,0,-1--1--1,,1|(409,-621)|
+10,103,Time to Get Vaccinated Smooth,437,-544,52,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,104,103,61,1,0,0,0,0,192,0,-1--1--1,,1|(512,-371)|
+1,105,97,103,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+10,106,Infected Population Previous Month,-112,-329,67,35,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,107,2,106,1,0,0,0,0,192,0,-1--1--1,,1|(-157,-214)|
+1,108,106,93,0,0,0,0,0,192,0,-1--1--1,,1|(0,0)|
+1,109,93,97,0,0,0,0,0,64,0,-1--1--1,,1|(0,0)|
+1,110,61,79,1,0,0,0,0,192,0,-1--1--1,,1|(942,-110)|
+10,111,Weekly Infected Data,849,369,59,24,8,3,0,18,-1,0,0,0,0-0-0,0-0-0,||B|255-0-0,0,0,0,0,0,0
+10,112,Monthly Vaccinated Data,1468,-317,71,24,8,3,0,18,-1,0,0,0,0-0-0,0-0-0,||B|255-0-0,0,0,0,0,0,0
+10,113,weightMonthlyVaccinated,1739,-321,61,24,8,3,0,18,-1,0,0,0,0-0-0,0-0-0,||B|0-128-0,0,0,0,0,0,0
+10,114,weightWeeklyInfected,1017,426,56,26,8,3,0,18,-1,0,0,0,0-0-0,0-0-0,||B|0-128-0,0,0,0,0,0,0
+1,115,12,2,4,0,0,22,0,192,0,-1--1--1,,1|(470,16)|
+1,116,13,37,1,0,0,0,0,192,0,-1--1--1,,1|(603,324)|
+///---\\\
+:L<%^E!@
+1:SIR_with_vaccine_naivecal.vdfx
+4:Time
+5:Monthly Vaccinated
+9:SIR_with_vaccine_naivecal
+19:100,0
+24:0
+25:24
+26:24
+57:1
+54:0
+55:0
+82:1
+86:0
+59:0
+56:0
+58:0
+71:0
+110:0
+111:0
+44:0
+46:0
+45:5
+49:0
+50:0
+51:0
+52:8
+53:0.25
+43:SEIR_baserun_noisy_short.csv
+47:
+48:caldatalist.lst
+11:cal parameter list.voc
+12:naive cal payoff.vpd
+23:0
+15:1,0,0,0,0,0
+27:0,
+34:0,
+42:1
+72:0
+73:0
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+95:0
+96:0
+97:0
+77:0
+78:0
+102:1
+93:0
+94:0
+92:0
+91:0
+90:0
+87:0
+75:
+43:SEIR_baserun_noisy_short.csv
+103:8,8,8,3,8
+105:0,0,0,0,0,0,0,0,0,0
+104:Courier|12||0-0-0|0-0-0|-1--1--1|0-0-255|192-192-192|-1--1--1

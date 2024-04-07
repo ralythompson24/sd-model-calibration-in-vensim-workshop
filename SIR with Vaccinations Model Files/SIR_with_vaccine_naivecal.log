@@ -1,0 +1,20 @@
+INFO:        Initial point of search.
+INFO:          "(fC) Contact Rate" = 100.
+INFO:          "(fI) Infectivity" = 0.05.
+INFO:          "(tR) Average Time to Recovery" = 0.25.
+INFO:          Average time to get vaccinated when infections are low = 2.
+INFO:          Average time to get vaccinated when infections are high = 0.0166667.
+INFO:        Simulations = 1.
+INFO:        Pass = 0.
+INFO:        Payoff = -346477.
+INFO:        ---------------------------------.
+INFO:        Maximum payoff found at:.
+INFO:          "(fC) Contact Rate" = 37.4997.
+INFO:          "(fI) Infectivity" = 0.0590897.
+INFO:          "(tR) Average Time to Recovery" = 0.576451.
+INFO:          Average time to get vaccinated when infections are low = 3.91195.
+INFO:         *Average time to get vaccinated when infections are high = 0.00777952.
+INFO:        Simulations = 1297.
+INFO:        Pass = 3.
+INFO:        Payoff = -79.5244.
+INFO:        ---------------------------------.
